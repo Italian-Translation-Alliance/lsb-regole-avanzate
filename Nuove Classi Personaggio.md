@@ -359,9 +359,9 @@ Durata: 1 ora per livello dell'incantatore
 
 Questo incantesimo conferisce alla persona scelta un'immensa forza - la sua massa muscolare strappa i vestiti dopo il lancio. Il personaggio riceve inoltre un bonus di +2 a tutti i danni inflitti in mischia e può piegare facilmente le sbarre e sollevare oggetti pesanti.
 
-## Muro di vento
+## Muro del vento
 Livello dell'incantesimo: D3
 Raggio d'azione: 100 ft.
 Durata: 1 round per livello dell'incantatore
 
-Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (HD 1/2). Le creature con un 
+Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (HD 1/2). Le creature con HD pari a 1+ possono comunque tentare di fare breccia nel muro, ma devono effettuare un tiro salvezza per farlo.
