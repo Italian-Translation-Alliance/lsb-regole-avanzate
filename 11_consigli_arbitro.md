@@ -100,7 +100,7 @@ Molte avventure scritte per i giochi della Vecchia Scuola sono progettate con il
 
 - Assicuratevi che i giocatori sappiano che sono disponibili gregari e mercenari e che ne avranno sicuramente bisogno.
 - Permettere ad ogni giocatore di avere due personaggi. Mentre le edizioni moderne dei GDR lo rendono difficile a causa di tutte le opzioni e i poteri dei PG che un giocatore deve tenere sotto controllo, le regole più semplici e la meccanica dei personaggi di *La Scatola Bianca* significano che la maggior parte dei giocatori un po' esperti possono giocare due personaggi senza molti problemi.
-- Usate le modifiche alle regole speciali nel capitolo **Gruppi di avventurieri ridotti**.
+- Usate le modifiche alle regole speciali nel capitolo **Gruppi ridotti**.
 - Calibrate le sfide in modo che corrispondano meglio al numero di giocatori al vostro tavolo.
 
 Una combinazione di queste opzioni è anche una soluzione praticabile.
