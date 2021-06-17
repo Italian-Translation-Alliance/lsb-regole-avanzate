@@ -1,4 +1,4 @@
-# Capitolo 12: Gruppi ridotti
+# Capitolo 10: Gruppi ridotti
 
 Condurre le avventure OSR con un solo personaggio
 
