@@ -10,7 +10,7 @@ La Scatola Bianca - Regole Avanzate Indice
 -  **Capitolo 7:** Esplorazione Avanzata (Meteo + Marina + Aerea)
 -  **Capitolo 8:** Mostri Aggiuntivi 
 -  **Capitolo 9:**  Regole Costruzione Domini
--   **Capitolo 10:** Regole per Piccoli Gruppi
+-   **Capitolo 10:** Gruppi ridotti
 -  **Capitolo 11:** Consigli Arbitro di Gioco
 -  **Capitolo 12:** Tabelle Random (Dungeon Patron)
 - **Appendice**: Nota sul Materiale

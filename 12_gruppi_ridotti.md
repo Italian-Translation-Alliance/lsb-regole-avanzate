@@ -1,4 +1,4 @@
-# Eroi solitari
+# Gruppi ridotti
 
 Condurre le avventure OSR con un solo personaggio
 
