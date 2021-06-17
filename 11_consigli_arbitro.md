@@ -1,4 +1,4 @@
-# Consigli per l'Arbitro
+# Capitolo 11: Consigli per l'Arbitro
 
 Questo capitolo fornisce alcuni consigli per l'Arbitro. Si noti che si tratta solo di suggerimenti e non dovrebbe essere preso come l'unico (o il migliore) modo di fare le cose.
 

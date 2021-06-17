@@ -1,4 +1,4 @@
-# Esplorazione avanzata
+# Capitolo 7: Esplorazione avanzata
 
 *La Scatola Bianca* contiene le regole di base per l'esplorazione delle Terre Selvagge. Per i gruppi di giocatori che volessero approfondire questo aspetto del gioco, questo capitolo fornisce regole più approfondite.
 
