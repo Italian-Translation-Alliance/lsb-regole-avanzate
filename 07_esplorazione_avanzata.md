@@ -10,7 +10,7 @@
 
 | Tiro 2d6 | Terreno casuale adiacente all'esagono di tipo noto |          |          |          |          |        |
 |----------|----------------------------------------------------|----------|----------|----------|----------|--------|
-| 2-12     | Terreno                                            | Aperto   | Bosco    | Montagna | Deserto  | Palude |
+|          | Terreno                                            | Aperto   | Bosco    | Montagna | Deserto  | Palude |
 | 2        | Deserto                                            | Deserto  | Aperto   | Aperto   | Montagna |        |
 | 3        | Deserto                                            | Aperto   | Montagna | Aperto   | Montagna | Palude |
 | 4        | Aperto                                             | Aperto   | Bosco    | Deserto  | Montagna | Palude |
@@ -156,6 +156,7 @@ Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro 
 | 19       | Vermi viola             | Unicorni                    | Serpenti, grande/ gigante     |
 | 20       | Titanotteri             | Donnole, giganti            | Ragni, grandi/ giganti        |
 
+
 | Tiro d20 | Montagna                   | Deserto                     | Artico                     |
 |----------|----------------------------|-----------------------------|----------------------------|
 | 1        | Orsi delle caverne         | Formiche, giganti           | Orsi delle caverne         |
@@ -178,6 +179,7 @@ Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro 
 | 18       | Tigri dai denti a sciabola | Salamandre                  | Lupi, giganti              |
 | 19       | Troll                      | Scorpioni, giganti          | Mammut lanosi              |
 | 20       | Viverne                    | Serpenti, grandi            | Rinoceronti lanosi         |
+
 
 | Tiro d20 | Palude                     | Città                   | Necropoli                     |
 |----------|----------------------------|-------------------------|-------------------------------|
@@ -239,7 +241,7 @@ L'arbitro può usare le seguenti tabelle per generare regioni oceaniche per la n
 
 | Tiro 2d6 | Mare casuale adiacente all'esagono di tipo noto |          |          |         |         |          |
 |----------|-------------------------------------------------|----------|----------|---------|---------|----------|
-| 2-12     | Terreno                                         | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
+|          | Terreno                                         | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
 | 2        | Isola                                           | Isola    | Oceano   | Oceano  | Scoglio |          |
 | 3        | Isola                                           | Oceano   | Scoglio  | Oceano  | Scoglio | Tempesta |
 | 4        | Oceano                                          | Oceano   | Costa    | Isola   | Scoglio | Tempesta |
@@ -401,7 +403,7 @@ L'arbitro può usare le seguenti tabelle per generare regioni in cima alle nuvol
 
 | Tiro 2d6 | Regione area casuale adiacente all'esagono di tipo noto |          |          |          |          |        |
 |----------|----------------------------------------------------|----------|----------|----------|----------|--------|
-| 2-12     | Terreno                                            | Aria   | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
+|          | Terreno                                            | Aria   | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
 | 2        | Nube inconsistente                                            | Nube inconsistente  | Aria   | Aria   | Montagna fluttuante \* |        |
 | 3        | Nube inconsistente                                            | Aria   | Montagna fluttuante \* | Aria   | Montagna fluttuante \* | Tempesta |
 | 4        | Aria                                             | Aria   | Nube solida    | Nube inconsistente  | Montagna fluttuante \* | Tempesta |
