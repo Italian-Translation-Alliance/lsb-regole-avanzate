@@ -1,7 +1,67 @@
-# Il Bardo
+# L'Assassino
+Gli assassini sono assassini a pagamento con abilità di il sotterfugio e l'omicidio. Essi eccellono nell'uso del veleno e possono ricevere grandi ricompense per i loro servizi.
+
+Gli assassini possono avanzare fino al 10° livello. Possono usare qualunque oggetto magico usabile anche dai Ladri. Gli assassini sono di solito umani ma a discrezione dell'Arbitro anche i Mezz'Orchi possono essere assassini. Gli Assassini sono solitamente Caotici ma qualcuno potrebbe essere di allineamento Neutrale. La loro professione significa che non possono essere Legali nella maggior parte delle società. 
+
+| Livello 	| Esperienza 	| Dado Vita 	| Per Colpire 	| Tiro Salvezza 	| Assassinare 	|
+|:-------:	|:----------:	|:---------:	|:-----------:	|:-------------:	|:-----------:	|
+|    1    	|      0     	|     1     	|      +0     	|       14      	|      2      	|
+|    2    	|    1.500   	|     2     	|      +0     	|       13      	|      2      	|
+|    3    	|    3.000   	|     3     	|      +1     	|       12      	|      2      	|
+|    4    	|    6.000   	|    3+1    	|      +1     	|       11      	|      3      	|
+|    5    	|   12.000   	|     4     	|      +2     	|       10      	|      3      	|
+|    6    	|   24.000   	|     5     	|      +2     	|       9       	|      3      	|
+|    7    	|   48.000   	|     6     	|      +3     	|       8       	|      4      	|
+|    8    	|   96.000   	|    6+1    	|      +3     	|       7       	|      4      	|
+|    9    	|   192.000  	|     7     	|      +4     	|       6       	|      4      	|
+|    10   	|   384.000  	|     8     	|      +5     	|       5       	|      5      	|
+
+## Abilità dell'Assassino
+### Restrizioni su armi ed armature
+Gli assassini possono usare qualunque armi ma sono limitati all'armatura di cuoio; possono usare scudi. 
+### Pugnalata alla schiena
+Gli assassini possono pugnalare alle spalle un avversario che non è consapevole della sua presenza (di solito a causa della sorpresa), ricevendo +2 sul tiro per colpire. L'assassino è ancora più letale del Ladro nel pugnalare alle spalle ladro, tirando il dado del danno tre volte per un colpo riuscito.
+### Assassinare
+Gli assassini possono portare a termine un complotto per uccidere il loro bersaglio. Il giocatore deve descrivere il complotto e tirare 1d6: la gamma di successo è data per l'abilità dell'Assassino in questo.
+
+Se il tiro ha successo, il complotto funziona come previsto. La vittima deve ancora fallire un tiro salvezza contro veleno o trappole per essere uccisa. Se usato in combattimento, un uso riuscito di Assassinare permette all'Assassino di
+posizionarsi per una pugnalata alla schiena con un'arma da mischia nel round successivo.
+
+**L'abilità Assassinare può essere utilizzata usata una sola volta su un bersaglio.** Se il bersaglio sopravvive, l'Assassino non può usare Assassinare su di lui finché non è avanzato di un livello.
+
+L'abilità Assassinare può anche essere usata per individuare una trappola o rimuovere una trappola. Le trappole create dagli Assassini possono fare una delle seguenti cose seguenti se il tiro per Assassinare è successo quando vengono attivate: infliggere 1d6 danni, far sì che il bersaglio salvi contro Veleno o morire o causare la cattura del bersaglio catturato per 1d6 round.
+> **Suggerimento:** L'arbitro dovrebbe tirare un d6 econfrontarlo con l'abilità Assassinare e informare il giocatore se la trappola è stata piazzata con successo dopo che è stata attivata.
+Gli assassini vengono pagati per missioni di successo
+e possono guadagnare XP pari al invece del livello/dadi di successo del bersaglio. Tuttavia, sono tenuti a dare metà dell'oro che guadagnano alla loro gilda.
+
+| Livello 	|   Ricompensa   	|
+|:-------:	|:--------------:	|
+|   1-2   	| 100 / missione 	|
+|   3-5   	|  500/missione  	|
+|   6-8   	|  1000/missione 	|
+|   9-10  	|  5000/missione 	|
+
+Al 9° e 10° livello, il Maestro Assassino di solito manda in missione assassini minori in missione e raccoglie la metà dei loro compensi.
+
+## Veleno
+Gli assassini possono acquisire e usare il Veleno. Una
+dose di Veleno costa 50gp. Il veleno può essere messo nel cibo o nelle bevande o applicato ad un'arma affilata (incluse
+frecce e quadrelli). Se un bersaglio prende qualsiasi danno da un'arma avvelenata, deve salvare contro Veleno o morire. Il
+Veleno viene rimosso dall'arma, che il bersaglio muoia o meno.
+> **Suggerimento:** il veleno rimane "fresco" su un'arma per un turno di dieci minuti, quindi l'assassino deve usarlo subito dopo averlo applicato il veleno. Non portare in giro armi pre-avvelenate in giro "non si sa mai".
+Non-morti, golem, demoni, elementali e creature fatate non sono vulnerabili a Veleno.
+## Tiri Salvezza 
+Gli assassini guadagnano un bonus di +2 contro veleni e trappole.
+## Fondare una Gilda
+Al nono livello, un Assassino può costruire un nascondiglio segreto in una città. Egli diventa un Maestro Assassino e attira
+i servizi di una banda di assassini di livello inferiore che imparano da lei o lui e gli pagano una parte dei loro guadagni in cambio di protezione dalla legge.
+## Disgusto
+L'uso del veleno è deplorato in una società civilizzata. **Ogni volta che l'Assassino usa il Veleno, ogni compagno di avventura guadagna un punto Disgusto.** Alla fine di un avventura, i PC perdono -05% di tutta esperienza guadagnata per ogni punto Disgusto. L'Assassino può tentare di usare Veleno di nascosto: l'abilità Assassinio può anche essere usata per impedire ai compagni di guadagnare Disgusto quando si usa il Veleno
+(questo è un tiro separato dal tiro per assassinare un bersaglio). Tuttavia, l'avvelenamento segreto avvelenamento è ancora più inquietante per i compagni, quindi se questo stratagemma fallisce gli altri avventurieri guadagnano 2 punti Disgusto.
+# Bardo
 Menestrelli, artisti, poeti... i bardi hanno molti nomi. Li incontrerete nella maggior parte delle taverne dove cantano canzoni di potenti uccisori di draghi e di terre mistiche oltre l'orizzonte conosciuto.
 
-I bardi sono avventurieri purosangue e cacciatori di tesori... o per essere più precisi -- _cacciatori di avventure_. I bardi sono esperti in molte aree e sono custodi di tradizioni. Giocano un ruolo di supporto nel partito - possono non essere così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
+I bardi sono avventurieri purosangue e cacciatori di tesori... o per essere più precisi -- _cacciatori di avventure_. I bardi sono esperti in molte aree e sono3 custodi di tradizioni. Giocano un ruolo di supporto nel partito - possono non essere così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
 
 ### Avanzamento del Bardo
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | Sapienza |
@@ -223,168 +283,3 @@ Un paladino di decimo livello diventa un campione del bene. A questo livello il 
 
 ### Bonus di esperienza per il Carisma
 Il Carisma è l'attributo principale dei paladini, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
-
-# Lista Incantesimi Druido
-
-|            Livello 1           	|      Livello 2     	|
-|:------------------------------:	|:------------------:	|
-|             Bacche             	|   Forza Selvaggia  	|
-|            Bagliore            	| Messaggero animale 	|
-| Conoscere il tempo atmosferico 	|       Nebbia       	|
-|      Incantare un animale      	|  Piegare il Legno  	|
-|     Individuare un animale     	|                    	|
-|  Individuare trappole e fosse  	|                    	|
-
-| Livello 3          	| Livello 4           	|
-|--------------------	|---------------------	|
-| Cerchio protettivo 	| Camminare nell'aria 	|
-| Chiamare fulmine   	| Chiamare un mostro  	|
-| Evocare un animale 	| Passo dell'albero   	|
-| Muro del vento     	|                     	|
-
-|       Livello 5      	| Livello 6 	|
-|:--------------------:	|:---------:	|
-|   Esplosione Solare  	|    ???    	|
-| Risvegliare l'albero 	|           	|
-|       Terremoto      	|           	|
-
-## Bacche
-Livello dell'incantesimo: D1
-Portata: Nessuno
-Durata: Finché non viene mangiato
-
-Il druido crea 1d6 bacche magiche nella sua mano. Ogni bacca ripristina 1 PF quando viene mangiata. Tutte le bacche magiche appassiscono al tramonto.
-
-## Bagliore
-Livello dell'incantesimo: D1
-Raggio d'azione: 25 piedi
-Durata: Istantanea
-
-Questo incantesimo spara un piccolo bagliore magico dal dito del druido. Il bagliore può stordire un nemico per 1d6 round (tiro salvezza possibile). Non funziona sui mostri che non hanno occhi o non possono vedere.
-
-## Camminare nell'aria
-Livello dell'incantesimo: D4
-Portata: Incantatore
-Durata: 30 minuti
-
-Il druido può camminare sull'aria, come se fosse un terreno solido. I venti forti possono rompere l'incantesimo.
-
-## Cerchio protettivo
-Livello dell'incantesimo: D3
-Raggio d'azione: 20 piedi
-Durata: 2 minuti per livello dell'incantatore
-
-Questo incantesimo crea un cerchio magico stazionario intorno al druido, che blocca completamente fuoco, fulmini, acqua e ghiaccio.
-
-## Chiamare il fulmine
-Livello dell'incantesimo: D3
-Raggio d'azione: 240 piedi
-Durata: Istantanea
-
-Un fulmine si abbatte sul bersaglio scelto e infligge 1d6 danni per livello dell'incantatore. Infligge 1d6 aggiuntivi se usato all'aperto e altri 1d6 se il bersaglio indossa oggetti metallici.
-
-## Chiamare un mostro
-Livello dell'incantesimo: D4
-Raggio d'azione: n/a
-Durata: Istantanea
-
-Questo incantesimo richiama dalla natura un mostro casuale, a seconda del tipo di terreno in cui l'incantesimo è stato lanciato. C'è una probabilità di 1-2 che il mostro sia neutrale nei confronti del druido. Anche se ostile, il mostro attaccherà sempre per primo i nemici del druido.
-
-## Conoscere il Tempo Atmosferico
-Livello dell'incantesimo: D1
-Raggio d'azione: 2 miglia per livello dell'incantatore
-Durata: Istantanea
-
-Questo incantesimo permette al druido di prevedere il tempo nella posizione corrente. La previsione è per le prossime 12 ore.
-
-## Esplosione Solare
-Livello dell'incantesimo: D5
-Raggio d'azione: 300 piedi
-Durata: Istantanea
-
-Questo incantesimo crea un globo esplosivo (80 piedi) di luce. Tutte le creature all'interno del globo diventano cieche e subiscono 1d6 punti di danno per livello dell'incantatore.
-
-## Evocare un animale
-Livello dell'incantesimo: D3
-Raggio d'azione: 90 piedi
-Durata: 1 giorno
-
-Questo incantesimo evoca un alleato animale con 4 DV. Il druido può anche dividere i DV in creature più piccole (per esempio: può evocare quattro animali con 1 DV). Tutti gli animali evocati scompaiono alla fine del giorno.
-
-## Forza selvaggia
-Livello dell'incantesimo: D2
-Portata: Incantatore o tocco
-Durata: 1 ora per livello dell'incantatore
-
-Questo incantesimo conferisce alla persona scelta un'immensa forza - la sua massa muscolare strappa i vestiti dopo il lancio. Il personaggio riceve inoltre un bonus di +2 a tutti i danni inflitti in mischia e può piegare facilmente le sbarre e sollevare oggetti pesanti.
-
-## Incantare un animale
-Livello dell'incantesimo: D1
-Raggio d'azione: 120 piedi
-Durata: Finché non viene annullato
-
-Questo incantesimo funziona allo stesso modo dell'incantesimo Ammaliare Persone dell'Mago, ma colpisce gli animali.
-
-## Individuare un animale
-Livello dell'incantesimo: D1
-Raggio d'azione: 90 piedi
-Durata: 1 minuto per livello
-
-Funziona allo stesso modo dell'incantesimo Localizzare oggetto, ma ha effetto sugli animali.
-
-## Individuare trappole e fosse
-Livello dell'incantesimo: D1
-Raggio d'azione: 90 piedi
-Durata: Istantanea
-
-Funziona allo stesso modo dell'incantesimo Trovare trappole, ma colpisce le trappole e le fosse.
-
-## Messaggero animale
-Livello dell'incantesimo: D2
-Portata: Nessuno
-Durata: Fino alla consegna del messaggio
-
-Il Druido evoca un piccolo animale nella sua mano (per esempio: un uccello, un ratto), che cercherà di raggiungere il suo destinatario. Il druido può allegare una pergamena con un messaggio all'animale. Quando il messaggero raggiunge il suo destinatario -- scompare.
-
-## Muro del vento
-Livello dell'incantesimo: D3
-Raggio d'azione: 100 piedi
-Durata: 1 round per livello dell'incantatore
-
-Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (DV 1/2). Le creature con HD pari a 1+ possono comunque tentare di fare breccia nel muro, ma devono effettuare un tiro salvezza per farlo.
-
-## Nebbia
-Livello dell'incantesimo: D2
-Raggio d'azione: 250 piedi
-Durata: Finché non viene dissipato
-
-Questo incantesimo crea una fitta nebbia magica nell'area. Ogni creatura, tranne il druido, riesce a malapena a vedere in questa nebbia e riceve una penalità di -4 ai colpi mentre cerca di combattere in queste condizioni.
-
-## Passo dell'albero
-Livello dell'incantesimo: D4
-Raggio d'azione: Incantatore
-Durata: 1 ora per livello dell'incantatore
-
-Questo incantesimo permette al druido di fondersi (nascondersi all'interno) con un albero. Dopo la fusione, il druido può "teletrasportarsi" liberamente in un altro albero vicino dello stesso tipo.
-Il druido deve lasciare l'albero se la durata dell'incantesimo termina, o se l'albero viene abbattuto o bruciato.
-
-## Plasmare il Legno
-Livello dell'incantesimo: D2
-Raggio d'azione: 30 piedi
-Durata: Permanente
-
-Questo incantesimo fa sì che il legno si pieghi e si deformi, distruggendo permanentemente la sua linearità, forma e forza. Una porta deformata si apre (o rimane bloccata, richiedendo una prova di Forza per aprirla, a tua scelta). Una barca o una nave ha una perdita. Le armi a distanza deformate sono inutili. In alternativa, puoi scardinare il legno (riportandolo effettivamente alla normalità) con questo incantesimo, raddrizzando il legno che è stato deformato da questo incantesimo o da altri mezzi.
-
-## Risvegliare l'albero
-Livello dell'incantesimo: D5
-Raggio d'azione: Toccare
-Durata: Fino alla distruzione
-
-Questo incantesimo trasforma un albero toccato in un treant amichevole. I suoi DV dipendono dalle dimensioni dell'albero.
-
-## Terremoto
-Livello dell'incantesimo: D5
-Raggio d'azione: 600 piedi
-Durata: fino a 1 minuto/round per livello dell'incantatore
-
-Questo incantesimo crea una potente scossa, che distrugge strutture, fa crollare tunnel e apre crepe nel terreno. Tutte le creature (tranne il druido) nel raggio d'azione cadono a terra e non possono agire, finché il druido continua a lanciare l'incantesimo (vedi Durata).
