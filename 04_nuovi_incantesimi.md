@@ -126,7 +126,7 @@ Livello dell'incantesimo: D3
 Raggio d'azione: 100 piedi
 Durata: 1 round per livello dell'incantatore
 
-Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (DV 1/2). Le creature con HD pari a 1+ possono comunque tentare di fare breccia nel muro, ma devono effettuare un tiro salvezza per farlo.
+Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (DV 1/2). Le creature con DV pari a 1+ possono comunque tentare di fare breccia nel muro, ma devono effettuare un tiro salvezza per farlo.
 
 ### Nebbia
 Livello dell'incantesimo: D2
@@ -163,3 +163,76 @@ Raggio d'azione: 600 piedi
 Durata: fino a 1 minuto/round per livello dell'incantatore
 
 Questo incantesimo crea una potente scossa, che distrugge strutture, fa crollare tunnel e apre crepe nel terreno. Tutte le creature (tranne il druido) nel raggio d'azione cadono a terra e non possono agire, finché il druido continua a lanciare l'incantesimo (vedi Durata).
+
+# Incantesimi Illusionista
+Qui ci sono sei incantesimi aggiuntivi da mago
+che gli illusionisti possono utilizzare.
+
+### Incanto udibile
+Livello: M1
+Raggio d'azione: 120ft
+Durata: Finché non viene negato o dissipato.
+Questo incantesimo crea un'illusione udibile. Può
+durare fino a un minuto, contenere fino a una dozzina di
+parole pronunciate, essere forte come la porta di un fienile
+sbattere e può ripetersi ogni giorno a una certa ora
+ora o ripetersi continuamente.
+
+### Schema Ipnotico
+Livello: M2
+Raggio d'azione: 120ft
+Durata: Concentrazione
+L'incantatore crea un modello ipnotizzante di luci che tiene gli spettatori incantati mentre lo mantiene. Non c'è un tiro salvezza e l'incantesimo incantesimo colpisce 4d6 creature fino a 1DV, 2d6
+creature fino a 4DV o 1d6 creature fino a 6DV.
+
+### Invisibilità migliorata
+Livello: M3
+Raggio d'azione: Tocco
+Durata: 1 ora
+
+Il destinatario di questo incantesimo diventa invisibile
+per un'ora e rimane invisibile anche se lancia incantesimi o attacca gli avversari. Gli attacchi contro il personaggio invisibile sono a -4 per Colpire ed il personaggio invisibile si salva a +4 contro gli attacchi che lo bersagliano o che
+possono essere schivati.
+
+### Evocare le ombre
+Livello: M4
+Raggio d'azione: 30ft
+Durata: 1 giorno
+
+L'incantatore evoca 1d4 ombre che eseguiranno i suoi ordini e poi se ne andranno. Le Ombre vengono dissipate dal tocco della luce del sole.
+
+### Caos
+Livello: M5
+Raggio d'azione: 120ft
+Durata: Finché non viene negato o dissipato
+
+Tutte le creature entro un'area di 30 piedi x 30 piedi
+diventano confuse finché non lasciano l'area.
+
+### Spettro
+Livello: M6
+Portata: Tocco
+Durata: Indefinita
+
+Una persona morta di recente viene restituita come Spettro con la loro personalità e i loro ricordi intatti. Devono essere morti
+entro 1 ora per livello dell'incantatore. Lo Spettro ha DV pari alla metà del livello della persona morta.
+
+## Consigli per gli Arbitri
+L'Arbitro deve decidere sulle illusioni caso per caso.
+caso per caso.
+
+Le illusioni non sono reali: gli oggetti illusori
+non sopportano peso. Tuttavia, le creature
+che credono in un'illusione (fallendo il loro
+tiro salvezza quando la toccano) non potranno
+non saranno in grado di camminarci attraverso e sarà
+come se fossero rimbalzate da
+qualcosa di solido.
+
+Se una persona subisce un danno da un effetto illusorio (ad esempio, cade perché crede che il suo balcone sia crollato o pensa che un ramo illusorio sia caduto su di lui), infliggi il danno illusorio per una normale caduta o colpo (1d6, di solito) e questo danno è guarito 1d6 round dopo l'incontro finisce o l'illusionista se ne va o viene messo fuori combattimento.
+I mostri illusori hanno i loro normali punti ferita punti ferita e gli attacchi normali, ma infliggono danni illusori. Se vengono "uccisi" diventano cadaveri illusori ma questi svaniscono
+dopo 1d6 round, il che allerterà gli osservatori della loro natura illusoria e porteranno coloro che hanno subito danni dall'illusione a riacquistare tutti i loro PF.
+
+Non-morti senza cervello, golem e creature fatate (inclusi gli Gnomi) sono immuni alle illusioni. Gli animali sono
+influenzati dalle illusioni, poiché le illusioni intervengono su qualsiasi senso che una creatura tenda ad usare.
+
