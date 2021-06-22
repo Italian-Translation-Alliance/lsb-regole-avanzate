@@ -182,7 +182,7 @@ ora o ripetersi continuamente.
 Livello: M2
 Raggio d'azione: 120ft
 Durata: Concentrazione
-L'incantatore crea un modello ipnotizzante di luci che tiene gli spettatori incantati mentre lo mantiene. Non c'è un tiro salvezza e l'incantesimo incantesimo colpisce 4d6 creature fino a 1DV, 2d6
+L'incantatore crea un'immagine ipnotizzante di luci che tiene gli spettatori incantati mentre lo mantiene. Non c'è un tiro salvezza e l'incantesimo incantesimo colpisce 4d6 creature fino a 1DV, 2d6
 creature fino a 4DV o 1d6 creature fino a 6DV.
 
 ### Invisibilità migliorata
