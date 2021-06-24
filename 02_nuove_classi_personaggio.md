@@ -5,7 +5,7 @@ Gli assassini sono assassini a pagamento con abilità di il sotterfugio e l'omic
 
 Gli assassini possono avanzare fino al 10° livello. Possono usare qualunque oggetto magico usabile anche dai Ladri. Gli assassini sono di solito umani ma a discrezione dell'Arbitro anche i Mezz'Orchi possono essere assassini. Gli Assassini sono solitamente Caotici ma qualcuno potrebbe essere di allineamento Neutrale. La loro professione significa che non possono essere Legali nella maggior parte delle società. 
 
-#### Avanzamento dell'Assassino
+#### Tabella 1: Avanzamento dell'Assassino
 
 | Livello | Esperienza | Dado Vita | Per Colpire | Tiro Salvezza | Assassinare |
 |:-------:|:----------:|:---------:|:-----------:|:-------------:|:-----------:|
@@ -38,7 +38,9 @@ Se il tiro ha successo, il complotto funziona come previsto. La vittima deve anc
 
 L'abilità Assassinare può anche essere usata per individuare una trappola o rimuovere una trappola. Le trappole create dagli Assassini possono fare una delle seguenti cose seguenti se il tiro per Assassinare è successo quando vengono attivate: infliggere 1d6 danni, far sì che il bersaglio salvi contro Veleno o morire o causare la cattura del bersaglio catturato per 1d6 round.
 
-> **Suggerimento:** L'arbitro dovrebbe tirare un d6 econfrontarlo con l'abilità Assassinare e informare il giocatore se la trappola è stata piazzata con successo dopo che è stata attivata. Gli assassini vengono pagati per missioni di successo e possono guadagnare XP pari al invece del livello/dadi di successo del bersaglio. Tuttavia, sono tenuti a dare metà dell'oro che guadagnano alla loro gilda.
+> **Suggerimento:** L'arbitro dovrebbe tirare un d6 e confrontarlo con l'abilità Assassinare e informare il giocatore se la trappola è stata piazzata con successo dopo che è stata attivata. Gli assassini vengono pagati per missioni di successo e possono guadagnare XP pari al invece del livello/dadi di successo del bersaglio. Tuttavia, sono tenuti a dare metà dell'oro che guadagnano alla loro gilda.
+
+#### Tabella 2: Ricompense dell'Assassino
 
 | Livello |   Ricompensa   |
 |:-------:|:--------------:|
@@ -69,7 +71,7 @@ Menestrelli, artisti, poeti... i bardi hanno molti nomi. Li incontrerete nella m
 
 I bardi sono avventurieri purosangue e cacciatori di tesori... o per essere più precisi -- _cacciatori di avventure_. I bardi sono esperti in molte aree e sono3 custodi di tradizioni. Giocano un ruolo di supporto nel partito - possono non essere così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
 
-#### Avanzamento del Bardo
+#### Tabella 3: Avanzamento del Bardo
 
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | Sapienza |
 |:-------:|:----------------:|:---------:|:-----------:|:-------------:|:--------:|
@@ -112,7 +114,7 @@ A differenza dei combattenti e dei paladini, i cacciatori non passano il loro te
 
 I cacciatori non sono solo abili combattenti di supporto - possono anche seguire le tracce dei mostri, e quindi preparare il party al peggio...
 
-#### Avanzamento del Cacciatore
+#### Tabella 4: Avanzamento del Cacciatore
 
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire 	| Tiro Salvezza | Traccia |
 |:-------:|:----------------:|:---------:|:-----------:	|:-------------:|:-------:|
@@ -167,36 +169,21 @@ La magia druidica proviene da Madre Natura -- gli elementi, le piante e gli anim
 
 I druidi hanno meno incantesimi degli utenti della magia e non sono addestrati alla guerra come i chierici, ma le loro abilità speciali permettono loro di sopravvivere più a lungo nelle terre selvagge e nei dungeon.
 
-#### Avanzamento del Druido
+#### Tabella 5: Avanzamento del Druido
 
-| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza |
-|:-------:|:----------------:|:---------:|:-----------:|:-------------:|
-|    1    |         0        |     1     |      +0     |       15      |
-|    2    |       2,500      |    1+1    |      +0     |       14      |
-|    3    |       5,000      |     2     |      +0     |       13      |
-|    4    |      10,000      |    2+1    |      +1     |       12      |
-|    5    |      20,000      |     3     |      +1     |       11      |
-|    6    |      40,000      |    3+1    |      +1     |       10      |
-|    7    |      80,000      |     4     |      +2     |       9       |
-|    8    |      160,000     |    4+1    |      +2     |       8       |
-|    9    |      320,000     |     5     |      +2     |       7       |
-|    10   |      640,000     |    5+1    |      +3     |       6       |
-
-
-#### Incantesimi al giorno
-
-| Livello Druido | 1  | 2 | 3  | 4  | 5  | 6  |
-|:--------------:|:--:|:-:|:--:|:--:|:--:|:--:|
-|        1       | -  | - | -  | -  | -  | -  |
-|        2       | 1  | - | -  | -  | -  | -  |
-|        3       | 2  | 1 | -  | -  | -  | -  |
-|        4       | 2  | 2 | -  | -  | -  | -  |
-|        5       | 2  | 2 | 1  | -  | -  | -  |
-|        6       | 3  | 2 | 2  | -  | -  | -  |
-|        7       | 3  | 3 | 2  | 1  | -  | -  |
-|        8       | 3  | 3 | 2  | 2  | -  | -  |
-|        9       | 3  | 3 | 3  | 2  | 1  | -  |
-|       10       | 3  | 3 | 3  | 3  | 2  | 1  |
+|         |                  |           |             |               | Incantesimi               ||
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | 1  | 2 | 3  | 4  | 5  | 6  |
+|:-------:|:----------------:|:---------:|:-----------:|:-------------:|:--:|:-:|:--:|:--:|:--:|:--:|
+|    1    |         0        |     1     |      +0     |       15      | -  | - | -  | -  | -  | -  |
+|    2    |       2,500      |    1+1    |      +0     |       14      | 1  | - | -  | -  | -  | -  |
+|    3    |       5,000      |     2     |      +0     |       13      | 2  | 1 | -  | -  | -  | -  |
+|    4    |      10,000      |    2+1    |      +1     |       12      | 2  | 2 | -  | -  | -  | -  |
+|    5    |      20,000      |     3     |      +1     |       11      | 2  | 2 | 1  | -  | -  | -  |
+|    6    |      40,000      |    3+1    |      +1     |       10      | 3  | 2 | 2  | -  | -  | -  |
+|    7    |      80,000      |     4     |      +2     |       9       | 3  | 3 | 2  | 1  | -  | -  |
+|    8    |      160,000     |    4+1    |      +2     |       8       | 3  | 3 | 2  | 2  | -  | -  |
+|    9    |      320,000     |     5     |      +2     |       7       | 3  | 3 | 3  | 2  | 1  | -  |
+|    10   |      640,000     |    5+1    |      +3     |       6       | 3  | 3 | 3  | 3  | 2  | 1  |
 
 
 ### Abilità del Druido
@@ -234,35 +221,21 @@ Gli illusionisti possono avanzare fino al 10° livello. Possono utilizzare tutti
 
 Gli illusionisti sono solitamente Umani, ma a discrezione dell'Arbitro anche gli Gnomi possono essere illusionisti.
 
-#### Avanzamento dell'Illusionista
+#### Tabella 7: Avanzamento dell'Illusionista
 
-| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiri Salvezza |
-|:-------:|:----------------:|:---------:|:-----------:|:-------------:|
-|    1    |         0        |     1     |      +0     |       16      |
-|    2    |       2.750      |    1+1    |      +0     |       15      |
-|    3    |       5.000      |     2     |      +0     |       14      |
-|    4    |      11.000      |    2+1    |      +0     |       13      |
-|    5    |      22.500      |     3     |      +1     |       12      |
-|    6    |      47.500      |    3+1    |      +1     |       11      |
-|    7    |      92.000      |     4     |      +2     |       10      |
-|    8    |      175.000     |    4+1    |      +2     |       9       |
-|    9    |      350.000     |     5     |      +3     |       8       |
-|    10   |      700.000     |    5+1    |      +3     |       7       |
-
-#### Incantesimi al giorno
-
-| Livello Illusionista | 1 | 2 | 3 | 4 | 5 | 6 |
-|:--------------------:|:-:|:-:|:-:|:-:|:-:|:-:|
-|           1          | 2 | - | - | - | - | - |
-|           2          | 3 | 1 | - | - | - | - |
-|           3          | 4 | 2 | - | - | - | - |
-|           4          | 5 | 2 | 1 | - | - | - |
-|           5          | 5 | 2 | 2 | - | - | - |
-|           6          | 5 | 3 | 2 | 1 | - | - |
-|           7          | 5 | 3 | 3 | 2 | - | - |
-|           8          | 5 | 3 | 3 | 2 | 1 | - |
-|           9          | 5 | 4 | 3 | 3 | 2 | - |
-|          10          | 5 | 4 | 3 | 3 | 2 | 1 |
+|         |                  |           |             |               | Incantesimi          ||
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiri Salvezza | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-------:|:----------------:|:---------:|:-----------:|:-------------:|:-:|:-:|:-:|:-:|:-:|:-:|
+|    1    |         0        |     1     |      +0     |       16      | 2 | - | - | - | - | - |
+|    2    |       2.750      |    1+1    |      +0     |       15      | 3 | 1 | - | - | - | - |
+|    3    |       5.000      |     2     |      +0     |       14      | 4 | 2 | - | - | - | - |
+|    4    |      11.000      |    2+1    |      +0     |       13      | 5 | 2 | 1 | - | - | - |
+|    5    |      22.500      |     3     |      +1     |       12      | 5 | 2 | 2 | - | - | - |
+|    6    |      47.500      |    3+1    |      +1     |       11      | 5 | 3 | 2 | 1 | - | - |
+|    7    |      92.000      |     4     |      +2     |       10      | 5 | 3 | 3 | 2 | - | - |
+|    8    |      175.000     |    4+1    |      +2     |       9       | 5 | 3 | 3 | 2 | 1 | - |
+|    9    |      350.000     |     5     |      +3     |       8       | 5 | 4 | 3 | 3 | 2 | - |
+|    10   |      700.000     |    5+1    |      +3     |       7       | 5 | 4 | 3 | 3 | 2 | 1 |
 
 
 ### Abilità dell'Illusionista
@@ -288,7 +261,7 @@ I monaci sono artisti marziali che lottano per la perfezione corporea e spiritua
 
 I monaci di solito viaggiano per la terra in cerca di degni avversari. Ogni monaco si è addestrato in un monastero, che ha le proprie regole, filosofie e tecniche di combattimento. Il monaco non sarà resistente quanto un guerriero, ma è meno ingombrante, può risolvere alcuni problemi più velocemente e non dipende molto dall'equipaggiamento.
 
-#### Avanzamento del Monaco
+#### Tabella (: Avanzamento del Monaco
 
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | Arti Marziali |
 |:-------:|:----------------:|:---------:|:-----------:|:-------------:|:-------------:|
@@ -330,6 +303,8 @@ La saggezza è l'attributo principale dei monaci, il che significa che un punteg
 I paladini sono santi cavalieri asceti della legge e della virtù. I combattenti possono combattere per il gusto di farlo, i paladini invece seguono un codice rigoroso - ogni loro colpo di spada ha un significato e una conseguenza. I paladini sono guerrieri mistici che sono la rovina di tutta la tirannia e del male. Molti paladini servono anche un dio legittimo.
 
 I paladini devono essere sempre legali, anche se esistono cavalieri neri malvagi (anti-paladini) che possono essere scelti se l'arbitro è d'accordo.
+
+#### Tabella 9: Avanzamento del Paladino
 
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | Orgoglio |
 |:-------:|:----------------:|:---------:|:-----------:|:-------------:|:--------:|
@@ -373,35 +348,21 @@ I ranger sono uomini di frontiera e scout che proteggono la gente dei regni paci
 
 I ranger di solito sono Umani, ma a discrezione della discrezione dell'arbitro, Elfi o Mezz'Orchi possono anche essere Ranger.
 
-#### Avanzamento del Ranger
+#### Tabella 10: Avanzamento del Ranger
 
-| Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza | Sopravvivenza |
-|:-------:|:----------------:|:---------:|:-----------:|:-------------:|:-------------:|
-|    1    |         0        |     2     |      +0     |       15      |       2       |
-|    2    |       2.750      |     3     |      +0     |       14      |       2       |
-|    3    |       5.500      |    3+1    |      +1     |       13      |       2       |
-|    4    |      11.000      |     4     |      +2     |       12      |       3       |
-|    5    |      22.000      |     5     |      +3     |       11      |       3       |
-|    6    |      44.000      |     6     |      +3     |       10      |       3       |
-|    7    |      88.000      |    6+1    |      +4     |       9       |       4       |
-|    8    |      176.000     |     7     |      +4     |       8       |       4       |
-|    9    |      352.000     |     8     |      +5     |       7       |       4       |
-|    10   |      704.000     |     9     |      +6     |       6       |       5       |
-
-#### Incantesimi al giorno
-
-| Livello Ranger | 1 | 2 | 3 | 4 |
-|:--------------:|:-:|:-:|:-:|:-:|
-|        1       | - | - | - | - |
-|        2       | - | - | - | - |
-|        3       | 1 | - | - | - |
-|        4       | 2 | - | - | - |
-|        5       | 2 | 1 | - | - |
-|        6       | 2 | 2 | - | - |
-|        7       | 2 | 2 | 1 | - |
-|        8       | 3 | 2 | 2 | - |
-|        9       | 3 | 2 | 2 | 1 |
-|       10       | 3 | 3 | 2 | 2 |
+|         |                  |           |             |               |               | Incantesimi  ||
+| Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza | Sopravvivenza | 1 | 2 | 3 | 4 |
+|:-------:|:----------------:|:---------:|:-----------:|:-------------:|:-------------:|:-:|:-:|:-:|:-:|
+|    1    |         0        |     2     |      +0     |       15      |       2       | - | - | - | - |
+|    2    |       2.750      |     3     |      +0     |       14      |       2       | - | - | - | - |
+|    3    |       5.500      |    3+1    |      +1     |       13      |       2       | 1 | - | - | - |
+|    4    |      11.000      |     4     |      +2     |       12      |       3       | 2 | - | - | - |
+|    5    |      22.000      |     5     |      +3     |       11      |       3       | 2 | 1 | - | - |
+|    6    |      44.000      |     6     |      +3     |       10      |       3       | 2 | 2 | - | - |
+|    7    |      88.000      |    6+1    |      +4     |       9       |       4       | 2 | 2 | 1 | - |
+|    8    |      176.000     |     7     |      +4     |       8       |       4       | 3 | 2 | 2 | - |
+|    9    |      352.000     |     8     |      +5     |       7       |       4       | 3 | 2 | 2 | 1 |
+|    10   |      704.000     |     9     |      +6     |       6       |       5       | 3 | 3 | 2 | 2 |
 
 ### Abilità del Ranger
 
