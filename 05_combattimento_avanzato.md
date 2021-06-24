@@ -20,9 +20,7 @@ Il difensore tira poi 1d6 per ogni dado vita e i totali vengono confrontati. Se 
 ## Combattimento in mare
 Le navi possono ingaggiare un combattimento nave-nave (o nave-mostro marino). Le navi sono trattate come mostri, avendo i dadi scafo invece dei dadi vita e i punti scafo invece dei punti ferita.
 
-#### Tabella XX: Statistiche della nave
-
-#### Tabella XX: Combattimento in mare
+#### Tabella 15: Statistiche della nave
 
 | Vascello            | Dado scafo | Artiglieria | Equipaggio                                   |
 |---------------------|------------|-------------|----------------------------------------------|
