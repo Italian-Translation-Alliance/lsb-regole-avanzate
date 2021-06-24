@@ -41,25 +41,16 @@ I mezz'orchi di solito parlano anche l'Orchesco oltre al Comune.
 ### Il Chierico-Assassino
 I **mezz'orchi** possono essere chierici-assassini multiclasse. Essi sono limitati al 6° livello.
 
-| Livello | Punti Esperienza |  Dado Vita | Per Colpire | Tiro Salvezza | Assassinare |
-|:-------:|:----------------:|:----------:|:-----------:|:-------------:|:-----------:|
-|    1    |         0        |      1     |      +0     |       14      |      2      |
-|    2    |       3.000      |      2     |      +0     |       13      |      2      |
-|    3    |       6.000      |      3     |      +0     |       12      |      2      |
-|    4    |      12.000      |     3+1    |      +1     |       11      |      3      |
-|    5    |      24.000      |      4     |      +1     |       10      |      3      |
-|    6    |      48.000      |      5     |      +2     |       9       |      3      |
+#### Tabella 11: Avanzamento del Chierico-Assassino
 
-#### Incantesimi al giorno
-
-| Livello Chierico-Assassino | 1 | 2 | 3 |
-|:--------------------------:|:-:|:-:|:-:|
-|              1             | - | - | - |
-|              2             | 1 | - | - |
-|              3             | 2 | - | - |
-|              4             | 2 | 1 | - |
-|              5             | 2 | 2 | - |
-|              6             | 2 | 2 | 1 |
+| Livello | Punti Esperienza |  Dado Vita | Per Colpire | Tiro Salvezza | Assassinare | 1 | 2 | 3 |
+|:-------:|:----------------:|:----------:|:-----------:|:-------------:|:-----------:|:-:|:-:|:-:|
+|    1    |         0        |      1     |      +0     |       14      |      2      | - | - | - |
+|    2    |       3.000      |      2     |      +0     |       13      |      2      | 1 | - | - |
+|    3    |       6.000      |      3     |      +0     |       12      |      2      | 2 | - | - |
+|    4    |      12.000      |     3+1    |      +1     |       11      |      3      | 2 | 1 | - |
+|    5    |      24.000      |      4     |      +1     |       10      |      3      | 2 | 2 | - |
+|    6    |      48.000      |      5     |      +2     |       9       |      3      | 2 | 2 | 1 |
 
 #### Restrizioni sulle armature e sulle armi
 I chierici-assassini possono indossare armature di cuoio o
@@ -81,6 +72,8 @@ I chierici-assassini ottengono un +2 per tutti i tiri salvezza tiri salvezza con
 ### Il Guerriero-Ladro
 
 **Nani**, **elfi**, **gnomi**, **halfling** e **Mezz'Orchi** possono essere multiclasse Guerriero-Ladro. Sono limitati al 6° livello.
+
+#### Tabella 12: Avanzamento del Guerriero-Ladro
 
 | Livello | Punti Esperienza |  Dado Vita | Per Colpire | Tiro Salvezza | Furto |
 |:-------:|:----------------:|:----------:|:-----------:|:-------------:|:-----:|
@@ -109,28 +102,18 @@ I Guerrieri-Ladri ottengono un bonus di +2 per tutti i tiri salvezza contro mort
 ### Il Ladro-Illusionista
 Gli gnomi possono avanzare come multiclasse nello stesso modo in cui gli elfi combinano guerriero e mago. Sono limitati all'8° livello.
 
-| Livello | Punti Esperienza |  Dado Vita | Per Colpire | Tiro Salvezza | Furto |
-|:-------:|:----------------:|:----------:|:-----------:|:-------------:|:-----:|
-|    1    |         0        |      1     |      +0     |       14      |   2   |
-|    2    |       5.000      |     1+1    |      +0     |       13      |   2   |
-|    3    |      10.000      |      2     |      +0     |       12      |   2   |
-|    4    |      20.000      |     2+1    |      +1     |       11      |   3   |
-|    5    |      40.000      |      3     |      +1     |       10      |   3   |
-|    6    |      80.000      |     3+1    |      +2     |       9       |   3   |
-|    7    |      160.000     |      4     |      +2     |       8       |   4   |
-|    8    |      320.000     |     4+1    |      +2     |       7       |   4   |
+#### Tabella 13: Avanzamento del Ladro-Illusionista
 
-#### Incantesimi al giorno
-| Livello Ladro-Illusionista | 1 | 2 | 3 | 4 |
-|:--------------------------:|:-:|:-:|:-:|:-:|
-|              1             | 1 | - | - | - |
-|              2             | 2 | - | - | - |
-|              3             | 2 | 1 | - | - |
-|              4             | 3 | 2 | - | - |
-|              5             | 4 | 2 | - | - |
-|              6             | 4 | 2 | 1 | - |
-|              7             | 4 | 3 | 2 | - |
-|              8             | 4 | 3 | 2 | 1 |
+| Livello | Punti Esperienza |  Dado Vita | Per Colpire | Tiro Salvezza | Furto | 1 | 2 | 3 | 4 |
+|:-------:|:----------------:|:----------:|:-----------:|:-------------:|:-----:|:-:|:-:|:-:|:-:|
+|    1    |         0        |      1     |      +0     |       14      |   2   | 1 | - | - | - |
+|    2    |       5.000      |     1+1    |      +0     |       13      |   2   | 2 | - | - | - |
+|    3    |      10.000      |      2     |      +0     |       12      |   2   | 2 | 1 | - | - |
+|    4    |      20.000      |     2+1    |      +1     |       11      |   3   | 3 | 2 | - | - |
+|    5    |      40.000      |      3     |      +1     |       10      |   3   | 4 | 2 | - | - |
+|    6    |      80.000      |     3+1    |      +2     |       9       |   3   | 4 | 2 | 1 | - |
+|    7    |      160.000     |      4     |      +2     |       8       |   4   | 4 | 3 | 2 | - |
+|    8    |      320.000     |     4+1    |      +2     |       7       |   4   | 4 | 3 | 2 | 1 |
 
 #### Restrizioni su armature e armi
 
