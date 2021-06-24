@@ -12,7 +12,7 @@ Di seguito sono riportati i costi delle strutture comuni, anche se qualsiasi var
 
 Fessura per le frecceQualsiasi apertura fortificata attraverso la quale possono essere scaricati i proiettili, compresi i fori per gli omicidi e le oliere.
 
-#### Tabella XX: Strutture
+#### Tabella 31: Strutture
 
 | Struttura        | Costo     |
 |------------------|-----------|
@@ -31,7 +31,7 @@ Fessura per le frecceQualsiasi apertura fortificata attraverso la quale possono 
 | Torre, quadrata  | 4.000 po  |
 | Torre, rotonda   | 10.000 po |
 
-#### Tabella XX: Apparecchiature
+#### Tabella 32: Apparecchiature
 
 | Attrezzatura           | Costo    |
 |------------------------|----------|
