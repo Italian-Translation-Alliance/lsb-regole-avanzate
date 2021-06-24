@@ -1,27 +1,27 @@
 
 ## Lista Incantesimi Druido
 
-|            Livello 1           	|      Livello 2     	|
-|:------------------------------:	|:------------------:	|
-|             Bacche             	|   Forza Selvaggia  	|
-|            Bagliore            	| Messaggero animale 	|
-| Conoscere il tempo atmosferico 	|       Nebbia       	|
-|      Incantare un animale      	|  Piegare il Legno  	|
-|     Individuare un animale     	|                    	|
-|  Individuare trappole e fosse  	|                    	|
+|            Livello 1           |      Livello 2     |
+|:------------------------------:|:------------------:|
+|             Bacche             |   Forza Selvaggia  |
+|            Bagliore            | Messaggero animale |
+| Conoscere il tempo atmosferico |       Nebbia       |
+|      Incantare un animale      |  Piegare il Legno  |
+|     Individuare un animale     |                    |
+|  Individuare trappole e fosse  |                    |
 
-| Livello 3          	| Livello 4           	|
-|--------------------	|---------------------	|
-| Cerchio protettivo 	| Camminare nell'aria 	|
-| Chiamare fulmine   	| Chiamare un mostro  	|
-| Evocare un animale 	| Passo dell'albero   	|
-| Muro del vento     	|                     	|
+| Livello 3          | Livello 4           |
+|--------------------|---------------------|
+| Cerchio protettivo | Camminare nell'aria |
+| Chiamare fulmine   | Chiamare un mostro  |
+| Evocare un animale | Passo dell'albero   |
+| Muro del vento     |                     |
 
-|       Livello 5      	| Livello 6 	|
-|:--------------------:	|:---------:	|
-|   Esplosione Solare  	|    ???    	|
-| Risvegliare l'albero 	|           	|
-|       Terremoto      	|           	|
+|       Livello 5      | Livello 6 |
+|:--------------------:|:---------:|
+|   Esplosione Solare  |    ???    |
+| Risvegliare l'albero |           |
+|       Terremoto      |           |
 
 ### Bacche
 Livello dell'incantesimo: D1
@@ -165,8 +165,7 @@ Durata: fino a 1 minuto/round per livello dell'incantatore
 Questo incantesimo crea una potente scossa, che distrugge strutture, fa crollare tunnel e apre crepe nel terreno. Tutte le creature (tranne il druido) nel raggio d'azione cadono a terra e non possono agire, finché il druido continua a lanciare l'incantesimo (vedi Durata).
 
 # Incantesimi Illusionista
-Qui ci sono sei incantesimi aggiuntivi da mago
-che gli illusionisti possono utilizzare.
+Qui ci sono sei incantesimi aggiuntivi da mago che gli illusionisti possono utilizzare.
 
 ### Incanto udibile
 Livello: M1
