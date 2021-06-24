@@ -22,6 +22,8 @@ Le navi possono ingaggiare un combattimento nave-nave (o nave-mostro marino). Le
 
 #### Tabella XX: Statistiche della nave
 
+#### Tabella XX: Combattimento in mare
+
 | Vascello            | Dado scafo | Artiglieria | Equipaggio                                   |
 |---------------------|------------|-------------|----------------------------------------------|
 | Barca               | 1          | .           | 2-4 marinai                                  |
