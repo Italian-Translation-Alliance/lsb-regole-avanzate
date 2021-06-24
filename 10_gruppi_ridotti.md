@@ -119,14 +119,17 @@ Alcune avventure sono scritte in modo da richiedere praticamente più di un avve
 ## Infliggere danni
 Quando leggi i dadi dei danni, non contare i soliti totali. Invece, contare ogni dado come indicato nella tabella sottostante. Se hai un bonus al al tuo tiro di danni, aggiungilo a un dado a tua scelta prima di confrontarlo con la tabella.
 
-| Risultato della morte | Danni subiti     |
-|-----------------------|------------------|
-| 1 o meno              | Nessun danno     |
-| 2 a 5                 | 1 punto di danno |
-| 6 a 9                 | 2 punti di danno |
-| 10 o più              | 4 punti di danno |
+#### Tabella 33: Riduzione dei danni
+
+| Risultato  | Danni subiti     |
+|------------|------------------|
+| 1 o meno   | Nessun danno     |
+| 2 a 5      | 1 punto di danno |
+| 6 a 9      | 2 punti di danno |
+| 10 o più   | 4 punti di danno |
 
 Tutti i dadi dei danni sono letti in questo modo, inclusi i danni fatti da incantesimi, trappole e pericoli ambientali. Quindi, una palla di fuoco da 5d6 farebbe ovunque da 0 a 10 punti di danno.
+
 ## Subire danni
 Un PG subisce danni normalmente e muore a zero punti ferita. I mostri e i PNG perdono un dado per ogni punto ferita inflitto. Quindi, un orco verrebbe ucciso da 1 punto di danno, e un orco da 4. I dadi per i colpi sono arrotondati al numero intero più vicino. Quando viene inflitto abbastanza danno per uccidere un particolare bersaglio, qualsiasi danno residuo può essere inflitto a qualsiasi altra vittima nel raggio d'azione con classe armatura uguale o peggiore.
 
