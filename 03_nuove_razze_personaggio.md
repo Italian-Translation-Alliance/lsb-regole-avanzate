@@ -41,7 +41,7 @@ I mezz'orchi di solito parlano anche l'Orchesco oltre al Comune.
 ### Il Chierico-Assassino
 I **mezz'orchi** possono essere chierici-assassini multiclasse. Essi sono limitati al 6° livello.
 
-#### Tabella 11: Avanzamento del Chierico-Assassino
+#### Tabella 10: Avanzamento del Chierico-Assassino
 
 | Livello | Punti Esperienza |  Dado Vita | Per Colpire | Tiro Salvezza | Assassinare | 1 | 2 | 3 |
 |:-------:|:----------------:|:----------:|:-----------:|:-------------:|:-----------:|:-:|:-:|:-:|
@@ -73,7 +73,7 @@ I chierici-assassini ottengono un +2 per tutti i tiri salvezza tiri salvezza con
 
 **Nani**, **elfi**, **gnomi**, **halfling** e **Mezz'Orchi** possono essere multiclasse Guerriero-Ladro. Sono limitati al 6° livello.
 
-#### Tabella 12: Avanzamento del Guerriero-Ladro
+#### Tabella 11: Avanzamento del Guerriero-Ladro
 
 | Livello | Punti Esperienza |  Dado Vita | Per Colpire | Tiro Salvezza | Furto |
 |:-------:|:----------------:|:----------:|:-----------:|:-------------:|:-----:|
@@ -102,7 +102,7 @@ I Guerrieri-Ladri ottengono un bonus di +2 per tutti i tiri salvezza contro mort
 ### Il Ladro-Illusionista
 Gli gnomi possono avanzare come multiclasse nello stesso modo in cui gli elfi combinano guerriero e mago. Sono limitati all'8° livello.
 
-#### Tabella 13: Avanzamento del Ladro-Illusionista
+#### Tabella 12: Avanzamento del Ladro-Illusionista
 
 | Livello | Punti Esperienza |  Dado Vita | Per Colpire | Tiro Salvezza | Furto | 1 | 2 | 3 | 4 |
 |:-------:|:----------------:|:----------:|:-----------:|:-------------:|:-----:|:-:|:-:|:-:|:-:|
