@@ -4,7 +4,7 @@ Le classi personaggio aggiuntive del Druido e dell'Illusionista introducono nuov
 
 ## Lista degli Incantesimi del Druido
 
-#### Tabella XX: Incantesimi del Druido
+#### Tabella 13: Incantesimi del Druido
 
 |            Livello 1           |      Livello 2          |
 |:------------------------------:|:-----------------------:|
@@ -56,7 +56,7 @@ Le illusioni si annullano e scompaiono se vengono toccate da qualcuno che non cr
 
 Il danno illusorio fa sì che una creatura con 0 PF sia messa fuori combattimento per 1d6 round. Quando si riprende, recupera tutti gli PF persi a causa dell'illusione.
 
-#### Tabella XX: Incantesimi dell'Illusionista 
+#### Tabella 14: Incantesimi dell'Illusionista 
 
 |      Livello 1               |         Livello 2          |
 |:----------------------------:|:--------------------------:|
