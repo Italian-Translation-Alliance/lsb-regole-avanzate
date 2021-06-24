@@ -271,32 +271,7 @@ Gli illusionisti sono solitamente Umani, ma a discrezione dell'Arbitro anche gli
 Gli illusionisti non possono indossare armature e sono limitati all'uso di pugnali e bastoni in combattimento.
 
 #### Lancio di incantesimi
-Gli illusionisti lanciano incantesimi da mago, ma hanno accesso a più incantesimi (sono trattati come un livello superiore - vedi Incantesimi illusori di seguito).
-
-#### Incantesimi illusori
-Molti incantesimi dell'illusionista funzionano normalmente ma alcuni sono versioni illusorie degli incantesimi ordinari da mago:
-- **Animare i Cadaveri, Evocare un Elementale:** crea un mostro illusorio che infligge danno illusorio.
-- **Controllo Atmosferico:** crea condizioni atmosferiche illusorie.
-- **Incantesimo della Morte:** provoca una "morte" illusoria (cioè
-la vittima è messa fuori combattimento).
-- **Dissolvere le Magie, Rimuovere una Maledizione:** disperde solamente le illusioni o il controllo della mente.
-- **Palla di Fuoco, Fulmine, Nube Mortale:** infliggono
-danno illusorio e sembrano solo danneggiare gli oggetti.
-- **Bloccare le Porte e Serratura del Mago:** crea un'illusione che fa si che la porta appaia inviolata anche quando è aperta.
-- **Polimorfismo:** crea un cambiamento illusorio di aspetto.
-- **Trasformare Pietra, Fango o Carne:** crea una trasformazione illusoria.
-- **Muro di Fuoco, Ghiaccio, Pietra o Ferro:** crea
-una barriera illusoria che causa danni illusori.
-- **Ragnatela:** crea ragnatele illusorie che solo apparentemente intrappolano le persone.
-
-Le illusioni si annullano e scompaiono se vengono toccate da qualcuno che non crede in loro (ottenuto con un Tiro di Salvezza contro Incantesimi) o se l'illusionista è incosciente. Gli effetti collaterali illusori (es. cose in fiamme, impronte, macchie di sangue) durano per 1d6 round dopo che l'illusione scompare, poi svaniscono anch'essi.
-
-Il danno illusorio fa sì che una creatura con 0 PF sia messa fuori combattimento per 1d6 round. Quando si riprende, recupera tutti gli PF persi a causa dell'illusione.
-
-#### Incantesimi non disponibili
-Gli illusionisti non possono portare un reale cambiamento nel mondo, quindi questi incantesimi non sono disponibili per loro:
-
-**Alterare il Tempo, Crescita Animale, Portale Dimensionale, Disintegrare, Volare, Bussare, Levitare, Muovere Terra o Acqua, Passare, Crescita Vegetale, Reincarnazione, Telecinesi, Teletrasporto, Trasformare (roccia, fango, carne, pietra), Respirazione Sott'Acqua.**
+Gli illusionisti lanciano incantesimi da mago, ma hanno accesso a più incantesimi (sono trattati come un livello superiore - Capitolo 4 Nuovi Incantesimi).
 
 #### Ammaliazione Minore
 Gli illusionisti possono alterare il proprio aspetto a volontà, cambiando abito, età, i tratti del viso, il sesso, l'altezza e la corporatura. Non possono apparire di un'altra razza razza e qualcosa del loro aspetto deve rimanere costante -- normalmente la voce, il colore delle loro vesti, l'odore del profumo o una spilla distintiva. L'illusionista può alterare l'aspetto di qualsiasi cosa tenuta in mano, anche se ritorna al suo vero aspetto quando viene lasciato andare.
