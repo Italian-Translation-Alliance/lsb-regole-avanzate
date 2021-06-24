@@ -221,7 +221,7 @@ Gli illusionisti possono avanzare fino al 10° livello. Possono utilizzare tutti
 
 Gli illusionisti sono solitamente Umani, ma a discrezione dell'Arbitro anche gli Gnomi possono essere illusionisti.
 
-#### Tabella 7: Avanzamento dell'Illusionista
+#### Tabella 6: Avanzamento dell'Illusionista
 
 |         |                  |           |             |               | Incantesimi          ||
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiri Salvezza | 1 | 2 | 3 | 4 | 5 | 6 |
@@ -261,7 +261,7 @@ I monaci sono artisti marziali che lottano per la perfezione corporea e spiritua
 
 I monaci di solito viaggiano per la terra in cerca di degni avversari. Ogni monaco si è addestrato in un monastero, che ha le proprie regole, filosofie e tecniche di combattimento. Il monaco non sarà resistente quanto un guerriero, ma è meno ingombrante, può risolvere alcuni problemi più velocemente e non dipende molto dall'equipaggiamento.
 
-#### Tabella (: Avanzamento del Monaco
+#### Tabella 7: Avanzamento del Monaco
 
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | Arti Marziali |
 |:-------:|:----------------:|:---------:|:-----------:|:-------------:|:-------------:|
@@ -304,7 +304,7 @@ I paladini sono santi cavalieri asceti della legge e della virtù. I combattenti
 
 I paladini devono essere sempre legali, anche se esistono cavalieri neri malvagi (anti-paladini) che possono essere scelti se l'arbitro è d'accordo.
 
-#### Tabella 9: Avanzamento del Paladino
+#### Tabella 8: Avanzamento del Paladino
 
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | Orgoglio |
 |:-------:|:----------------:|:---------:|:-----------:|:-------------:|:--------:|
@@ -348,7 +348,7 @@ I ranger sono uomini di frontiera e scout che proteggono la gente dei regni paci
 
 I ranger di solito sono Umani, ma a discrezione della discrezione dell'arbitro, Elfi o Mezz'Orchi possono anche essere Ranger.
 
-#### Tabella 10: Avanzamento del Ranger
+#### Tabella 9: Avanzamento del Ranger
 
 |         |                  |           |             |               |               | Incantesimi  ||
 | Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza | Sopravvivenza | 1 | 2 | 3 | 4 |
