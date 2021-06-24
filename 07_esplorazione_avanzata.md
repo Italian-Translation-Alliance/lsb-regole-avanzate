@@ -6,7 +6,7 @@
 
 È compito dell'Arbitro decidere se le regioni sconosciute ai giocatori vengono disegnate in anticipo o man mano che vengono esplorate. In entrambi i casi, le caratteristiche principali dovrebbero essere collocate in modo ponderato e il resto dovrebbe essere collocato in modo casuale.
 
-#### Tabella XX: Terreno selvaggio casuale
+#### Tabella 16: Terreno selvaggio casuale
 
 | Tiro 2d6 | Terreno casuale adiacente all'esagono di tipo noto |          |          |          |          |        |
 |----------|----------------------------------------------------|----------|----------|----------|----------|--------|
@@ -25,7 +25,7 @@
 
 Oltre al suo tipo di terreno, ogni esagono può eventualmente contenere una (o più) caratteristiche significative. Queste possono essere determinate con la tabella sottostante:
 
-#### Tabella XX: Caratteristiche significative
+#### Tabella 17: Caratteristiche significative
 
 | Tiro 2d6 | Aperto    | Bosco       | Montagna    | Deserto     | Palude      |
 |----------|-----------|-------------|-------------|-------------|-------------|
@@ -59,7 +59,7 @@ Tutti i viaggiatori hanno bisogno di un giorno intero di riposo dopo sei giorni 
 ### Tempo atmosferico
 Le condizioni atmosferiche dovrebbero essere determinate ogni giorno. Se il giorno precedente ha fatto caldo si tira 1d6 e si aggiunge 1. Se il giorno precedente ha piovuto si tira 1d6 e si aggiunge 6. Altrimenti, tirate due dadi a sei facce per determinare le condizioni del tempo giornaliero.
 
-#### Tabella XX: Meteo
+#### Tabella 18: Meteo
 
 | Tiro 2d6 | Meteo           |
 |----------|-----------------|
@@ -79,7 +79,7 @@ La pioggia di qualsiasi tipo ridurrà la visibilità, mentre la pioggia forte di
 ## Roccaforti
 Quando viene indicata una roccaforte, si tratta di una torre occupata o di una fortezza in un luogo strategico come una scogliera, un incrocio, una valle, un ponte o un'isola. Il residente principale della roccaforte dovrebbe essere determinato casualmente, come segue:
 
-#### Tabella XX: Residente della Roccaforte
+#### Tabella 19: Residente della Roccaforte
 
 | Tiro d6 | Allineamento | Classe        | Seguito   (1-6) |                |               |
 |---------|--------------|---------------|-----------------|----------------|---------------|
@@ -131,7 +131,7 @@ L'Arbitro dovrebbe fare un'ulteriore verifica al giorno se i giocatori si sono p
 
 Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro tirando a dadi sulla tabella degli incontri nella natura appropriata per il tipo di terreno.
 
-#### Tabella XX: Incontri nelle Terre Selvagge
+#### Tabella 20: Incontri nelle Terre Selvagge
 
 | Tiro d20 | Pianura                 | Bosco                       | Giungla                       |
 |----------|-------------------------|-----------------------------|-------------------------------|
@@ -237,7 +237,7 @@ Come per l'esplorazione delle Terre Selvagge, le regioni oceaniche sconosciute a
 
 L'arbitro può usare le seguenti tabelle per generare regioni oceaniche per la navigazione. 
 
-#### Tabella XX: Mare inesplorato casuale
+#### Tabella 21: Mare inesplorato casuale
 
 | Tiro 2d6 | Mare casuale adiacente all'esagono di tipo noto |          |          |         |         |          |
 |----------|-------------------------------------------------|----------|----------|---------|---------|----------|
@@ -256,7 +256,7 @@ L'arbitro può usare le seguenti tabelle per generare regioni oceaniche per la n
 
 Ogni esagono può eventualmente contenere una (o più) caratteristiche significative. Queste possono essere determinate con la tabella sottostante:
 
-#### Tabella XX: Caratteristiche significative
+#### Tabella 22: Caratteristiche significative
 
 | Tiro 2d6 | Oceano      | Costa    | Scoglio | Isola | Tempesta |
 |----------|-------------|----------|---------|-------|----------|
@@ -279,7 +279,7 @@ Ogni esagono può eventualmente contenere una (o più) caratteristiche significa
 ### Tempo e movimento
 L'esplorazione marittima conserva la scala di tempo dell'esplorazione selvaggia di 1 turno per giorno.
 
-#### Tabella XX: Tasso di esplorazione marittima
+#### Tabella 23: Tasso di esplorazione marittima
 
 | Trasporto         | Tasso di movimento |        |Esagoni al giorno|             |
 |-------------------|--------------------|--------|-----------------|-------------|
@@ -319,7 +319,7 @@ La distanza dall'orizzonte è determinata dall'altezza sul livello del mare. Dal
 ### Tempo atmosferico
 In mare la forza e la direzione del vento dovrebbero essere determinate ogni giorno. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento.
 
-#### Tabella XX: Meteo e velocità della nave
+#### Tabella 24: Meteo e velocità della nave
 
 | 2-12  | Vento        | Vela             | Canottaggio      |
 |-------|--------------|------------------|------------------|
@@ -346,7 +346,7 @@ I mostri erranti si incontrano in mare proprio come nelle Terre Selvagge. L'arbi
 
 Quando viene determinato un incontro, stabilite il tipo di mostro tirando i dadi sulla tabella degli incontri in mare. Se i giocatori stanno viaggiando lungo una costa o una via d'acqua interna, è altrettanto probabile che un incontro avvenga a terra come in mare. In questo caso, usate la tabella degli incontri nelle Terre Selvagge.
 
-#### Tabella XX: Tabelle degli incontri in mare
+#### Tabella 25: Tabelle degli incontri in mare
 
 | Tiro d20 | Corso d'acqua           | Costa                   | Oceano aperto           |
 |----------|-------------------------|-------------------------|-------------------------|
@@ -399,7 +399,7 @@ L'arbitro potrebbe anche voler includere regioni in cima alle nuvole che possono
 
 L'arbitro può usare le seguenti tabelle per generare regioni in cima alle nuvole per l'esplorazione aerea. 
 
-#### Tabella XX: Regione area casuale
+#### Tabella 26: Regione area casuale
 
 | Tiro 2d6 | Regione area casuale adiacente all'esagono di tipo noto |          |          |          |          |        |
 |----------|----------------------------------------------------|----------|----------|----------|----------|--------|
@@ -420,7 +420,7 @@ L'arbitro può usare le seguenti tabelle per generare regioni in cima alle nuvol
 
 Ogni esagono può eventualmente contenere una (o più) caratteristiche significative. Queste possono essere determinate con la tabella sottostante:
 
-#### Tabella XX: Caratteristiche significative
+#### Tabella 27: Caratteristiche significative
 
 | Tiro 2d6 | Aria      | Nube solida    | Montagna fluttuante | Nube inconsistente | Tempesta |
 |----------|-------------|----------|---------|-------|----------|
@@ -443,7 +443,7 @@ Ogni esagono può eventualmente contenere una (o più) caratteristiche significa
 ### Tempo e movimento
 L'esplorazione aerea mantiene la scala di tempo dell'esplorazione delle Terre Selvagge di 1 turno al giorno.
 
-#### Tabella XX: Tasso di esplorazione aerea
+#### Tabella 28: Tasso di esplorazione aerea
 
 | Trasporto        | Tasso di movimento | Esagoni per giorno |      |
 |------------------|--------------------|--------------------|------|
@@ -477,7 +477,7 @@ Anche se il viaggio via aerea è veloce, è gravemente influenzato dal maltempo.
 
 Le condizioni metereologiche dovrebbero essere determinate dall'arbitro per ogni giorno di esplorazione aerea. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento. Il viaggio aereo può essere pericoloso con vento forte e tempeste; i viaggiatori rischiano di essere spinti contro ostacoli, colpiti da fulmini o detriti volanti, e così via.
 
-#### Tabella XX: Meteo e velocità di volo
+#### Tabella 29: Meteo e velocità di volo
 
 | 2-12  | Vento        | Velocità di volo |                  |
 |-------|--------------|------------------|------------------|
@@ -503,7 +503,7 @@ Gli incontri avvengono in aria proprio come nella natura. L'arbitro dovrebbe con
 
 Quando si verifica un incontro, determinate il tipo di mostro tirando i dadi sulla tabella degli incontri in aria. Se i giocatori stanno viaggiando a bassa quota è altrettanto probabile che l'incontro avvenga in superficie o in volo. In questo caso usate la tabella degli incontri nelle Terre Selvagge.
 
-#### Tabella XX: Tabelle degli incontri aerei
+#### Tabella 30: Tabelle degli incontri aerei
 
 | Tiro d20 | Cime delle montagne      | Cielo aperto             | Cime delle nuvole        |
 |----------|--------------------------|--------------------------|--------------------------|
