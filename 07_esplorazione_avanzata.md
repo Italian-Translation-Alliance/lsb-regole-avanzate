@@ -56,7 +56,7 @@ La visibilità è generalmente limitata ad un esagono (6 miglia) con una buona p
 ### Riposo
 Tutti i viaggiatori hanno bisogno di un giorno intero di riposo dopo sei giorni di viaggio.
 
-### Tempo metereologico
+### Tempo atmosferico
 Le condizioni atmosferiche dovrebbero essere determinate ogni giorno. Se il giorno precedente ha fatto caldo si tira 1d6 e si aggiunge 1. Se il giorno precedente ha piovuto si tira 1d6 e si aggiunge 6. Altrimenti, tirate due dadi a sei facce per determinare le condizioni del tempo giornaliero.
 
 #### Tabella XX: Meteo
@@ -316,7 +316,7 @@ Tutti gli equipaggi hanno bisogno di un giorno intero di riposo dopo sei giorni 
 #### Visibilità
 La distanza dall'orizzonte è determinata dall'altezza sul livello del mare. Dal ponte di una nave la visibilità è limitata a un esagono (6 miglia). Dalla coffa un marinaio può vedere una nave fino a due esagoni (12 miglia) di distanza con tempo sereno. Tuttavia, le condizioni atmosferiche possono limitare gravemente la visibilità.
 
-### Tempo metereologico
+### Tempo atmosferico
 In mare la forza e la direzione del vento dovrebbero essere determinate ogni giorno. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento.
 
 #### Tabella XX: Meteo e velocità della nave
@@ -472,7 +472,7 @@ La distanza dall'orizzonte è relativa all'altitudine. In condizioni di tempo se
 ### Riposo
 Le creature volanti diverse dagli elementali dell'aria hanno bisogno di appollaiarsi durante la notte (o durante il giorno se viaggiano di notte). Inoltre, le creature volanti diverse dai draghi e dagli elementali dell'aria hanno bisogno di un giorno intero di riposo dopo sei giorni di viaggio; gli elementali dell'aria sono volatori instancabili, mentre i draghi hanno bisogno di una settimana intera di sonno dopo sei settimane di attività.
 
-### Tempo metereologico
+### Tempo atmosferico
 Anche se il viaggio via aerea è veloce, è gravemente influenzato dal maltempo.
 
 Le condizioni metereologiche dovrebbero essere determinate dall'arbitro per ogni giorno di esplorazione aerea. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento. Il viaggio aereo può essere pericoloso con vento forte e tempeste; i viaggiatori rischiano di essere spinti contro ostacoli, colpiti da fulmini o detriti volanti, e così via.
