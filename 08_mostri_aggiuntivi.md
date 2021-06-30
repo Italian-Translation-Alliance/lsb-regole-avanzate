@@ -35,7 +35,7 @@ I calamari giganti sono voraci predatori delle profondità marine che occasional
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1  
 *Attacchi*: Artigli/morso  
-*Speciale*: Vedi sotto   
+*Speciale*: Nessuno   
 *Movimento*: 15  
 *DVE/PE*: 1/15
 
@@ -46,7 +46,7 @@ I cani sono animali da branco dal naso acuto che abitano le pianure e le prateri
 *Classe Armatura*: 9 [10]  
 *Dadi Vita*: 2  
 *Attacchi*: Arma  
-*Speciale*: Vedi sotto   
+*Speciale*: Nessuno   
 *Movimento*: 12  
 *DVE/PE*: 2/30
 
@@ -68,7 +68,7 @@ I ciclopi sono giganti alti 20 piedi con un solo grande occhio che causa una sca
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1+2  
 *Attacchi*: Zanne  
-*Speciale*: Vedi sotto   
+*Speciale*: Nessuno   
 *Movimento*: 15  
 *DVE/PE*: 1/15
 
@@ -227,7 +227,7 @@ Lunghe 2-3 piedi. Sono industriose scavatrici e raccoglitrici che si presentano 
 *Classe Armatura*: 3 [16]  
 *Dadi Vita*: 3  
 *Attacchi*: Chele  
-*Speciale*: Vedi sotto   
+*Speciale*: Nessuno   
 *Movimento*: 6  
 *DVE/PE*: 4/120
 
@@ -264,7 +264,7 @@ Se si arriva a combattere, lo juggernaut infligge uno schiacciamento di 5-30 pun
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 5+2  
 *Attacchi*: Fauci, artigli  
-*Speciale*: Vedi sotto   
+*Speciale*: Nessuno   
 *Movimento*: 12  
 *DVE/PE*: 6/400
 
@@ -297,7 +297,7 @@ Si trovano in climi deserto e giungla. Le lucertole grandi possono essere fino a
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1  
 *Attacchi*: Artigli, fauci  
-*Speciale*: Vedi sotto   
+*Speciale*: Nessuno   
 *Movimento*: 18  
 *DVE/PE*: 1/10
 
@@ -308,7 +308,7 @@ I lupi si trovano principalmente nelle regioni fredde e cacciano in branco.
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 13  
 *Attacchi*: Vedi sotto  
-*Speciale*: Vedi sotto   
+*Speciale*: Immunità al freddo   
 *Movimento*: 15   
 *DVE/PE*: 14/2.600
 
@@ -319,7 +319,7 @@ I mammut lanosi sono mammiferi enormi, pelosi e simili a elefanti che si trovano
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 12  
 *Attacchi*: Vedi sotto  
-*Speciale*: Vedi sotto   
+*Speciale*: Nessuno   
 *Movimento*: 15  
 *DVE/PE*: 13/2.300
 
@@ -343,7 +343,7 @@ I Nixie si armano di pugnali e giavellotti. La loro tana sarà un'enclave sottom
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 5+5  
 *Attacchi*: Zampe  
-*Speciale*: Vedi sotto   
+*Speciale*: Nessuno   
 *Movimento*: 12  
 *DVE/PE*: 6/400
 
@@ -354,7 +354,7 @@ Gli orsi sono onnivori ma favoriscono la carne. Hanno una vista piuttosto scarsa
 *Classe Armatura*: 6 [13] 
 *Dadi Vita*: 6+6  
 *Attacchi*: Artigli  
-*Speciale*: Vedi sotto   
+*Speciale*: Nessuno   
 *Movimento*: 12  
 *DVE/PE*: 7/600
 
@@ -375,186 +375,179 @@ Le piovre giganti sono intelligenti e si annidano nei relitti e nelle grotte pre
 
 *Classe Armatura*: 8 [11]  
 *Dadi Vita*: ½  
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Attacchi*: Morso  
+*Speciale*: Nessuno   
+*Movimento*: 3/12  
+*DVE/PE*: <1/10
 
 I pipistrelli si posano sottoterra in gran numero durante il giorno. Sono per lo più innocui per gli uomini, ma se una colonia viene spaventata e prende il volo in uno spazio ristretto, creano confusione. Un nugolo di pipistrelli che si agita oscurerà la vista e forse spegnerà le torce, farà cadere le attrezzature o interromperà il lancio di incantesimi.
 
 ### Pipistrello, Gigante
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 7 [12]  
+*Dadi Vita*: 4  
+*Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 3/15  
+*DVE/PE*: 5/240
 
 I pipistrelli giganti sono neri come la notte e così silenziosi sulle ali da sorprendere la loro preda con un tiro di 3 o più su un dado a sei facce. Se la loro preda resiste, strilleranno, inducendo le persone normali a coprirsi le orecchie per un turno piuttosto che combattere.
 
 ### Pixie
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 6 [13]  
+*Dadi Vita*: 1-1  
+*Attacchi*: Arma  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 9/18  
+*DVE/PE*: 3/60
 
 I Pixie sono piccoli folletti dell'aria che sono permanentemente invisibili a meno che non desiderino essere visti. Non sono malvagi, ma non amano le intrusioni e ogni 10 folletti possono causare congiuntamente un incantesimo di Sonno una volta al giorno che usano per dissuadere i potenziali trasgressori. Si armano di pugnali e archi corti e attaccano sempre a sorpresa, a meno che non vengano individuati con mezzi magici. Si noti che i combattenti di 8° livello e oltre percepiscono i folletti entro 3" anche senza vederli.
 
-### Ragno, Gigante
+### Ragno, Grande e Gigante
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 5 [14], 8 [11]  
+*Dadi Vita*: ½, 4+4  
+*Attacchi*: Morso  
+*Speciale*: Ragnatela   
+*Movimento*: 6/15, 3/12  
+*DVE/PE*: 2/30, 6/400
 
 I ragni, giganti e grandi, sono comuni nei sotterranei. I ragni grandi hanno le dimensioni di una mano umana e possono strisciare su pavimenti, pareti e soffitti. Il loro morso è velenoso ma è consentito un tiro salvezza contro il veleno a +2. I ragni giganti sono veri e propri orrori di dimensioni fino a quelle di un cavallo. Il loro morso è mortalmente velenoso e sono costruttori di ragnatele, essendo pari alla forza di un incantesimo di Ragnatela. Preferiscono aspettare pazientemente in un'imboscata e attaccare le vittime incaute. Fuggiranno in un oscuro rifugio se affrontati da una forza superiore.
 
 ### Ratto, Gigante
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 7 [12]  
+*Dadi Vita*: ½  
+*Attacchi*: Morso  
+*Speciale*: Ragnatela   
+*Movimento*: 12/6 
+*DVE/PE*: 2/30
 
 I ratti giganti sono una vera e propria piaga del sottosuolo, infilandosi in piccole fessure e gallerie nella terra e nei manufatti in pietra. Causano solo 1-3 punti di danno, ma ogni colpo può trasmettere una malattia debilitante agli umanoidi che non riescono a salvarsi dal veleno a +4 sul dado (un singolo tiro salvezza è richiesto per ogni incontro). A meno che non siano costretti a combattere da un vampiro o da un licantropo, hanno -2 ai tiri di morale e fuggono dal fuoco.
 
-### Rinoceronti
+### Rinoceronte lanoso
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 5 [14]  
+*Dadi Vita*: 10  
+*Attacchi*: Vedi sotto  
+*Speciale*: Nessuno   
+*Movimento*: 12  
+*DVE/PE*: 11/1.700
 
 I rinoceronti lanosi sono enormi, pelosi, mammiferi simili a rinoceronti che si trovano nelle regioni artiche. Hanno una vista scarsa ma un udito eccellente e sono inclini ad attaccare tutto ciò che si avvicina o li spaventa. Sono invulnerabili al freddo e causano 4-14 punti di danno caricando, calpestando o schiacciando.
 
 ### Robot
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 3 [16]  
+*Dadi Vita*: 7  
+*Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 6/6  
+*DVE/PE*: 8/800
 
 I robot sono complessi automi di metallo con insondabili cervelli elettronici. Sono auto-motivati e semi-intelligenti ed è possibile negoziarci fino a un certo punto. Di solito sono impostati su un "programma" che non interromperanno mai. I robot sono incredibilmente forti e colpiscono per 3-8 punti di danno. Molti possono volare in un modo o nell'altro e gli altri sono dotati di un raggio di disintegrazione che può essere sparato fino a 6" tre volte al giorno. Per evitare il raggio è necessario un tiro salvezza riuscito contro le bacchette. I robot non possono essere sottomessi e non hanno mai bisogno di effettuare una prova di morale.
 
 ### Rospo, Gigante
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 6 [13]  
+*Dadi Vita*: 2+4  
+*Attacchi*: Morso  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 6/6  
+*DVE/PE*: 3/60
 
 I rospi giganti inghiottiranno interi halfling e persone più piccole ad ogni tiro di attacco che superi di 4 o più il numero richiesto per colpire. Possono saltare 18" ogni due turni, nuotare, respirare sott'acqua e hanno il 50% di probabilità di essere velenosi.
 
 ### Sanguisuga, Gigante
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 8 [11]  
+*Dadi Vita*: 2  
+*Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 3/6  
+*DVE/PE*: 3/60
 
 Le sanguisughe giganti sono disgustosi parassiti di palude che si attaccheranno alle vittime dopo un attacco riuscito e prosciugheranno un livello di esperienza nel turno successivo all'attacco e un livello aggiuntivo ad ogni ulteriore turno successivo finché la vittima o la sanguisuga non saranno morti.
 
 ### Scimmione
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 6 [13]  
+*Dadi Vita*: 4+1  
+*Attacchi*: Vedi sotto  
+*Speciale*: Nessuno   
+*Movimento*: 12/12  
+*DVE/PE*: 5/240
 
-Gli scimmioni non sono solitamente non aggressivi ma sono estremamente forti. Si arrampicheranno sugli alberi per rifugiarsi, ma se provocati possono colpire per 2-7 punti di danno.
+Gli scimmioni non sono solitamente non aggressivi ma sono estremamente forti. Si arrampicheranno sugli alberi per rifugiarsi, ma se provocati possono colpire per 1d6+1 punti di danno.
 
 ### Scimmione Dannato
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 6 [13]  
+*Dadi Vita*: 5+2  
+*Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 12/12  
+*DVE/PE*: 6/400
 
 Gli scimmioni dannati sono così chiamati per la loro colorazione pallida e il loro aspetto spaventoso. Si trovano in piccole bande nelle giungle dense e intorno alle catacombe in rovina. Sono più grandi e più aggressivi degli scimmioni normali e hanno un gusto per la carne. Peggio ancora, possiedono un'astuzia maligna che utilizza rocce e pietre come strumenti e la loro forza tale da causare 1-11 punti di danno a un colpo.
 
 ### Scorpione, Gigante
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 3 [13]  
+*Dadi Vita*: 5+4  
+*Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 15  
+*DVE/PE*: 6/400
 
-Gli scorpioni giganti sono cacciatori estremamente aggressivi delle dimensioni di un cavallo. Percepiscono le cose principalmente attraverso le vibrazioni della terra e attaccheranno sempre tutto ciò che si avvicina. Un tiro di attacco che supera di 4 o più il numero necessario per colpire, o che comunque è un 20, indica un colpo del pungiglione velenoso, che è mortale a meno che non abbia successo un tiro salvezza  contro il veleno; altrimenti, si presume che sia un attacco a tenaglia che infligge 3-8 punti di danno.
+Gli scorpioni giganti sono cacciatori estremamente aggressivi delle dimensioni di un cavallo. Percepiscono le cose principalmente attraverso le vibrazioni della terra e attaccheranno sempre tutto ciò che si avvicina. Un tiro di attacco che supera di 4 o più il numero necessario per colpire, o che comunque è un 20, indica un colpo dell'aculeo velenoso, che è mortale a meno che non abbia successo un tiro salvezza contro il veleno; altrimenti, si presume che sia un attacco a tenaglia che infligge 3-8 punti di danno.
 
-### Serpente, Gigante e Grande
+### Serpente, Grande e Gigante
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 6 [13], 8 [11]  
+*Dadi Vita*: ½, 7  
+*Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 6/6, 9/9  
+*DVE/PE*: 2/30, 8/800
 
 I serpenti, giganti e grandi, si incontrano quasi ovunque. I serpenti grandi sono lunghi fino a 10 piedi, ma generalmente non sono aggressivi, a meno che non vengano cacciati o provocati; hanno il 50% di probabilità di essere velenosi. Le vipere strisciano silenziosamente e sono mortalmente velenose. I costrittori non sono velenosi e il loro morso infligge solo 1-2 punti di danno. Tuttavia, se attacca a sorpresa o se un tiro di attacco supera di 4 o più il numero richiesto per colpire, un costrittore invece circonda il suo bersaglio, schiacciando gli umanoidi per 2-12 punti di danno a turno. I tipi costrittore si possono incontrare anche in mare e sono in grado di accerchiare e distruggere piccole imbarcazioni nelle loro spire in 1-6 turni.
 
 ## Statue viventi
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
-
 Le statue viventi sono grandi e potenti automi umanoidi. Stando in silenzio sono indistinguibili da statue ordinarie di grandi dimensioni. Le statue viventi sono estremamente pesanti e si muovono pesantemente ma con uno scopo. Possono sfondare le strutture di legno, comprese le porte e sono in gran parte invulnerabili adi danni magici.
 
 ### Statua Vivente, Ferro
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 2 [17]  
+*Dadi Vita*: 18  
+*Attacchi*: Vedi sotto  
+*Speciale*: Resistenza magica   
+*Movimento*: 6  
+*DVE/PE*: 21/4.700
 
-Le statue viventi di ferro sono fuse in metallo solido. Incombendo possono esalare una nuvola di gas velenoso nel raggio di 1" o colpire per 4-24 punti di danno. Gli attacchi di fulmine li rallenteranno e il fuoco li salverà; altrimenti, possono essere danneggiati solo da armi magiche di qualità +3 o superiore.
+Le statue viventi di ferro sono fuse in metallo solido. In combattimento possono esalare una nuvola di gas velenoso nel raggio di 1" o colpire per 4-24 punti di danno. Gli attacchi di fulmine li rallenteranno e il fuoco li curerà; altrimenti, possono essere danneggiati solo da armi magiche di qualità +3 o superiore.
 
 ### Statua Vivente, Pietra
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 5 [14]  
+*Dadi Vita*: 14  
+*Attacchi*: Vedi sotto   
+*Speciale*: Resistenza magica   
+*Movimento*: 6  
+*DVE/PE*: 17/3.500
 
-Le statue viventi di pietra sono scolpite nella roccia solida. Possono rallentare un bersaglio per turno o colpire per 3-18 punti ferita di danno. Il freddo e il fuoco li rallenteranno e la pietra e la carne li salveranno; altrimenti, possono essere danneggiati solo dalla magia che colpisce specificamente la pietra o da armi magiche di qualità +2 o superiore.
+Le statue viventi di pietra sono scolpite nella roccia solida. Possono rallentare un bersaglio per turno o colpire per 3-18 punti ferita di danno. Il freddo e il fuoco li rallenteranno e la pietra e la carne li cureranno; altrimenti, possono essere danneggiati solo dalla magia che colpisce specificamente la pietra o da armi magiche di qualità +2 o superiore.
 
 ### Tartaruga Drago
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 2 [17]  
+*Dadi Vita*: 12  
+*Attacchi*: Vedi sotto  
+*Speciale*: Soffio   
+*Movimento*: 3/9  
+*DVE/PE*: 14/2.600
 
 Le tartarughe drago sono tartarughe di 30 piedi di diametro con colli lunghi e sinuosi e teste di drago. Si trovano solo in grandi masse d'acqua e si nascondono in profonde grotte subacquee.
 
@@ -562,147 +555,180 @@ Una tartaruga drago ha un soffio a forma di cono di 9"×3" di vapore scottante c
 
 ### Thull
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 6 [13]  
+*Dadi Vita*: 3  
+*Attacchi*: Artigli  
+*Speciale*: Paralisi   
+*Movimento*: 9  
+*DVE/PE*: 5/240
 
 I thull sono spaventosi umanoidi simili agli hobgoblin nell'aspetto, ma sono molto più pericolosi. Un thull rigenera 1 punto ferita perso all'inizio di ogni turno e un graffio dalle sue unghie nere provoca la paralisi per 1 turno nei normali umanoidi (essi stessi ne sono immuni).
 
 ### Tigre
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 6 [13]  
+*Dadi Vita*: 5+4  
+*Attacchi*: Artigli  
+*Speciale*: Saltatore   
+*Movimento*: 12  
+*DVE/PE*: 7/600
 
 Le tigri sono grandi felini che si trovano nelle foreste da fredde a tropicali. Sono furbi, agili e superbi cacciatori che seguono pazientemente la preda per attaccare a sorpresa. Si arrampicano e nuotano e possono saltare 10 piedi verso l'alto o 40 piedi in avanti. Causano 2-7 punti di danno o, se un tiro di attacco supera di 4 o più il numero richiesto per colpire o è comunque un 20, 2-12 punti di danno.
 
 ### Tigre dai denti a sciabola
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 6 [13]  
+*Dadi Vita*: 7+2  
+*Attacchi*: Denti, artigli  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 12  
+*DVE/PE*: 8/800
 
 Le tigri dai denti a sciabola sono i grandi felini del Pliocene, capaci di cacciare i dinosauri. Sono grandi la metà delle tigri comuni e sono altrettanto agili e scaltre. Causano 2-9 punti di danno o, se un tiro di attacco supera di 4 o più il numero necessario per colpire o è comunque un 20, 4-14 punti di danno.
 
 ### Titano
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 2 [17]  
+*Dadi Vita*: 21  
+*Attacchi*: Armi  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 18  
+*DVE/PE*: 23/5.300
 
 Un Titano è un gigante molto bello e civilizzato. Sono intelligenti almeno quanto gli uomini, alti il triplo e incredibilmente forti. Con le loro enormi armi, infliggono 6-21 punti di danno e hanno l'uso di due incantesimi di ogni livello di magia al giorno. La tana di un Titano conterrà altri 3.000-18.000 po.
 
 ## Titanotteri
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 7 [12]  
+*Dadi Vita*: 12  
+*Attacchi*: Carica  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 12  
+*DVE/PE*: 13/2.300
 
 I titanotteri sono enormi erbivori che vagano in branchi nelle pianure temperate e nelle zone umide. Normalmente pacifici, caricano e calpestano tutto ciò che li provoca causando 3-18 punti di danno a causa delle loro grandi dimensioni.
 
 ### Tritoni
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
+*Classe Armatura*: 7 [12]  
+*Dadi Vita*: 1+1  
+*Attacchi*: Armi  
 *Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Movimento*: 3/15  
+*DVE/PE*: 2/30
 
-I Tritoni sono guerrieri acquatici. Contro gli umanoidi in mare attaccano a +2 e non hanno bisogno di effettuare prove di morale. Possono rimanere sott'acqua a tempo indeterminato e sono soggetti al tiro di dardi solo se salgono in superficie, cosa che devono fare per afferrare o abbordare le navi. Sulla terraferma o a bordo delle navi subiscono una penalità di -2 ai tiri di attacco e alle prove di morale. La loro pelle squamosa è uguale a un'armatura di pelle e combattono con spade e pugnali. I Tritoni hanno dei capi come gli umani anche se sono esclusivamente dei combattenti.
+I Tritoni sono guerrieri acquatici. Contro gli umanoidi in mare attaccano a +2 e non hanno bisogno di effettuare prove di morale. Possono rimanere sott'acqua a tempo indeterminato e sono soggetti al tiro di dardi solo se salgono in superficie, che devono affrontare per afferrare o abbordare le navi. Sulla terraferma o a bordo delle navi subiscono una penalità di -2 ai tiri di attacco e alle prove di morale. La loro pelle squamosa è uguale a un'armatura di pelle e combattono con spade e pugnali. I Tritoni hanno dei capi come gli umani anche se sono esclusivamente dei combattenti.
 
 ## Umani
 Per infoltire le schiere dei PNG umani delle regole base, di seguito è possibile trovare nuove tipologie di personaggi.
 
 ### Umano, Brigante
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 6 [13]  
+*Dadi Vita*: 1  
+*Attacchi*: Arma  
+*Speciale*: Volontà di ferro  
+*Movimento*: 12  
+*DVE/PE*: 1/15
 
 I briganti sono ladri e briganti ben organizzati. Indossano armature di cuoio, portano scudi, sono armati di spade, asce, mazze, archi corti o lance e hanno un bonus di +1 alle prove di morale.
 
 ### Umano, Bucaniere
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 8 [11]  
+*Dadi Vita*: 1  
+*Attacchi*: Arma  
+*Speciale*: Nessuno   
+*Movimento*: 12  
+*DVE/PE*: 2/30
 
 I bucanieri sono picconieri e naufraghi che solcano le coste in cerca di facili prelievi da schifi e picchetti. Sono senza armatura e veloci e portano spade o mazze e pugnali come le manosinistre.
 
 ### Umano, Derviscio
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 8 [11]  
+*Dadi Vita*: 1+1  
+*Attacchi*: Arma  
+*Speciale*: Fanatismo   
+*Movimento*: 12  
+*DVE/PE*: 2/30
 
 I dervisci sono fanatici religiosi di tipo legale. Attaccano a +2 per colpire contro gli umanoidi e non hanno bisogno di effettuare prove di morale a causa del loro fanatismo. Portano armi e scudi da chierico e i loro capi abituali sono esclusivamente chierici.
 
 ### Umano, Mercenario
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 6 [13]  
+*Dadi Vita*: 1+1  
+*Attacchi*: Arma  
+*Speciale*: Nessuno   
+*Movimento*: 12  
+*DVE/PE*: 3/60
 
 I Mercenari sono spadaccini professionisti e soldati di fortuna. Sono militari ben organizzati ma inaffidabili, sempre disponibili a offerte di lavoro. Hanno tipicamente armature di cuoio, elmi e scudi e sono armati con spade, lance, armi a bastone o balestre. Con un tiro di 5-6 su 1d6 un terzo della loro forza sarà anche a cavallo.
 
 ### Umano, Nomade
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 8 [11]  
+*Dadi Vita*: 1  
+*Attacchi*: Arma  
+*Speciale*: Cavallerizzo   
+*Movimento*: 12  
+*DVE/PE*: 2/30
 
 I Nomadi sono razziatori del deserto o della steppa che sono sempre a cavallo. Portano archi corti, lance e scudi.
 
 ### Umano, Pirata
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 8 [11]  
+*Dadi Vita*: 1  
+*Attacchi*: Arma  
+*Speciale*: Nessuno   
+*Movimento*: 12  
+*DVE/PE*: 1/15
 
 I pirati sono spietati lupi di mare e tagliagole che saccheggiano i corsi d'acqua e le regioni costiere dai loro sloop e galee. Sono senza armatura e veloci e si armano con spade ricurve o mazze e pugnali come le manosinistre. 
 Hanno una correzione di +1 alle prove di morale.
 
 ### Umano, Zelota
 
-*Classe Armatura*:   
-*Dadi Vita*:   
-*Attacchi*:   
-*Speciale*: Vedi sotto   
-*Movimento*:   
-*DVE/PE*: 
+*Classe Armatura*: 7 [12]  
+*Dadi Vita*: 1+1  
+*Attacchi*: Arma  
+*Speciale*: Fanatismo  
+*Movimento*: 12  
+*DVE/PE*: 3/60
 
 Gli zeloti sono fanatici religiosi di tipo caotico. Attaccano a +2 per colpire contro gli umanoidi e non hanno bisogno di effettuare prove di morale a causa del loro fanatismo. Portano armi e scudi da chierico e i loro capi abituali sono esclusivamente anti-chierici.
+
+## Definire i Dadi Vita Equivalenti
+
+Per aiutarvi a determinare i Dadi Vita Equivalenti (DVE), la tabella qui sotto può essere utile. I DVE determinano il valore dei punti esperienza di un mostro. Per determinare i DVE di un mostro, prendete i suoi Dadi Vita e poi aggiungete punti se il mostro ha abilità speciali che lo rendono più difficile da uccidere o più pericoloso per i personaggi.
+
+| Capacità speciali                                                          | Effetto sui DVE |
+|----------------------------------------------------------------------------|-----------------|
+| 4+ attacchi per round (minimo d6 o tiro salvezza ciascuno)                 | +1 DVE          |
+| AC 20 o superiore                                                          | +1 DVE          |
+| Danno automatico dopo il colpo                                             | +1 DVE          |
+| Arma da soffio 25 punti max o inferiore                                    | +1 DVE          |
+| Arma da soffio 26 punti max o più                                          | +2 DVE          |
+| Malattia                                                                   | +1 DVE          |
+| Prosciuga il livello senza tiro salvezza                                   | +3 DVE          |
+| Prosciuga il livello con tiro salvezza                                     | +2 DVE          |
+| Vola, o respira in acqua                                                   | +1 DVE          |
+| Intelligenza superiore a quella umana                                      | +1 DVE          |
+| Immune alle armi contundenti/perforanti (compresi i mezzi danni)           | +1 DVE          |
+| Immune all'energia (acido, fuoco, ecc.)                                    | +1 DVE          |
+| Immune alle armi non magiche                                               | +1 DVE          |
+| Resistenza alla magia 50% o inferiore                                      | +1 DVE          |
+| Resistenza alla magia superiore al 50%                                     | +2 DVE          |
+| Attacco massiccio per 20+ PF                                               | +1 DVE          |
+| Paralisi, ingoia interi, immobilizza i nemici (ragnatela, ecc.)            | +1 DVE          |
+| Pietrificazione, veleno o magia della morte                                | +2 DVE          |
+| Rigenera                                                                   | +1 DVE          |
+| Non-morti (soggetti all'esilio ma immuni al sonno, al fascino, alla presa) | +0 DVE          |
+| Usa un potere magico di livello 3 equivalente o superiore                  | +2 DVE          |
+| Usa più incantesimi di livello 2 o inferiore                               | +1 DVE          |
+| Usa incantesimi multipli di livello 3 o superiore                          | +2 DVE          |
+| Usa incantesimi multipli di livello 5 o superiore                          | +3 DVE          |
+| Veleno                                                                     | +1 DVE          |
+| Varie altre                                                                | +1 DVE          |
