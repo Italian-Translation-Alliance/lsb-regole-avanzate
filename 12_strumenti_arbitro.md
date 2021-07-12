@@ -30,7 +30,7 @@ Con un livello di dungeon pianificato l'Arbitro deve distribuire mostri, trappol
 
 L'Arbitro dovrebbe lanciare due dadi a sei facce per ogni luogo non popolato del dungeon e consultare la tabella dei luoghi casuali del dungeon.
 
-#### Tabella XX: Luoghi Casuali del Dungeon
+#### Tabella 34: Luoghi Casuali del Dungeon
 
 | 2-12  | Contenuto                        |
 |-------|----------------------------------|
@@ -50,7 +50,7 @@ Le stanze vuote sono frequenti e di solito sono benvenute anche se sono inquieta
 ### Trucchi e trappole
 Trucchi e trappole possono essere subdoli o mortali e possono trovarsi quasi ovunque.
 
-#### Tabella XX: Trucchi e trappole
+#### Tabella 35: Trucchi e trappole
 
 | 2-12 | Tipo                  |
 |------|-----------------------|
@@ -94,7 +94,7 @@ La progettazione del dungeon è trattata in modo approfondito nelle regole base.
 ### Trappole casuali
 Usa questa tabella per progettare trappole. Sarà necessario impiegare un po' di creatività per rendere le trappole appropriate alla situazione e alle abilità dei PG.
 
-#### Tabella XX: Determinazione casuale delle trappole
+#### Tabella 36: Determinazione casuale delle trappole
 
 | D100  | Tipo di trappola                 | D100  | Tipo di trappola                                   |
 |-------|----------------------------------|-------|----------------------------------------------------|
@@ -121,7 +121,7 @@ Usa questa tabella per progettare trappole. Sarà necessario impiegare un po' di
 ### Dettagli d'atmosfera
 Le seguenti tabelle possono essere usate per aggiungere atmosfera ad aree altrimenti spoglie o poco interessanti. Questi dettagli d'atmosfera non hanno bisogno di essere spiegati in alcun modo, o se ispirano l'immaginazione potrebbero portare a ulteriori incontri unici o misteri. Tirate una o più volte sulla tabella qui sotto per ogni area. Tiri di dado diversi dovrebbero essere usati per determinare gli odori o i dettagli d'atmosfera tattili.
 
-#### Tabella XX: Dettagli atmosferici casuali
+#### Tabella 37: Dettagli atmosferici casuali
 
 | d12 | Odori        | Tangibili             | Visibili (d6)              |
 |-----|--------------|-----------------------|----------------------------|
@@ -139,7 +139,7 @@ Le seguenti tabelle possono essere usate per aggiungere atmosfera ad aree altrim
 | 12  | Solforosa    | Corrente ascensionale |                            |
 
 
-#### Tabella XX: Suoni casuali
+#### Tabella 38: Suoni casuali
 
 | D100   | Suono                         | D100  | Suono                     |
 |--------|-------------------------------|-------|---------------------------|
@@ -174,7 +174,7 @@ Le seguenti tabelle possono essere usate per aggiungere atmosfera ad aree altrim
 | 50-52  | Nome parlato                  | 0     | Urla (indistinguibili)    |
 
 
-#### Tabella XX: Contenuto misto delle stanze
+#### Tabella 39: Contenuto misto delle stanze
 
 | D100  | Contenuto                      | D100  | Contenuto                     |
 |-------|--------------------------------|-------|-------------------------------|
@@ -213,7 +213,7 @@ Le seguenti tabelle possono essere usate per aggiungere atmosfera ad aree altrim
 
 Quando si progetta un dungeon, ci sono zone che contengono incontri o aree speciali. Si può tirare o scegliere dalle seguenti tabelle per aiutare a progettare questi luoghi o oggetti unici. Bisogna fare attenzione a creare oggetti o aree che non possano essere abusati dai giocatori e in alcuni casi gli effetti associati a questi incontri dovrebbero essere temporanei o di uso limitato. Tirate o scegliete dalla Tabella delle Funzioni casuali prima, poi tirate o scegliete sulla Tabella delle Caratteristiche casuali. Se si tira a caso, non tutti i risultati avranno senso, quindi l'Arbitro dovrà tirare di nuovo o modificare l'interpretazione dei risultati. I dettagli specifici degli effetti sono lasciati al progetto dell'Arbitro, come la durata, il danno inflitto (se appropriato), i meccanismi di innesco, ecc.
 
-#### Tabella XX: Tabella delle funzioni casuali
+#### Tabella 40: Tabella delle funzioni casuali
 
 | D100  | Risultato                           | D100  | Risultato                   |
 |-------|-------------------------------------|-------|-----------------------------|
@@ -239,7 +239,7 @@ Quando si progetta un dungeon, ci sono zone che contengono incontri o aree speci
 | 49-50 | Mostro                              | 98-00 | Pozzo                       |
 
 
-#### Tabella XX: Tabella delle caratteristiche casuali
+#### Tabella 41: Tabella delle caratteristiche casuali
 
 | D100 | Caratteristica | D100 | Caratteristica |
 |-----------|-----------------------|-------|----------------------|
@@ -281,7 +281,7 @@ Quando si progetta un dungeon, ci sono zone che contengono incontri o aree speci
 ### Arredare di stanze particolari
 Le seguenti tabelle possono arricchire il contenuto dei laboratori di alchimia o di magia.
 
-#### Tabella XX: Arredamento d'alchimia o del mago
+#### Tabella 42: Arredamento d'alchimia o del mago
 
 | D100  | Oggetto               | D100  | Oggetto                      |
 |-------|-----------------------|-------|------------------------------|
@@ -320,7 +320,7 @@ Le seguenti tabelle possono arricchire il contenuto dei laboratori di alchimia o
 
 Usate la tabella qui sotto per determinare a caso il contenuto di barattoli, vasi o altri recipienti in un laboratorio.
 
-#### Tabella XX: Contenuto casuale del contenitore
+#### Tabella 43: Contenuto casuale del contenitore
 
 | D100  | Contenuto                  | D100  | Contenuto               |
 |-------|----------------------------|-------|-------------------------|
@@ -344,7 +344,7 @@ Usate la tabella qui sotto per determinare a caso il contenuto di barattoli, vas
 
 La seguente tabella può essere utilizzata per determinare quali dispositivi di tortura sono presenti in una stanza di tortura o in qualche altro luogo.
 
-#### Tabella XX: Arredamento della camera di tortura
+#### Tabella 44: Arredamento della camera di tortura
 
 | D20 | Dispositivi            | D20 | Strumenti           |
 |-----|------------------------|-----|---------------------|
@@ -373,7 +373,7 @@ La seguente tabella può essere utilizzata per determinare quali dispositivi di 
 
 È una legge della natura del gioco che a un certo punto i giocatori chiedano che tipo di persone ci sono in una taverna. Le seguenti tabelle possono essere usate per mettere in moto la creatività in modo che questa domanda possa avere una risposta al volo e in modo colorato. Questo è inteso come punto di partenza e l'Arbitro dovrebbe dare corpo agli avventori della taverna in qualsiasi misura sia necessaria in base alla situazione.
 
-#### Tabella XX: Avventori di taverne
+#### Tabella 45: Avventori di taverne
 
 | D20   | Razza     | D100  | Classe              | D4  | Sesso   |
 |-------|-----------|-------|---------------------|-----|---------|
@@ -391,7 +391,7 @@ La seguente tabella può essere utilizzata per determinare quali dispositivi di 
 
 <sup>1</sup>Tirare per una professione.
 
-#### Tabella XX: Professioni casuali
+#### Tabella 46: Professioni casuali
 
 | D100  | Professione             | D100  | Professione           |
 |-------|-------------------------|-------|-----------------------|
@@ -415,7 +415,7 @@ La seguente tabella può essere utilizzata per determinare quali dispositivi di 
 
 Si può tirare o scegliere più di una volta per ciascun individuo sulla seguente tabella. Si può usare come ispirazione quando si descrive o si gioca di ruolo la personalità e/o le motivazioni di un PNG.
 
-#### Tabella XX: Tratti casuali dell'avventore di taverna
+#### Tabella 47: Tratti casuali dell'avventore di taverna
 
 | D100 | Tratto           | D100 | Tratto        |
 |------|------------------|------|---------------|
