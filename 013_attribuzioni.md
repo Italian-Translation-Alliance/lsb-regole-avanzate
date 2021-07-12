@@ -1,3 +1,7 @@
+---
+nav_order: 14
+---
+
 # Attribuzioni
 
 Il testo di questo volume è tradotto e adattato da varie fonti di Open Game Content sotto licenza Open Gaming License 1.0A.

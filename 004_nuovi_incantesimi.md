@@ -1,3 +1,7 @@
+---
+nav_order: 5
+---
+
 # Capitolo 4: Nuovi Incantesimi
 
 Le classi personaggio aggiuntive del Druido e dell'Illusionista introducono nuovi incantesimi che sono descritti in questo capitolo.

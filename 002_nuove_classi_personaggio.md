@@ -1,3 +1,7 @@
+---
+nav_order: 3
+---
+
 # Capitolo 2: Nuove Classi Personaggio
 
 ## L'Assassino

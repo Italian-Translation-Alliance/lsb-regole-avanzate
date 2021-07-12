@@ -1,3 +1,7 @@
+---
+nav_order: 1
+---
+
 # Introduzione
 
 Benvenuti nelle regole avanzate de *La Scatola Bianca* nel quale Arbitri e giocatori potranno trovare materiale di gioco aggiuntivo: nuove classi e razze personaggi, nuovi mostri e incantesimi, procedure di gioco e regole di esplorazione avanzata.
