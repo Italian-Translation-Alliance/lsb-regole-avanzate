@@ -2,9 +2,7 @@
 nav_exclude: true
 ---
 
-# La Scatola Bianca
-
-## Regole Avanzate
+# La Scatola Bianca: Regole Avanzate
 
 ### Traduzione
 Roberto Bisceglie  
