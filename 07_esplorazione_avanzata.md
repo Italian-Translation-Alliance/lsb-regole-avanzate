@@ -81,6 +81,7 @@ Quando viene indicata una roccaforte, si tratta di una torre occupata o di una f
 
 #### Tabella 19: Residente della Roccaforte
 
+
 | Tiro d6 | Allineamento | Classe        | Seguito   (1-6) |                |               |
 |---------|--------------|---------------|-----------------|----------------|---------------|
 | 1       | C            | Anti-chierico | 1\. Antieroi    | 2\. Licantropi | 3\. Meduse    |
@@ -473,6 +474,7 @@ La distanza dall'orizzonte è relativa all'altitudine. In condizioni di tempo se
 Le creature volanti diverse dagli elementali dell'aria hanno bisogno di appollaiarsi durante la notte (o durante il giorno se viaggiano di notte). Inoltre, le creature volanti diverse dai draghi e dagli elementali dell'aria hanno bisogno di un giorno intero di riposo dopo sei giorni di viaggio; gli elementali dell'aria sono volatori instancabili, mentre i draghi hanno bisogno di una settimana intera di sonno dopo sei settimane di attività.
 
 ### Tempo atmosferico
+
 Anche se il viaggio via aerea è veloce, è gravemente influenzato dal maltempo.
 
 Le condizioni metereologiche dovrebbero essere determinate dall'arbitro per ogni giorno di esplorazione aerea. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento. Il viaggio aereo può essere pericoloso con vento forte e tempeste; i viaggiatori rischiano di essere spinti contro ostacoli, colpiti da fulmini o detriti volanti, e così via.
