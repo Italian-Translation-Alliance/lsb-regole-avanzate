@@ -49,8 +49,8 @@ White Box: Expanded Lore, Copyright 2020, Simon Piecha
 
 White Box: Unearthed Trove, Copyright 2020, Jonathan Rowe
 
-La Scatola Bianca, Copyright 2011, Roberto Bisceglie and Alessio Persichetti
+La Scatola Bianca, Copyright 2021, Roberto Bisceglie and Alessio Persichetti
 
-La Scatola Bianca: regole avanzate, Copyright 2011, Roberto Bisceglie and Alessio Persichetti
+La Scatola Bianca: regole avanzate, Copyright 2021, Roberto Bisceglie and Alessio Persichetti
 
 “Swords &Wizardry, S&W, WhiteBox e Mythmere Games sono marchi registrati di Matthew J. Finch,” Italian Translation Alliance non è affiliato con Matthew J. Finch o Mythmere Games™.
