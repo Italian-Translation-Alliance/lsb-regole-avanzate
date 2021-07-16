@@ -12,7 +12,7 @@ Questo volume è una cassetta degli attrezzi per permettere di espandere le vost
 
 Nel **Capitolo 1** si presenta il "Gioco Vecchia Scuola" e le sue caratteristiche peculiari rispetto alla "Nuova Scuola" nata all'inizio del secolo con le nuove edizioni del "gioco di ruolo più famoso del mondo". *La Scatola Bianca* si inserisce nel primo filone. Anche se il primo volume ha omesso espressamente questo aspetto, ci è sembrato opportuno introdurre esplicitamente i concetti che potete trovare dettagliati in altri libelli come i *Principia Apocrypha*, che potete scaricare gratuitamente qui [https://osr-italia.itch.io/principia-apocrypha](https://osr-italia.itch.io/principia-apocrypha).
 
-Nei **Capitoli 2, 3 e 4** potrete trovare le nuove classi e razze personaggio e i relativi incantesimi. Vengono infatti introdotti, tra le altre, due nuovi "utenti magici": il druido (esperto di magia "naturale") e l'illusionista (che come lascia intendere il titolo, utilizza le magie illusorie).
+Nei **Capitoli 2, 3 e 4** potrete trovare le nuove classi e razze personaggio e i relativi incantesimi. Vengono infatti introdotti, tra le altre, due nuovi incantatori: il druido (esperto di magia "naturale") e l'illusionista (che come lascia intendere il titolo, utilizza le magie illusorie).
 
 Il **Capitolo 5** contiene alcune regole opzionali di combattimento e introduce il combattimento marittimo e areo.
 
