@@ -3,7 +3,7 @@
 ## L'Assassino
 Gli assassini sono sicari a pagamento con abilità di sotterfugio e omicidio. Eccellono nell'uso del veleno e possono ricevere cospicue ricompense per i loro servizi.
 
-Gli assassini possono avanzare fino al 10° livello. Possono usare qualunque oggetto magico usabile anche dai Ladri. Gli assassini sono di solito umani ma a discrezione dell'Arbitro anche i Mezz'Orchi possono essere assassini. Gli Assassini sono solitamente Caotici ma qualcuno potrebbe essere di allineamento Neutrale. La loro professione impedisce loro di essere Legali nella maggior parte delle società. 
+Gli assassini possono avanzare fino al 10° livello. Possono usare qualunque oggetto magico usabile anche dai Ladri. Gli assassini sono di solito umani ma a discrezione dell'Arbitro anche i Mezzorchi possono essere assassini. Gli Assassini sono solitamente Caotici ma qualcuno potrebbe essere di allineamento Neutrale. La loro professione impedisce loro di essere Legali nella maggior parte delle società. 
 
 #### Tabella 1: Avanzamento dell'Assassino
 
@@ -350,7 +350,7 @@ Il Carisma è l'attributo principale dei paladini, il che significa che un punte
 ## Ranger
 I ranger sono uomini di frontiera ed esploratori che proteggono la gente dei regni pacifici dai pericoli delle terre selvagge. I ranger sono in sintonia con la natura proprio come i paladini servono le loro divinità legali. I ranger devono essere sempre Legali, anche se i bruti caotici (Anti-Ranger) esistono e possono essere creati se l'Arbitro è d'accordo.
 
-I ranger di solito sono Umani, ma a discrezione dell'Arbitro Elfi o Mezz'Orchi possono essere Ranger.
+I ranger di solito sono Umani, ma a discrezione dell'Arbitro Elfi o Mezzorchi possono essere Ranger.
 
 #### Tabella 9: Avanzamento del Ranger
 
