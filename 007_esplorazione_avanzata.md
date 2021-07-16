@@ -4,7 +4,7 @@ nav_order: 8
 
 # Capitolo 7: Esplorazione avanzata
 
-*La Scatola Bianca* contiene le regole di base per l'esplorazione delle Terre Selvagge. Per i gruppi di giocatori che volessero approfondire questo aspetto del gioco, questo capitolo fornisce regole più approfondite.
+*La Scatola Bianca* contiene le regole di base per l'esplorazione delle Terre Selvagge. Per i gruppi di giocatori che volessero approfondire questo aspetto del gioco, questo capitolo fornisce regole più dettagliate.
 
 ### Determinare il terreno
 
@@ -15,12 +15,12 @@ nav_order: 8
 | Tiro 2d6 | Terreno casuale adiacente all'esagono di tipo noto |          |          |          |          |        |
 |----------|----------------------------------------------------|----------|----------|----------|----------|--------|
 |          | Terreno                                            | Aperto   | Bosco    | Montagna | Deserto  | Palude |
-| 2        | Deserto                                            | Deserto  | Aperto   | Aperto   | Montagna |        |
+| 2        | Deserto                                            | Deserto  | Aperto   | Aperto   | Montagna | Montagna        |
 | 3        | Deserto                                            | Aperto   | Montagna | Aperto   | Montagna | Palude |
 | 4        | Aperto                                             | Aperto   | Bosco    | Deserto  | Montagna | Palude |
 | 5        | Aperto                                             | Montagna | Bosco    | Montagna | Deserto  | Palude |
 | 6        | Bosco                                              | Aperto   | Bosco    | Montagna | Deserto  | Palude |
-| 7        | Montagna                                           | Aperta   | Aperta   | Deserto  | Bosco    |        |
+| 7        | Montagna                                           | Aperta   | Aperta   | Deserto  | Bosco    | Bosco  |
 | 8        | Bosco                                              | Aperto   | Bosco    | Montagna | Deserto  | Palude |
 | 9        | Aperto                                             | Bosco    | Bosco    | Montagna | Deserto  | Palude |
 | 10       | Aperto                                             | Aperto   | Bosco    | Bosco    | Deserto  | Palude |
@@ -52,6 +52,7 @@ Oltre al suo tipo di terreno, ogni esagono può eventualmente contenere una (o p
 ‡ Sempre con un sentiero.
 
 Notate che i fiumi e i sentieri dovrebbero coprire un certo numero di esagoni. 
+
 L'Arbitro dovrebbe piazzare questi elementi senza tirare i dadi dopo aver riempito esagoni adiacenti, a meno che essi non presentino: montagne (dove nascono i fiumi); paludi (dove sfociano i fiumi); esagoni aperti (dove terminano i sentieri).
 
 ### Visibilità
@@ -130,11 +131,11 @@ Villaggi e città hanno rispettivamente 100-400 e 1.000-6.000 abitanti. Le aree 
 L'Arbitro può assumere che i 3 esagoni (18 miglia di raggio) intorno ad una roccaforte alleata siano liberi, pattugliati o comunque relativamente sicuri. Città e villaggi controllano aree più piccole, ma tutto ciò che si trova al di là di queste immediate vicinanze è conosciuto come "terra selvaggia". Questi vasti tratti sono comunque punteggiati da villaggi e castelli di posizione sconosciuta, così come enclavi, rovine e altre curiosità in attesa di essere scoperte.
 
 ## Incontri nella Terre Selvagge
-I mostri erranti si incontrano nelle terre selvagge come nel Sottomondo. L'arbitro dovrebbe controllare una volta al giorno nelle immediate vicinanze di un insediamento amico o di una roccaforte con un tiro di 6 su 1d6 che indica un incontro. Nelle Terre Selvagge l'Arbitro dovrebbe controllare una volta al giorno in terreno aperto o nel deserto o due volte al giorno in boschi, paludi, montagne e terre fluviali. 
+I mostri erranti si incontrano nelle terre selvagge come nel Sottomondo. L'Arbitro dovrebbe controllare una volta al giorno nelle immediate vicinanze di un insediamento amico o di una roccaforte con un tiro di 6 su 1d6 che indica un incontro. Nelle Terre Selvagge l'Arbitro dovrebbe controllare una volta al giorno in terreno aperto o nel deserto o due volte al giorno in boschi, paludi, montagne e terre fluviali. 
 
 L'Arbitro dovrebbe fare un'ulteriore verifica al giorno se i giocatori si sono persi o si trovano ad un ponte o ad una fortezza.
 
-Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro tirando a dadi sulla tabella degli incontri nella natura appropriata per il tipo di terreno.
+Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro tirando i dadi sulla tabella degli incontri nella natura appropriata per il tipo di terreno.
 
 #### Tabella 20: Incontri nelle Terre Selvagge
 
@@ -236,11 +237,11 @@ Si noti che la mappatura è impossibile durante l'inseguimento. L'Arbitro dovreb
 
 Entrambe le parti devono riposare per il resto del turno (un giorno) dopo aver risolto un inseguimento, indipendentemente dal fatto che abbia portato ad un incontro o meno. All'inizio del prossimo turno (giorno) i giocatori si considerano persi. Non sapranno esattamente dove si trovano, ma solo che hanno sopportato un lungo inseguimento e percorso molte leghe in una direzione a caso.
 
-## Esplorazione marittina
+## Esplorazione marittima
 
 Come per l'esplorazione delle Terre Selvagge, le regioni oceaniche sconosciute ai giocatori possono essere mappate in anticipo o man mano che vengono esplorate. Le caratteristiche principali dovrebbero essere collocate in modo ponderato e il resto dovrebbe essere riempito con determinazione casuale.
 
-L'arbitro può usare le seguenti tabelle per generare regioni oceaniche per la navigazione. 
+L'Arbitro può usare le seguenti tabelle per generare regioni oceaniche per la navigazione. 
 
 #### Tabella 21: Mare inesplorato casuale
 
@@ -312,7 +313,7 @@ I tassi di movimento per le navi a vela presuppongono che abbiamo vento fresco a
 
 Un esagono dovrebbe essere aggiunto quando si viaggia con una corrente a favore o sottratto quando si viaggia contro corrente.
 
-#### Riserve
+#### Ricambi
 Ad eccezione delle barche e delle zattere, tutti i velieri hanno remi di riserva e tutte le barche a vela hanno vele di riserva da utilizzare in caso di necessità. Queste permettono di muoversi a metà velocità.
 
 #### Riposo
@@ -338,16 +339,16 @@ In mare la forza e la direzione del vento dovrebbero essere determinate ogni gio
 In mare aperto barche, zattere e galee si capovolgono in caso di vento forte con un tiro di 1-2 su 1d6 ad ogni turno.
 
 #### Tempeste
-La navigazione è impossibile in condizioni di tempesta e qualsiasi imbarcazione si capovolge con un tiro di 1-2 su 1d6 per ogni turno. Qualsiasi imbarcazione che non si capovolge viene invece spostata di 2-7 esagoni in una direzione determinata segretamente dall'arbitro e viene immediatamente considerata come dispersa.
+La navigazione è impossibile in condizioni di tempesta e qualsiasi imbarcazione si capovolge con un tiro di 1-2 su 1d6 per ogni turno. Qualsiasi imbarcazione che non si capovolge viene invece spostata di 2-7 esagoni in una direzione determinata segretamente dall'Arbitro e viene immediatamente considerata come dispersa.
 
 ### Perdersi
-Il capitano di una nave non avrà difficoltà a navigare su una rotta conosciuta finché il tempo rimane buono. Tuttavia, se il tempo diventa brutto, c'è la possibilità di perdersi. L'arbitro dovrebbe tirare segretamente 1d6 per ogni giorno trascorso con vento forte: un 1-2 indica che i giocatori si sono persi. Se questo accade, l'arbitro dovrebbe spostarli ad una distanza/direzione imprevista sulla sua mappa, senza avvertirli.
+Il capitano di una nave non avrà difficoltà a navigare su una rotta conosciuta finché il tempo rimane buono. Tuttavia, se il tempo diventa avverso, c'è la possibilità di perdersi. L'Arbitro dovrebbe tirare segretamente 1d6 per ogni giorno trascorso con vento forte: un 1-2 indica che i giocatori si sono persi. Se questo accade, l'Arbitro dovrebbe spostarli ad una distanza/direzione imprevista sulla sua mappa, senza avvertirli.
 
 ### Insediamenti e roccaforti
-Insediamenti e roccaforti si determinano in mare come nelle Terre Selvagge. Questi possono essere interamente o parzialmente sommersi, costruiti su pontoni galleggianti, aggrappati a prominenze rocciose o qualsiasi altra cosa l'arbitro desideri. Che siano amichevoli o meno può essere determinato con una prova di reazione.
+Insediamenti e roccaforti si determinano in mare come nelle Terre Selvagge. Questi possono essere interamente o parzialmente sommersi, costruiti su pontoni galleggianti, aggrappati a prominenze rocciose o qualsiasi altra cosa l'Arbitro desideri. Che siano amichevoli o meno può essere determinato con una prova di reazione.
 
 ### Incontri in mare
-I mostri erranti si incontrano in mare proprio come nelle Terre Selvagge. L'arbitro non ha bisogno di controllare se ci sono mostri erranti mentre i giocatori sono entro 3 esagoni (18 miglia) da un porto amico, ma una volta in mare aperto dovrebbe controllare una volta al giorno in mare aperto o due volte al giorno lungo una costa o una via navigabile. Un ulteriore controllo dovrebbe essere effettuato ogni giorno se i giocatori si sono persi. Un tiro di 6 su 1d6 indica che ci sarà un incontro.
+I mostri erranti si incontrano in mare proprio come nelle Terre Selvagge. L'Arbitro non ha bisogno di controllare se ci sono mostri erranti mentre i giocatori sono entro 3 esagoni (18 miglia) da un porto amico, ma una volta in mare aperto dovrebbe controllare una volta al giorno in mare aperto o due volte al giorno lungo una costa o una via navigabile. Un ulteriore controllo dovrebbe essere effettuato ogni giorno se i giocatori si sono persi. Un tiro di 6 su 1d6 indica che ci sarà un incontro.
 
 Quando viene determinato un incontro, stabilite il tipo di mostro tirando i dadi sulla tabella degli incontri in mare. Se i giocatori stanno viaggiando lungo una costa o una via d'acqua interna, è altrettanto probabile che un incontro avvenga a terra come in mare. In questo caso, usate la tabella degli incontri nelle Terre Selvagge.
 
@@ -378,13 +379,13 @@ Quando viene determinato un incontro, stabilite il tipo di mostro tirando i dadi
 
 
 #### Sorpresa
-La sorpresa avviene in mare (come nel Sottomondo) con un lancio di 5-6 su un1d6. Se i giocatori sono sorpresi, le navi o i mostri nemici li raggiungono da sopravento, emergono improvvisamente da banchi di nebbia o piogge, appaiono da dietro le onde o emergono inaspettatamente da sott'acqua.
+La sorpresa avviene in mare (come nel Sottomondo) con un tiro di 5-6 su 1d6. Se i giocatori sono sorpresi, le navi o i mostri nemici li raggiungono da sopravento, emergono improvvisamente da banchi di nebbia o piogge, appaiono da dietro le onde o emergono inaspettatamente da sott'acqua.
 
 ### Distanza dell'incontro
-Se una delle due parti è sorpresa, l'incontro inizia a 10-60 metri di distanza e la parte sorpresa non potrà rispondere per un turno; altrimenti, l'incontro inizia a 40-240 metri di distanza, il raggio d'azione è di 1" (10 metri come in natura). La gittata dell'artiglieria navale è tipicamente di 300 iarde.
+Se una delle due parti è sorpresa, l'incontro inizia a 10-60 iarde di distanza e la parte sorpresa non potrà rispondere per un turno; altrimenti, l'incontro inizia a 40-240 iarde di distanza, il raggio d'azione è di 1" (10 iarde come nelle Terre Selvagge). La gittata dell'artiglieria navale è tipicamente di 300 iarde.
 
 #### Reazione dei mostri
-La reazione dei mostri ai giocatori in mare è come nel Sottomondo.
+La reazione ai giocatori dei mostri in mare è come nel Sottomondo.
 
 ### Fuga e inseguimento
 La fuga e l'inseguimento in mare avvengono come nelle Terre Selvagge con le seguenti considerazioni aggiuntive:
@@ -395,14 +396,14 @@ La fuga e l'inseguimento in mare avvengono come nelle Terre Selvagge con le segu
 Qualsiasi personaggio giocante cresciuto sulla costa o vicino a un corso d'acqua può nuotare, così come qualsiasi personaggio non giocante che tira un 4-6 su 1d6. Il nuoto ha una velocità di 6" in circostanze ideali; altrimenti 3". Un personaggio può nuotare al massimo per un giorno, dopodiché annega.
 
 ### Annegamento
-Chiunque si butti in mare rischia di annegare. La metà dell'equipaggio di una nave non sa nuotare e annega automaticamente; altrimenti, gli uomini non armati che sanno nuotare sopravvivono con un tiro di 2-6 1d6 se si liberano immediatamente di qualsiasi cosa più pesante di un pugnale. Ogni oggetto più pesante trattenuto aumenta il rischio di annegamento di 1 su 6. Le armature di pelle e di posta contano rispettivamente uno e quattro oggetti, mentre le armature di piastre causano l'annegamento automatico. Durante una tempesta c'è sempre un minimo di 3 possibilità su 6 di annegare. La sopravvivenza indica che il personaggio è riuscito a rimuovere la sua armatura prima di annegare.
+Chiunque si butti in mare rischia di annegare. La metà dell'equipaggio di una nave non sa nuotare e annega automaticamente; altrimenti, gli uomini non armati che sanno nuotare sopravvivono con un tiro di 2-6 su 1d6 se si liberano immediatamente di qualsiasi cosa più pesante di un pugnale. Ogni oggetto più pesante trattenuto aumenta il rischio di annegamento di 1 su 6. Le armature di pelle e di posta contano rispettivamente uno e quattro oggetti, mentre le armature di piastre causano l'annegamento automatico. Durante una tempesta c'è sempre un minimo di 3 possibilità su 6 di annegare. La sopravvivenza indica che il personaggio è riuscito a rimuovere la sua armatura prima di annegare.
 
 ## Esplorazione aerea
 Se i giocatori si dotano di cavalcature alate, possono mappare regioni selvagge e oceaniche attraverso l'esplorazione aerea.
 
-L'arbitro potrebbe anche voler includere regioni in cima alle nuvole che possono essere raggiunte solo volando. 
+L'Arbitro potrebbe anche voler includere regioni in cima alle nuvole che possono essere raggiunte solo volando. 
 
-L'arbitro può usare le seguenti tabelle per generare regioni in cima alle nuvole per l'esplorazione aerea. 
+L'Arbitro può usare le seguenti tabelle per generare regioni in cima alle nuvole per l'esplorazione aerea. 
 
 #### Tabella 26: Regione area casuale
 
@@ -481,7 +482,7 @@ Le creature volanti diverse dagli elementali dell'aria hanno bisogno di appollai
 
 Anche se il viaggio via aerea è veloce, è gravemente influenzato dal maltempo.
 
-Le condizioni metereologiche dovrebbero essere determinate dall'arbitro per ogni giorno di esplorazione aerea. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento. Il viaggio aereo può essere pericoloso con vento forte e tempeste; i viaggiatori rischiano di essere spinti contro ostacoli, colpiti da fulmini o detriti volanti, e così via.
+Le condizioni metereologiche dovrebbero essere determinate dall'Arbitro per ogni giorno di esplorazione aerea. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento. Il viaggio aereo può essere pericoloso con vento forte e tempeste; i viaggiatori rischiano di essere spinti contro ostacoli, colpiti da fulmini o detriti volanti, e così via.
 
 #### Tabella 29: Meteo e velocità di volo
 
@@ -496,16 +497,16 @@ Le condizioni metereologiche dovrebbero essere determinate dall'arbitro per ogni
 
 **Venti forti** Le creature volanti di tipo normale, i tappeti volanti, i manici di scopa volanti e simili si schiantano in caso di vento forte con un tiro di 1-2 su 1d6, controllato una volta ogni turno.
 
-**Tempeste** La navigazione è impossibile in condizioni di tempesta e qualsiasi creatura volante (diversa dagli elementali dell'aria) o nave si schianta con un tiro di 1-2 su 1d6. Un volatore che non si schianta viene invece spostato di 2-7 esagoni in una direzione determinata segretamente dall'arbitro e viene immediatamente considerato disperso.
+**Tempeste** La navigazione è impossibile in condizioni di tempesta e qualsiasi creatura volante (diversa dagli elementali dell'aria) o nave si schianta con un tiro di 1-2 su 1d6. Un volatore che non si schianta viene invece spostato di 2-7 esagoni in una direzione determinata segretamente dall'Arbitro e viene immediatamente considerato disperso.
 
 ### Perdersi
-Un pilota non avrà difficoltà a navigare su una rotta conosciuta finché il tempo rimane buono. Tuttavia, se il tempo dovesse diventare brutto, è possibile perdersi. L'arbitro dovrebbe tirare segretamente 1d6 ogni giorno trascorso con vento forte: un 1-2 indica che i giocatori si sono persi. Se questo accade, l'arbitro dovrebbe spostarli ad una distanza/direzione non prevista sulla sua mappa, senza avvertirli.
+Un pilota non avrà difficoltà a navigare su una rotta conosciuta finché il tempo rimane buono. Tuttavia, se il tempo dovesse diventare brutto, è possibile perdersi. L'Arbitro dovrebbe tirare segretamente 1d6 ogni giorno trascorso con vento forte: un 1-2 indica che i giocatori si sono persi. Se questo accade, l'Arbitro dovrebbe spostarli ad una distanza/direzione non prevista sulla sua mappa, senza avvertirli.
 
 ### Insediamenti e roccaforti
-Insediamenti e roccaforti sono presenti in aria come nelle Terre Selvagge. A bassa quota è probabile che si trovino sul terreno. Se vengono scoperti ad alta quota potrebbero essere torri levitanti, costruite su banchi di nuvole, sospese da squadriglie di mongolfiere, o qualsiasi altra cosa l'arbitro desideri. Se queste saranno amichevoli o meno può essere determinato con una prova di reazione.
+Insediamenti e roccaforti sono presenti in aria come nelle Terre Selvagge. A bassa quota è probabile che si trovino sul terreno. Se vengono scoperti ad alta quota potrebbero essere torri levitanti, costruite su banchi di nuvole, sospese da squadriglie di mongolfiere, o qualsiasi altra cosa l'Arbitro desideri. Se queste saranno amichevoli o meno può essere determinato con una prova di reazione.
 
 ### Incontri aerei
-Gli incontri avvengono in aria proprio come nella natura. L'arbitro dovrebbe controllare una volta al giorno, con un tiro di un 6 su 1d6 che indica un incontro.
+Gli incontri avvengono in aria proprio come nella natura. L'Arbitro dovrebbe controllare una volta al giorno, con un tiro di un 6 su 1d6 che indica un incontro.
 
 Quando si verifica un incontro, determinate il tipo di mostro tirando i dadi sulla tabella degli incontri in aria. Se i giocatori stanno viaggiando a bassa quota è altrettanto probabile che l'incontro avvenga in superficie o in volo. In questo caso usate la tabella degli incontri nelle Terre Selvagge.
 
@@ -544,10 +545,10 @@ Quando si verifica un incontro, determinate il tipo di mostro tirando i dadi sul
 La sorpresa avviene in aria (come nel Sottomondo) con un lancio di 5-6 su un dado a sei facce. Se i giocatori vengono sorpresi i loro nemici arriveranno tipicamente sopravento o dall'alto, emergeranno improvvisamente dalle nuvole o dalle piogge o emergeranno contro il bagliore del sole.
 
 #### Distanza dell'incontro
-Se una delle due parti è sorpresa, un incontro inizierà a 10-60 metri di distanza e la parte sorpresa non sarà in grado di rispondere per un turno; altrimenti, un incontro inizierà a 40-240 metri di distanza. La gittata dell'artiglieria aerea è tipicamente di 300 metri.
+Se una delle due parti è sorpresa, un incontro inizierà a 10-60 iarde di distanza e la parte sorpresa non sarà in grado di rispondere per un turno; altrimenti, un incontro inizierà a 40-240 iarde di distanza. La gittata dell'artiglieria aerea è tipicamente di 300 iarde.
 
 #### Reazione dei mostri
-La reazione dei mostri ai giocatori sull'ala è come nel Sottomondo.
+La reazione ai giocatori dei mostri in aria è come nel Sottomondo.
 
 ### Evasione e inseguimento
 La fuga e l'inseguimento aerei sono come nelle Terre Selvagge con le seguenti considerazioni aggiuntive:
