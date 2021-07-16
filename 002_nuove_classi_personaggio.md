@@ -24,7 +24,7 @@ Gli assassini possono avanzare fino al 10° livello. Possono usare qualunque ogg
 ### Abilità dell'Assassino
 
 #### Restrizioni su armi ed armature
-Gli assassini possono usare qualunque armi ma sono limitati all'armatura di cuoio; possono usare scudi. 
+Gli assassini possono usare qualunque arma ma sono limitati all'armatura di cuoio; possono usare scudi. 
 
 #### Pugnalata alla schiena
 Gli assassini possono pugnalare alle spalle un avversario che non è consapevole della sua presenza (di solito a causa della sorpresa), ricevendo +2 sul tiro per colpire. L'assassino è ancora più letale del Ladro nel pugnalare alle spalle ladro, tirando il dado del danno tre volte per un colpo riuscito.
@@ -38,13 +38,13 @@ Se il tiro ha successo, il complotto funziona come previsto. La vittima deve anc
 
 L'abilità Assassinare può anche essere usata per individuare una trappola o rimuovere una trappola. Le trappole create dagli Assassini possono fare una delle seguenti cose seguenti se il tiro per Assassinare è successo quando vengono attivate: infliggere 1d6 danni, far sì che il bersaglio salvi contro Veleno o morire o causare la cattura del bersaglio catturato per 1d6 round.
 
-> **Suggerimento:** L'arbitro dovrebbe tirare un d6 e confrontarlo con l'abilità Assassinare e informare il giocatore se la trappola è stata piazzata con successo dopo che è stata attivata. Gli assassini vengono pagati per missioni di successo e possono guadagnare XP pari al invece del livello/dadi di successo del bersaglio. Tuttavia, sono tenuti a dare metà dell'oro che guadagnano alla loro gilda.
+> **Suggerimento:** L'arbitro dovrebbe tirare un d6 e confrontarlo con l'abilità Assassinare e informare il giocatore se la trappola è stata piazzata con successo dopo che è stata attivata. Gli assassini vengono pagati per missioni di successo e possono guadagnare PE pari al prezzo invece del livello/dadi vita. Tuttavia, sono tenuti a dare metà dell'oro che guadagnano alla loro gilda.
 
 #### Tabella 2: Ricompense dell'Assassino
 
 | Livello |   Ricompensa   |
 |:-------:|:--------------:|
-|   1-2   | 100 / missione |
+|   1-2   |  100/missione  |
 |   3-5   |  500/missione  |
 |   6-8   |  1000/missione |
 |   9-10  |  5000/missione |
@@ -64,12 +64,12 @@ Gli assassini guadagnano un bonus di +2 contro veleni e trappole.
 Al nono livello, un Assassino può costruire un nascondiglio segreto in una città. Egli diventa un Maestro Assassino e attira i servizi di una banda di assassini di livello inferiore che imparano da lei o lui e gli pagano una parte dei loro guadagni in cambio di protezione dalla legge.
 
 ### Disgusto
-L'uso del veleno è deplorato in una società civilizzata. **Ogni volta che l'Assassino usa il Veleno, ogni compagno di avventura guadagna un punto Disgusto.** Alla fine di un avventura, i PC perdono -05% di tutta esperienza guadagnata per ogni punto Disgusto. L'Assassino può tentare di usare Veleno di nascosto: l'abilità Assassinio può anche essere usata per impedire ai compagni di guadagnare Disgusto quando si usa il Veleno (questo è un tiro separato dal tiro per assassinare un bersaglio). Tuttavia, l'avvelenamento segreto avvelenamento è ancora più inquietante per i compagni, quindi se questo stratagemma fallisce gli altri avventurieri guadagnano 2 punti Disgusto.
+L'uso del veleno è deplorato in una società civilizzata. **Ogni volta che l'Assassino usa il Veleno, ogni compagno di avventura guadagna un punto Disgusto.** Alla fine di un avventura, i PG perdono -5% di tutta esperienza guadagnata per ogni punto Disgusto. L'Assassino può tentare di usare Veleno di nascosto: l'abilità Assassinio può anche essere usata per impedire ai compagni di guadagnare Disgusto quando si usa il Veleno (questo è un tiro separato dal tiro per assassinare un bersaglio). Tuttavia, l'avvelenamento segreto è ancora più inquietante per i compagni, quindi se questo stratagemma fallisce gli altri avventurieri guadagnano 2 punti Disgusto.
 
 ## Bardo
 Menestrelli, artisti, poeti... i bardi hanno molti nomi. Li incontrerete nella maggior parte delle taverne dove cantano canzoni di potenti uccisori di draghi e di terre mistiche oltre l'orizzonte conosciuto.
 
-I bardi sono avventurieri purosangue e cacciatori di tesori... o per essere più precisi -- _cacciatori di avventure_. I bardi sono esperti in molte aree e sono3 custodi di tradizioni. Giocano un ruolo di supporto nel partito - possono non essere così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
+I bardi sono avventurieri purosangue e cacciatori di tesori... o per essere più precisi -- _cacciatori di avventure_. I bardi sono esperti in molte aree e sono custodi delle tradizioni. Giocano un ruolo di supporto nel partito - possono non essere così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
 
 #### Tabella 3: Avanzamento del Bardo
 
