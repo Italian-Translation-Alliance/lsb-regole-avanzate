@@ -1,16 +1,14 @@
 # Capitolo 9: Costruire una roccaforte
 
-Un personaggio facoltoso può voler costruire una roccaforte, come una fortezza, una torre, un castello o qualsiasi cosa sia abbordabile. Se ha raggiunto il 9° livello gli è sempre permesso di costruire questa fortezza, altrimenti avrà bisogno del permesso del governatore regionale. A seconda dell'allineamento, del carisma e delle prospettive politiche del personaggio, tale permesso potrebbe non essere sempre disponibile.
+Un personaggio facoltoso può voler costruire una roccaforte, come una fortezza, una torre, un castello o qualsiasi cosa sia abbordabile. Se ha raggiunto il 9° livello gli è sempre permesso di costruire questa roccaforte, altrimenti avrà bisogno del permesso del governatore regionale. A seconda dell'allineamento, del carisma e delle prospettive politiche del personaggio, tale permesso potrebbe non essere sempre concesso.
 
 I mostri devono essere eliminati da un raggio di tre esagoni (18 miglia) dal sito prima che qualsiasi costruzione possa iniziare. Una volta che una fortificazione è stata stabilita, tuttavia, i dintorni rimarranno liberi dai mostri finché saranno pattugliati in modo soddisfacente.
 
-La regione entro tre esagoni dalla roccaforte (37 esagoni in totale) conterrà tipicamente 2-8 villaggi di 100-400 abitanti; queste e altre caratteristiche possono essere determinate dall'arbitro usando le tabelle random wilderness hex. Se l'occupante della roccaforte è almeno di 9° livello ha il diritto di raccogliere 1 po al mese da ogni abitante per la loro protezione.I chierici possono raccogliere un ulteriore 1 po al mese per donazioni spirituali dove vengono fornite elemosine e servizi.
+La regione entro tre esagoni dalla roccaforte (37 esagoni in totale) conterrà tipicamente 2-8 villaggi di 100-400 abitanti; queste e altre caratteristiche possono essere determinate dall'Arbitro usando la tabella Terreno selvaggio casuale. Se l'occupante della roccaforte è almeno di 9° livello ha il diritto di raccogliere 1 po al mese da ogni abitante per la loro protezione. I chierici possono raccogliere un ulteriore 1 po al mese per donazioni spirituali dove vengono fornite elemosine e servizi.
 
-Queste entrate possono essere usate dal giocatore per gonfiare il suo tesoro personale o per promuovere il suo regno nascente con strade, ponti, fortificazioni, locande, chiese, allevamento di animali o qualsiasi altra cosa. Come queste attività influenzeranno la reputazione del personaggio e le sue prospettive politiche spetta all'arbitro deciderlo.
+Queste entrate possono essere usate dal giocatore per aumentare il suo tesoro personale o per promuovere il suo regno nascente con strade, ponti, fortificazioni, locande, chiese, allevamento di animali o qualsiasi altra cosa. Come queste attività influenzeranno la reputazione del personaggio e le sue prospettive politiche spetta all'Arbitro deciderlo.
 
 Di seguito sono riportati i costi delle strutture comuni, anche se qualsiasi variazione di dimensioni dovrebbe adeguare i costi in modo proporzionale.
-
-Fessura per le frecceQualsiasi apertura fortificata attraverso la quale possono essere scaricati i proiettili, compresi i fori per gli omicidi e le oliere.
 
 #### Tabella 31: Strutture
 
@@ -65,6 +63,8 @@ Fessura per le frecceQualsiasi apertura fortificata attraverso la quale possono 
 **Calderone** Una struttura di legno che mantiene sospeso un grande calderone sopra le merlature, permettendo ai difensori di versare acqua bollente o olio sulle mura.
 
 **Edificio** Una struttura a due piani larga 40 piedi e profonda 20 piedi, con soffitta e seminterrato. Le versioni in legno e in pietra sono identiche.
+
+**Fessura per le frecce** Qualsiasi apertura fortificata attraverso la quale possono essere scaricati i proiettili, compresi i fori per gli omicidi e le oliere.
 
 **Finestra** Una cornice coperta di vetro per ammettere la luce, fino a 3 piedi quadrati. Può essere aperta per una migliore visibilità.
 
