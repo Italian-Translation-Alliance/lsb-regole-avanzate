@@ -2,7 +2,17 @@
 nav_order: 9
 ---
 
+<details markdown="block">
+  <summary>
+    Sommario del capitolo
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Capitolo 8: Mostri Aggiuntivi
+{: .no_toc }
 
 I mostri sono la principale sfida che i giocatori dovranno affrontare nelle loro avventure. Comprendono tutti i veri orrori del mondo sotterraneo come troll, vampiri e draghi, così come tutti i personaggi non giocanti del mondo. Ogni personaggio che non è gestito da un giocatore è un mostro, anche i buoni cittadini e i mercenari dei giocatori.
 

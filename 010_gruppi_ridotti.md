@@ -2,7 +2,17 @@
 nav_order: 11
 ---
 
+<details markdown="block">
+  <summary>
+    Sommario del capitolo
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Capitolo 10: Gruppi ridotti
+{: .no_toc }
 
 Ogni Arbitro prima o poi deve affrontare la mancanza di giocatori. Può essere che metà del gruppo chiami appena prima della sessione o che una particolare partita possa interessare solo uno o due altri giocatori. La maggior parte delle volte un Arbitro annullerà semplicemente la sessione o tirerà fuori i giochi di carte, ma altre volte un Arbitro può desiderare di giocare anche con meno giocatori del solito.
 

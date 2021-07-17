@@ -1,8 +1,17 @@
 ---
 nav_order: 6
 ---
+<details markdown="block">
+  <summary>
+    Sommario del capitolo
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 # Capitolo 5: Combattimento avanzato
+{: .no_toc }
 
 Le regole di combattimento di *La Scatola Bianca* sono astratte e pensate per risoluzioni rapide. In questo capitolo sono presentate alcune opzioni aggiuntive per il combattimento corpo a corpo e si dettagliano le regole per i combattimenti marittimi e aerei
 

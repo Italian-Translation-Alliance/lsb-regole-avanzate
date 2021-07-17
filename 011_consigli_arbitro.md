@@ -2,7 +2,17 @@
 nav_order: 12
 ---
 
+<details markdown="block">
+  <summary>
+    Sommario del capitolo
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Capitolo 11: Consigli per l'Arbitro
+{: .no_toc }
 
 Questo capitolo fornisce alcuni consigli per l'Arbitro. Si noti che si tratta solo di suggerimenti e non dovrebbe essere preso come l'unico (o il migliore) modo di fare le cose.
 

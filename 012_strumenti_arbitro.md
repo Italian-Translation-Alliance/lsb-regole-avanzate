@@ -2,7 +2,17 @@
 nav_order: 13
 ---
 
+<details markdown="block">
+  <summary>
+    Sommario del capitolo
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Capitolo 12: Strumenti per l'Arbitro
+{: .no_toc }
 
 Le seguenti tabelle sono utili esempi di tabelle casuali che possono aiutare l'arbitro a creare materiale d'avventura. Queste tabelle sono utili già così come sono, ma potrebbe essere necesario adattarle alla propria campagna.
 

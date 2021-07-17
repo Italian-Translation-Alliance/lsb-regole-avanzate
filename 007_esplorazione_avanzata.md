@@ -2,7 +2,17 @@
 nav_order: 8
 ---
 
+<details markdown="block">
+  <summary>
+    Sommario del capitolo
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Capitolo 7: Esplorazione avanzata
+{: .no_toc }
 
 *La Scatola Bianca* contiene le regole di base per l'esplorazione delle Terre Selvagge. Per i gruppi di giocatori che volessero approfondire questo aspetto del gioco, questo capitolo fornisce regole più dettagliate.
 

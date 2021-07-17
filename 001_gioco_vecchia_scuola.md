@@ -2,7 +2,17 @@
 nav_order: 2
 ---
 
+<details markdown="block">
+  <summary>
+    Sommario del capitolo
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Capitolo 1: Il gioco Vecchia Scuola
+{: .no_toc }
 
 *La Scatola Bianca* è un gioco "Vecchia Scuola". È progettato per uno stile di gioco completamente diverso da quello a cui sono abituati molti giocatori che hanno iniziato a giocare negli ultimi 20 anni. Questa sottosezione darà una breve panoramica del gioco "Vecchia Scuola".
 
