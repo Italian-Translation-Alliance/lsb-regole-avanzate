@@ -32,7 +32,7 @@ L'unità di tempo di base per l'esplorazione della natura è il giorno. È una b
 
 1. **Inizio**: L'Arbitro avvisa il gruppo delle condizioni meteorologiche prevalenti e il gruppo decide da che parte andare.
 2. **Navigazione**: L'Arbitro controlla in segreto per determinare se il gruppo si è perso.
-3. **Controllare i mostri erranti**: Normalmente l'Arbitro dovrebbe fare due controlli ogni giorno, con una probabilità di incontro di 1 su 12 al giorno e un terzo controllo di notte.
+3. **Controllare i mostri erranti**: Normalmente l'Arbitro dovrebbe fare due controlli ogni giorno e un terzo controllo di notte (riferirsi alla Tabella 34 Perdersi e Incontri delle regole base).
 4. **Movimento e azione**: I membri del gruppo si muovono, compiono azioni stazionarie o entrambe.
 5. **Incontro**: Qualsiasi incontro viene risolto.
 6. **Accamparsi**: L'Arbitro indica quali opzioni ha il gruppo per accamparsi. 
