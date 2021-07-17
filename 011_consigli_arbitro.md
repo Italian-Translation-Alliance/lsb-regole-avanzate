@@ -2,48 +2,48 @@
 
 Questo capitolo fornisce alcuni consigli per l'Arbitro. Si noti che si tratta solo di suggerimenti e non dovrebbe essere preso come l'unico (o il migliore) modo di fare le cose.
 
-## Condurre un gioco senza talenti
-
-La più grande differenza tra le versioni moderne e quelle più vecchie come *La Scatola Bianca* è l'aggiunta dei talenti dei personaggi nelle versioni moderne. Se siete abituati a permettere ai giocatori di dire semplicemente "Sto cercando nella stanza. Cosa trovo?" e fare un tiro di ricerca o dire semplicemente "Cercherò di persuadere il barone a prestarci una catapulta" e fare un tiro di persuasione, condurre il gioco senza tiri sui talenti richiederà tanti cambiamenti al vostro modo di pensare quanti a quello dei vostri giocatori.
-
-Per prima cosa, avete bisogno che i vostri giocatori vi dicano cosa stanno effettivamente facendo i loro personaggi nel mondo della campagna, invece di parlare in termini di quale talenti stanno usando. Poi dovete imparare ad ascoltare ciò che dicono e decidere se la loro descrizione di ciò che stanno facendo a) risolverebbe molto probabilmente il problema, b) non avrebbe la possibilità di risolvere il problema, c) potrebbe non risolvere immediatamente il problema ma fornirebbe più informazioni che aiuterebbero a risolvere il problema, o d) non risolverebbe sicuramente il problema ma ha una buona possibilità di farlo. Solo l'opzione d richiederebbe un tiro di dado.
-
-Prendiamo come esempio il controllare un forziere per cercare delle trappole. Chiedete ai giocatori di descrivere in termini generali come controlleranno il forziere per le trappole. Notate che i termini generali sono sufficienti, l'idea è quella di vedere cosa fanno i personaggi, non di richiedere loro di descrivere ogni singolo muscolo e movimento degli occhi che fanno.
-
-Diciamo che un giocatore dice: "Guarderò velocemente il forziere alla ricerca di trappole ovvie, prestando particolare attenzione al buco della serratura, alla chiusura e a tutto ciò che sembra fuori dall'ordinario. Non lo tocco ancora."
-
-Se il forziere avesse un ago avvelenato vicino alla chiusura o qualche buco da cui far uscire gas velenoso o aghi, questo dovrebbe essere sufficiente al personaggio per notarlo senza un tiro, anche se non è un Ladro o simile. Tuttavia, se il forziere è impostato per esplodere (o sparare pugnali dall'apertura quando viene aperto), un tipo di ricerca simile non scoprirà la trappola — di nuovo, non importa quale sia la classe del personaggio, poiché una trappola del genere non è visibile dall'esterno. Se vi sentite generosi, potreste far fare un tiro al Ladro e, se lo fa, dire al suo giocatore che anche se non vede una trappola, c'è ancora qualcosa che non va nel forziere.
-
-Se il personaggio avesse detto che stava punzecchiando il forziere con un'asta invece che precipitarsi ad aprirlo, potrebbe sentire qualcosa di strano se il forziere avesse la suddetta trappola di pugnali. Naturalmente, a meno che non sia un Ladro, è probabile che non assocerà il rumore a una trappola, ma solo al fatto che c'è qualcosa che non va nel forziere.
-
-## Sul fallimento
-
-Se un personaggio tenta di fare qualcosa, il fallimento non dovrebbe significare altro che questo: il personaggio non è riuscito a fare ciò che stava cercando di fare. Il fallimento non dovrebbe significare che si è verificato il peggiore dei disastri. Per esempio, se un personaggio fallisce mentre tenta di scalare una scogliera, questo dovrebbe significare semplicemente che il personaggio non ce l'ha fatta ad arrivare in cima per qualche ragione descritta dall'Arbitro e che è dovuto tornare a terra (o è bloccato a metà strada, ecc.), non che il personaggio sia caduto a terra da vicino la cima della scogliera. Se il fallimento sta per portare ad un "disastro", invece di un qualche tipo di semplice fallimento, l'Arbitro dovrebbe dichiararlo con chiarezza prima che il personaggio tenti l'azione, in modo che il giocatore possa prendere una decisione informata sul se procedere o meno.
-
-## Compiti impossibili
-
-A meno che un'azione non sia impossibile o completamente fuori questione nelle circostanze attuali, quando un personaggio tenta di fare qualcosa dovrebbe esserci almeno una piccola possibilità di successo. Per esempio, l'Arbitro potrebbe assegnare una piccola possibilità di successo ad alcune azioni che sembrano quasi impossibili se non per fortuna. In questi casi, un tiro di 20 su un D20 (o un tiro di 100 su un D100) potrebbe essere una probabilità appropriata.
-
-## L'Arbitro come giudice
+## L'Arbitro come giudice imparziale
 
 Anche se i giocatori possono e vogliono dare suggerimenti o contestare le decisioni, l'Arbitro è e deve essere il giudice finale. Tutti i suggerimenti possono essere ascoltati, ma i giocatori devono capire che una volta che tutte le considerazioni sono state fatte, la decisione finale sarà valida. Ci sono regole in questo gioco per molte situazioni comuni, ma ci saranno molte altre situazioni che non possono essere coperte qui o semplicemente non sono state previste. In questi casi, l'Arbitro deve usare il suo giudizio per decidere le probabilità che un'azione abbia successo o che un evento si verifichi.
 
 Detto questo, l'Arbitro deve ricordarsi di essere neutrale nelle sue decisioni. Lo scopo del gioco è divertirsi, qualunque sia il destino che attende i personaggi, ma l'Arbitro non deve schierarsi con i personaggi, i mostri o i PNG.
 
+## Non eludere il risultato di un tiro
+È sempre più spesso consigliato agli Arbitri di ignorare o modificare il risultato dei tiri se questo va contro la trama dell'avventura o le possibilità di sopravvivenza dei personaggi. In un gioco della Vecchia Scuola, dove la sopravvivenza dei personaggi non è garantita e non è prevista alcuna "immunità di trama" (anzi dove la narrazione è più spesso di tipo emergente), è importante che l'Arbitro sia interprete imparziale del risultato dei dadi così come tirati. E anzi consigliabile tirare la maggior parte dei dadi, sopratutto in combattimento, allo scoperto e non dietro allo schermo. Si potrebbero mantenere celati dietro lo schermo i tiri che determinano l'esito di prove di cui il PG non deve essere consapevole (per esempio il successo delle abilità di Ladri o simili), oppure la generazione casuale di elementi di gioco il cui scopo è sorprendere i giocatori e mantenere vivo il gioco.
+
+## Condurre un gioco senza talenti
+
+La più grande differenza tra le versioni moderne e quelle più vecchie come *La Scatola Bianca* è l'aggiunta dei talenti dei personaggi nelle versioni moderne. Se siete abituati a permettere ai giocatori di dire semplicemente "Sto cercando nella stanza. Cosa trovo?" e fare un tiro di ricerca o dire semplicemente "Cercherò di persuadere il barone a prestarci una catapulta" e fare un tiro di persuasione, condurre il gioco senza tiri sui talenti richiederà tanti cambiamenti al vostro modo di pensare quanti a quello dei vostri giocatori.
+
+Per prima cosa, avete bisogno che i vostri giocatori vi dicano cosa stanno effettivamente facendo i loro personaggi nel mondo della campagna, invece di parlare in termini di quale talenti stanno usando. Poi dovete imparare ad ascoltare ciò che dicono e decidere se la loro descrizione di ciò che stanno facendo a) risolverebbe molto probabilmente il problema, b) non avrebbe la possibilità di risolvere il problema, c) potrebbe non risolvere immediatamente il problema ma fornirebbe più informazioni che aiuterebbero a risolvere il problema o d) non risolverebbe sicuramente il problema ma ha una buona possibilità di farlo. Solo l'opzione d richiederebbe un tiro di dado.
+
+Prendiamo come esempio il controllare un forziere per cercare delle trappole. Chiedete ai giocatori di descrivere in termini generali come controlleranno il forziere per le trappole. Notate che i termini generali sono sufficienti, l'idea è quella di vedere cosa fanno i personaggi, non di richiedere loro di descrivere ogni singolo muscolo e movimento degli occhi che fanno.
+
+Diciamo che un giocatore dice: "Guarderò velocemente il forziere alla ricerca di trappole ovvie, prestando particolare attenzione al buco della serratura, alla chiusura e a tutto ciò che sembra fuori dall'ordinario. Non lo tocco ancora."
+
+Se il forziere avesse un ago avvelenato vicino alla chiusura o qualche buco da cui far uscire gas velenoso o aghi, questo dovrebbe essere sufficiente al personaggio per notarlo senza un tiro, anche se non è un Ladro o simile. Tuttavia, se il forziere è impostato per esplodere (o sparare pugnali dall'apertura quando viene aperto), un tipo di ricerca simile non scoprirà la trappola — di nuovo, non importa quale sia la classe del personaggio, poiché una trappola del genere non è visibile dall'esterno. Se vi sentite generosi, potreste far fare un tiro al Ladro e, se lo fa, dire al suo giocatore che anche se non vede una trappola c'è ancora qualcosa che non va nel forziere.
+
+Se il personaggio avesse detto che stava punzecchiando il forziere con un'asta invece che precipitarsi ad aprirlo, potrebbe sentire qualcosa di strano se il forziere avesse la suddetta trappola di pugnali. Naturalmente, a meno che non sia un Ladro, è probabile che non assocerà il rumore a una trappola, ma solo al fatto che c'è qualcosa che non va nel forziere.
+
+## Sul fallimento
+
+Se un personaggio tenta di fare qualcosa, il fallimento non dovrebbe significare altro che questo: il personaggio non è riuscito a fare ciò che stava cercando di fare. Il fallimento non dovrebbe significare che si è verificato il peggiore dei disastri. Per esempio, se un personaggio fallisce mentre tenta di scalare una parete rocciosa, questo dovrebbe significare semplicemente che il personaggio non ce l'ha fatta ad arrivare in cima per qualche ragione descritta dall'Arbitro e che è dovuto tornare a terra (o è bloccato a metà strada, ecc.), non che il personaggio sia caduto a terra da vicino la cima della parete rocciosa. Se il fallimento sta per portare ad un "disastro", invece che a un qualche tipo di fallimento semplice, l'Arbitro dovrebbe dichiararlo con chiarezza prima che il personaggio tenti l'azione, in modo che il giocatore possa prendere una decisione informata sul fatto di procedere o meno.
+
+## Compiti impossibili
+
+A meno che un'azione non sia impossibile o completamente fuori questione nelle circostanze attuali, quando un personaggio tenta di fare qualcosa dovrebbe esserci almeno una piccola possibilità di successo. Per esempio, l'Arbitro potrebbe assegnare una piccola possibilità di successo ad alcune azioni che sembrano quasi impossibili se non per fortuna. In questi casi, un tiro di 20 su 1d20 (o un tiro di 100 su 1d100) potrebbe essere una probabilità appropriata.
+
 ## Mostri e PNG in gioco
 
 Solo i mostri non intelligenti dovrebbero essere giocati in modo non intelligente. I mostri e i PNG intelligenti hanno le loro motivazioni, i loro pensieri e le loro strategie. Useranno gli stessi tipi di trucchi che i PG potrebbero usare per ottenere un vantaggio.
-I mostri e i PNG possono formare alleanze con altri mostri e PNG e possono assumere guardie. I mostri sono in lotta per la sopravvivenza proprio come i PG, e dovrebbero essere giocati dall'Arbitro come se avessero tanto da perdere quanto i PG. Alcuni mostri e PNG che sopravvivono agli incontri con i PG possono serbare rancore e possono dare la caccia al gruppo o aspettare un'opportunità per colpire da un'imboscata.
 
-## Tiri casuali
-
-Ci sono molte occasioni in cui l'Arbitro tirerà per eventi/mostri/esiti casuali delle situazioni. La discrezione deve sempre essere usata, non solo per mantenere un certo grado di coerenza nel gioco, ma anche per mantenere un certo equilibrio. Questo non significa che i giocatori non debbano essere sfidati, ma occasionalmente i dadi possono indicare un risultato che è assolutamente inappropriato per la situazione. I dadi sono uno strumento, non l'autorità finale. L'autorità finale spetta sempre all'Arbitro. L'Arbitro di solito dovrebbe essere testimone dei tiri dei giocatori, ma dovrebbe considerare di tenere nascosti i suoi tiri non di combattimento. In questo modo, i giocatori non possono indovinare perché l'Arbitro potrebbe tirare in un particolare momento, o che tipo di dado viene tirato. Infatti, potrebbe occasionalmente tirare senza motivo solo per tenere i giocatori sulle spine.
+I mostri e i PNG possono formare alleanze con altri mostri e PNG e possono assumere guardie. I mostri sono in lotta per la sopravvivenza proprio come i PG, e dovrebbero essere giocati dall'Arbitro come se avessero tanto da perdere quanto i PG. Alcuni mostri e PNG che sopravvivono agli incontri con i PG possono serbare rancore e possono dare la caccia al gruppo o aspettare un'opportunità per colpire in un'imboscata.
 
 ## Tiri di successo multipli e probabilità
 
-Molti Arbitri amano suddividere compiti come la scalata di un'alta scogliera in un certo numero di tiri di successo, poiché i giocatori tendono a divertirsi a tirare i dadi e gli Arbitri spesso credono che tirare i dadi aggiunga tensione al gioco: non c'è niente di sbagliato nel fare questo, a patto che l'Arbitro capisca e accetti gli effetti che la richiesta di più tiri di successo ha sulla probabilità di fallimento.
+Molti Arbitri amano suddividere compiti come la scalata di un'alta parete rocciosa in un certo numero di tiri, poiché i giocatori tendono a divertirsi a tirare i dadi e gli Arbitri spesso credono che tirare i dadi aggiunga tensione al gioco: non c'è niente di sbagliato nel fare questo, a patto che l'Arbitro capisca e accetti gli effetti che la richiesta di più tiri ha sulla probabilità di fallimento.
 
-Prendiamo come esempio la scalata di un dirupo. Avete deciso che il gruppo ha bisogno di tirare 15 o meno su un D20 (una probabilità di successo del 75%) per scalare con successo la parete rocciosa e che ogni tentativo richiederà circa un'ora. Questo è un tiro e i personaggi hanno il 75% di probabilità di successo nella scalata, quindi i personaggi si troveranno in cima a quel dirupo in un'ora 3 volte su 4.
+Prendiamo come esempio la scalata di un dirupo. Avete deciso che il gruppo ha bisogno di tirare 15 o meno su 1d20 (una probabilità di successo del 75%) per scalare con successo la parete rocciosa e che ogni tentativo richiederà circa un'ora. Questo è un tiro e i personaggi hanno il 75% di probabilità di successo nella scalata, quindi i personaggi si troveranno in cima a quel dirupo in un'ora 3 volte su 4.
 
 Tuttavia, se si decide che il dirupo è abbastanza alto da richiedere due tiri, uno per raggiungere il punto intermedio della scalata e un altro per raggiungere la cima del dirupo dal punto intermedio, allora i personaggi si troveranno in cima al dirupo solo circa 12 volte su 20 tentativi — la loro probabilità di successo è scesa dal 75% a circa il 56% (75% x 75%). Se si richiedono tre tiri, i personaggi si troveranno in cima al dirupo solo circa 21 volte su 50 tentativi — la probabilità di successo è scesa a poco più del 42% (75% x 75% x 75%). Richiedendo 4 tiri, la probabilità di raggiungere la cima scende a poco meno del 32% (75% x 75% x 75% x 75%). Richiedendo 5 tiri la probabilità scende a circa il 24% (75% x 75% x 75% x 75% x 75%).
 
@@ -95,14 +95,15 @@ Infine, ricordate che le indicazioni di questo libro non sono realmente "regole"
 
 ## Avventure e ambientazioni
 
-Ci sono un gran numero di avventure gratuite e a basso costo disponibili in formato PDF sul web. Un buon gioco per iniziare a cercare avventure gratuite è sulla pagina del [*Compendio delle Avventure OSR in Italiano*](https://dismastersden.blogspot.com/2020/12/compendio-delle-avventure-osr-in.html).
-Molte avventure scritte per i giochi della Vecchia Scuola sono progettate con il presupposto che il tavolo abbia sei (o più!) giocatori. Mentre tali numeri erano abbastanza comuni negli anni '70 e nei primi anni '80, oggi sono piuttosto rari. Se l'avventura è stata scritta per 8 giocatori e ce ne sono solo 3 o 4 nella vostra campagna, avete un certo numero di opzioni (disposte dalla più facile alla più difficile per l'Arbitro):
+Ci sono un gran numero di avventure gratuite e a basso costo disponibili in formato PDF sul web. Un buon modo per iniziare a cercare avventure gratuite è sulla pagina del [*Compendio delle Avventure OSR in Italiano*](https://dismastersden.blogspot.com/2020/12/compendio-delle-avventure-osr-in.html).
+
+Molte avventure scritte per i giochi della Vecchia Scuola sono progettate con l'assunzione che il tavolo abbia sei (o più!) giocatori. Mentre tali numeri erano abbastanza comuni negli anni '70 e nei primi anni '80, oggi sono piuttosto rari. Se l'avventura è stata scritta per 8 giocatori e ce ne sono solo 3 o 4 nella vostra campagna, avete un certo numero di opzioni (disposte dalla più facile alla più difficile per l'Arbitro):
 
 - Assicuratevi che i giocatori sappiano che sono disponibili gregari e mercenari e che ne avranno sicuramente bisogno.
-- Permettere ad ogni giocatore di avere due personaggi. Mentre le edizioni moderne dei GDR lo rendono difficile a causa di tutte le opzioni e i poteri dei PG che un giocatore deve tenere sotto controllo, le regole più semplici e la meccanica dei personaggi di *La Scatola Bianca* significano che la maggior parte dei giocatori un po' esperti possono giocare due personaggi senza molti problemi.
-- Usate le modifiche alle regole speciali nel capitolo **Gruppi ridotti**.
-- Calibrate le sfide in modo che corrispondano meglio al numero di giocatori al vostro tavolo.
+- Permettere ad ogni giocatore di avere due personaggi. Mentre le edizioni moderne dei GDR lo rendono difficile a causa delle molte opzioni e di tutti i poteri dei PG che un giocatore deve tenere sotto controllo, le regole più semplici e la meccanica dei personaggi di *La Scatola Bianca* permettono alla maggior parte dei giocatori un po' esperti di giocare due personaggi senza tanti problemi.
+- Usate le regole speciali nel capitolo **Gruppi ridotti**.
+- Calibrate le sfide in modo che rispondano meglio al numero di giocatori al vostro tavolo.
 
 Una combinazione di queste opzioni è anche una soluzione praticabile.
 
-Le migliori ambientazioni e avventure, comunque, sono quelle che voi stessi create per la vostra campagna. Non c'è bisogno che siano elaborate come quelle prodotte per l'uso da parte di altri, né tanto meno così fantasiose come quelle scritte per la pubblicazione professionale.
+Le migliori ambientazioni e avventure, comunque, sono quelle che create voi stessi per la vostra campagna. Non c'è bisogno che siano elaborate come quelle prodotte per l'uso da parte di altri, né tanto meno così fantasiose come quelle scritte per la pubblicazione professionale.
