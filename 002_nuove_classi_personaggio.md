@@ -1,6 +1,16 @@
 ---
 nav_order: 3
 ---
+
+<details open markdown="block">
+  <summary>
+    Sommario del capitolo
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Capitolo 2: Nuove Classi Personaggio
 
 ## L'Assassino
