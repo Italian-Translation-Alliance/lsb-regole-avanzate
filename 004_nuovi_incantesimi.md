@@ -2,6 +2,9 @@
 nav_order: 5
 ---
 
+# Capitolo 4: Nuovi Incantesimi
+{: .no_toc }
+
 <details markdown="block">
   <summary>
     Sommario del capitolo
@@ -10,9 +13,6 @@ nav_order: 5
 1. TOC
 {:toc}
 </details>
-
-# Capitolo 4: Nuovi Incantesimi
-{: .no_toc }
 
 Le classi personaggio aggiuntive del Druido e dell'Illusionista introducono nuovi incantesimi che sono descritti in questo capitolo.
 

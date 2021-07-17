@@ -1,7 +1,6 @@
 ---
 nav_order: 15
 ---
-
 # Licenza
 
 ## DESIGNATION OF PRODUCT IDENTITY

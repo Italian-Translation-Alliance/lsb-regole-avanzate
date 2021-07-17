@@ -1,6 +1,9 @@
 ---
 nav_order: 7
 ---
+# Capitolo 6: Il turno di gioco
+{: .no_toc }
+
 <details markdown="block">
   <summary>
     Sommario del capitolo
@@ -9,9 +12,6 @@ nav_order: 7
 1. TOC
 {:toc}
 </details>
-
-# Capitolo 6: Il turno di gioco
-{: .no_toc }
 
 *La Scatola Bianca* è un gioco di avventura e l'attività primaria nelle avventure è l'esplorazione. Anche se le regole per il combattimento coprono una parte rilevante, il gioco tende a concentrarsi più sull'esplorazione che sul combattimento. Che il gruppo stia indagando su un vecchio santuario in rovina, esplorando una miniera di nani abbandonata, attraversando una zona selvaggia sconosciuta, navigando in acque inesplorate o librandosi nei cieli, l'esplorazione è centrale per l'avventura e quindi per il gioco.
 

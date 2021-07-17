@@ -1,6 +1,8 @@
 ---
 nav_order: 10
 ---
+# Capitolo 9: Costruire una roccaforte
+{: .no_toc }
 
 <details markdown="block">
   <summary>
@@ -10,9 +12,6 @@ nav_order: 10
 1. TOC
 {:toc}
 </details>
-
-# Capitolo 9: Costruire una roccaforte
-{: .no_toc }
 
 Un personaggio facoltoso può voler costruire una roccaforte, come una fortezza, una torre, un castello o qualsiasi cosa sia abbordabile. Se ha raggiunto il 9° livello gli è sempre permesso di costruire questa roccaforte, altrimenti avrà bisogno del permesso del governatore regionale. A seconda dell'allineamento, del carisma e delle prospettive politiche del personaggio, tale permesso potrebbe non essere sempre concesso.
 

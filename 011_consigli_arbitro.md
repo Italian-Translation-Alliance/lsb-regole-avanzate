@@ -1,6 +1,8 @@
 ---
 nav_order: 12
 ---
+# Capitolo 11: Consigli per l'Arbitro
+{: .no_toc }
 
 <details markdown="block">
   <summary>
@@ -10,9 +12,6 @@ nav_order: 12
 1. TOC
 {:toc}
 </details>
-
-# Capitolo 11: Consigli per l'Arbitro
-{: .no_toc }
 
 Questo capitolo fornisce alcuni consigli per l'Arbitro. Si noti che si tratta solo di suggerimenti e non dovrebbe essere preso come l'unico (o il migliore) modo di fare le cose.
 

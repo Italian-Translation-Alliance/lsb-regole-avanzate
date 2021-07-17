@@ -1,6 +1,8 @@
 ---
 nav_order: 4
 ---
+# Capitolo 3: Nuove Razze 
+{: .no_toc }
 
 <details markdown="block">
   <summary>
@@ -10,9 +12,6 @@ nav_order: 4
 1. TOC
 {:toc}
 </details>
-
-# Capitolo 3: Nuove Razze 
-{: .no_toc }
 
 ## Gnomi
 Gli Gnomi sono alti la metà dei nani, più bassi anche degli Halfling. Possono essere barbuti o meno, ma possiedono sempre dei tratti quasi comicamente esagerati (nasi lunghi, sopracciglia folte, mento curvo, orecchie larghe) che possono apparire adorabili o grotteschi. Sono creature fatate non del tutto di questo mondo.
