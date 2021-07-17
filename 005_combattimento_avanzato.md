@@ -10,7 +10,7 @@ Le regole di combattimento di *La Scatola Bianca* sono astratte e pensate per ri
 Un difensore può rinunciare al suo attacco per parare e far subire all'avversario una penalità di -4 all'attacco. Se il suo avversario manca a causa di questa penalità, l'arma del difensore sarà strappata dalla sua presa da un'arma più pesante. Se, invece, il suo avversario manca indipendentemente da questa penalità, il difensore può contrattaccare se è dotato di un'arma più leggera.
 
 ### Attaccare per sottomettere
-La maggior parte dei mostri intelligenti (inclusi gli umanoidi) può essere sottomessa e costretta ad arrendersi se questo intento viene annunciato prima che gli attacchi vengano risolti. Dopo ogni turno in cui si subisce un danno, l'Arbitro deve determinare la somma dei danni subiti come percentuale dei punti ferita effettivi. La confidenza viene poi verificata tirando 1d100; qualsiasi risultato inferiore alla percentuale di danni subiti indica che il mostro è sottomesso.
+La maggior parte dei mostri intelligenti (inclusi gli umanoidi) può essere sottomessa e costretta ad arrendersi se questo intento viene annunciato prima che gli attacchi vengano risolti. Il danno da colpi per sottomissione è registrato indipendentemente dal danno da colpi veri e propri. Dopo ogni turno in cui si subisce un danno, l'Arbitro deve determinare la somma dei danni da sottomissione come una percentuale dei punti ferita effettivi. La confidenza viene poi verificata tirando 1d100; qualsiasi risultato inferiore alla percentuale di danni da sottomissione indica che il mostro è sottomesso.
 
 I mostri sottomessi obbediscono inizialmente senza prove di reazione e possono essere venduti come schiavi, animali domestici o curiosità o messi in servizio come gregari se viene fatta un'offerta accettabile.
 
@@ -30,8 +30,8 @@ Le navi possono ingaggiare un combattimento nave-nave (o nave-mostro marino). Le
 |---------------------|------------|-------------|----------------------------------------------|
 | Barca               | 1          | .           | 2-4 marinai                                  |
 | Zattera             | 1          | .           | 2-4 rematori                                 |
-| Galley, small       | 5          | 1           | 6-16 marinai, 24-64 rematori, 12-32 soldati  |
-| Galley, large       | 8          | 2           | 12-32 marinai, 36-96 rematori, 18-48 soldati |
+| Galea, piccola      | 5          | 1           | 6-16 marinai, 24-64 rematori, 12-32 soldati  |
+| Galea, grande       | 8          | 2           | 12-32 marinai, 36-96 rematori, 18-48 soldati |
 | Nave lunga          | 6          | .           | 30-80 vogatori/soldati                       |
 | Mercantile, piccolo | 4          | .           | 9-24 marinai, 6-16 soldati                   |
 | Mercantile, grande  | 7          | .           | 18-48 marinai, 15-40 soldati                 |
@@ -68,4 +68,3 @@ Un cavaliere eroico è soggetto al fuoco dei proiettili solo con un tiro di 1d6 
 
 ### Mischia
 Gli attacchi aerei in mischia si effettuano in scontri di passaggio ad una distanza di 1" (10 iarde) con i combattenti che si disimpegnano dopo ogni passaggio. Se un combattente perde l'iniziativa, non è in grado di rispondere in quel turno, a meno che la sua velocità e la sua direzione non coincidano con quelle del suo avversario o i combattenti non siano altrimenti tenuti vicini.
-

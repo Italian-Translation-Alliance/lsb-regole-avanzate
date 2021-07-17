@@ -17,7 +17,7 @@ Gli Gnomi subiscono la metà dei danni dagli attacchi di creature più grandi de
 Gli Gnomi possono lanciare Forza Fantasma una volta al giorno. L'illusione ha sempre una caratteristica distintiva che il giocatore sceglie alla creazione del personaggio (ad esempio, motivo tartan, una campana d'argento attaccata, odore di sambuco, colorata di rosso e bianco) e se viene toccata con incredulità o ferro freddo, svanisce senza richiedere alcun tiro salvezza.
 
 ### Eredità Fatata
-Gli Gnomi hanno strane compulsioni e rituali, che si tratti di pulire stanze stanze in disordine, ponendo indovinelli alle persone che chiedono loro delle cose o non rivelano mai i loro nomi. Guadagnano un bonus di esperienza del +10 % bonus quando manifestano queste stranezze durante un'avventura.
+Gli Gnomi hanno strane compulsioni e rituali, che si tratti di pulire stanze in disordine, ponendo indovinelli alle persone che chiedono loro delle cose o non rivelano mai i loro nomi. Guadagnano un bonus di esperienza di +10%  quando manifestano queste stranezze durante un'avventura.
 
 ### Tiri salvezza
 La natura fatata degli Gnomi li rende resistenti alla magia; salvano a +4 contro incantesimi. Sono completamente immuni alle illusioni.
@@ -35,7 +35,7 @@ La maggior parte dei Mezzorchi sono Guerrieri, ma possono essere Ranger, Ladri, 
 I Mezzorchi ottengono un +1 ai tiri per i danni in combattimento, anche con proiettili o magia. Possono anche aprire porte/piegare sbarre più facilmente -- il loro raggio di successo è aumentato di 2 (1-4 invece di 1-2).
 
 ### Tiri salvezza
-I Mezzorchi ottengono un ulteriore +2 a tutti i tiri salvezza tiri salvezza contro il veleno.
+I Mezzorchi ottengono un ulteriore +2 a tutti i tiri salvezza contro il veleno.
 
 ### Lingue
 I Mezzorchi di solito parlano anche l'orchesco oltre al comune.

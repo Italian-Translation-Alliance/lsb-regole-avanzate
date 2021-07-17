@@ -1,7 +1,6 @@
 ---
 nav_order: 5
 ---
-
 # Capitolo 4: Nuovi Incantesimi
 
 Le classi personaggio aggiuntive del Druido e dell'Illusionista introducono nuovi incantesimi che sono descritti in questo capitolo.
@@ -19,12 +18,12 @@ Le classi personaggio aggiuntive del Druido e dell'Illusionista introducono nuov
 |     Individuare un animale     | Piegare il Legno        |
 |  Individuare trappole e fosse  |                         |
 
-| Livello 3          | Livello 4             |
-|:------------------:|:---------------------:|
-| Cerchio protettivo | Camminare nell'aria   |
-| Chiamare fulmine   | Chiamare un mostro    |
-| Evocare un animale | Parlare con le Piante |
-| Muro del vento     | Passalberi            |
+| Livello 3           | Livello 4             |
+|:-------------------:|:---------------------:|
+| Cerchio protettivo  | Camminare nell'aria   |
+| Chiamare il fulmine | Chiamare un mostro    |
+| Evocare un animale  | Parlare con le Piante |
+| Muro del vento      | Passalberi            |
 
 |       Livello 5      | Livello 6                                   |
 |:--------------------:|:-------------------------------------------:|
@@ -51,7 +50,7 @@ Molti incantesimi dell'Illusionista funzionano normalmente ma alcuni sono versio
 - **Incantesimo della Morte:** provoca una "morte" illusoria (cioè la vittima è messa fuori combattimento).
 - **Dissolvere le Magie, Rimuovere una Maledizione:** disperde solamente le illusioni o il controllo della mente.
 - **Palla di Fuoco, Fulmine, Nube Mortale:** infliggono danno illusorio e sembrano solo danneggiare gli oggetti.
-- **Bloccare le Porte e Serratura del Mago:** crea un'illusione che fa si che la porta appaia inviolata anche quando è aperta.
+- **Bloccare le Porte, Serratura del Mago:** crea un'illusione che fa si che la porta appaia inviolata anche quando è aperta.
 - **Polimorfismo:** crea un cambiamento illusorio di aspetto.
 - **Muro di Fuoco, Ghiaccio, Pietra o Ferro:** crea una barriera illusoria che causa danni illusori.
 - **Ragnatela:** crea ragnatele illusorie che solo apparentemente intrappolano le persone.
@@ -141,7 +140,7 @@ Tutte le creature entro un'area di 30 x 30 piedi diventano confuse finché non l
 
 Questo incantesimo crea un cerchio magico stazionario intorno al Druido, che blocca completamente fuoco, fulmini, acqua e ghiaccio.
 
-### Chiamare il fulmine
+### Chiamare il Fulmine
 *Livello*: D3  
 *Raggio d'azione*: 240 piedi  
 *Durata*: Istantanea
@@ -230,7 +229,7 @@ Il bersaglio di questo incantesimo diventa invisibile per un'ora e rimane invisi
 *Raggio d'azione*: Nessuno  
 *Durata*: Fino alla consegna del messaggio
 
-Il Druido evoca un piccolo animale nella sua mano (per esempio: un uccello, un ratto), che cercherà di raggiungere il suo destinatario. Il Druido può allegare una pergamena con un messaggio all'animale. Quando il messaggero raggiunge il suo destinatario -- scompare.
+Il Druido evoca un piccolo animale nella sua mano (per esempio: un uccello, un ratto), che cercherà di raggiungere il suo destinatario. Il Druido può allegare una pergamena con un messaggio all'animale. Il messagero scompare quando raggiunge il suo destinatario.
 
 ### Muro del vento
 *Livello*: D3  
