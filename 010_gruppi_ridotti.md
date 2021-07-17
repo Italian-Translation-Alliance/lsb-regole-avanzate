@@ -1,6 +1,6 @@
 # Capitolo 10: Gruppi ridotti
 
-Ogni Arbitro prima o poi deve affrontare la mancanza di giocatori. Può essere che metà del gruppo chiami appena prima della sessione o che una particolare partita possa interessare solo uno o due giocatori. La maggior parte delle volte un Arbitro annullerà semplicemente la sessione o tirerà fuori i giochi di carte, ma altre volte un Arbitro può desiderare di giocare anche con meno giocatori del solito.
+Ogni Arbitro prima o poi deve affrontare la mancanza di giocatori. Può essere che metà del gruppo chiami appena prima della sessione o che una particolare partita possa interessare solo uno o due altri giocatori. La maggior parte delle volte un Arbitro annullerà semplicemente la sessione o tirerà fuori i giochi di carte, ma altre volte un Arbitro può desiderare di giocare anche con meno giocatori del solito.
 
 Questo capitolo fornisce una serie di semplici modifiche alle regole che vi permettono di coinvolgere solo uno o due eroi in un'avventura Vecchia Scuola di livello appropriato con qualche speranza di successo. Queste modifiche non richiedono di cambiare la scheda personaggio o convertire i moduli. Supportano l'avventura e la scheda personaggio esistenti permettendo al PG di affrontare sfide e nemici che normalmente richiederebbero un intero gruppo di avventurieri.
 
@@ -155,14 +155,14 @@ Il potente samurai Shinji Haraldsen si trova invischiato con sei guerrieri gobli
 
 Shinji è un guerriero di livello 1 con 5 punti ferita, un modificatore di Forza +1, un'ascia+1 e una CA 2 grazie alla sua armatura di piastre e allo scudo.
 
-Contro di lui ci sono sei goblin con 1 PE ciascuno, AC 7 e lance che fanno 1d6 danni. La sacerdotessa-strega ha più esperienza, e ha 3 PE, AC 6, e un pugnale che fa 1d4 danni.
+Contro di lui ci sono sei goblin con 1 PE ciascuno, AC 7 e lance che provocano 1d6 danni. La sacerdotessa-strega ha più esperienza avendo 3 PE, AC 6 e un pugnale che provoca 1d4 danni.
 
-Shinji vince l'iniziativa e decide di abbattere qualche goblin per primo. Tira per colpire in CA 7 e ci riesce. Tira 1d6 per il danno dell'ascia e ottiene un quattro; aggiungendo la sua Forza e il bonus magico dell'ascia si ottiene sei, che la tabella mostra 2 punti di danno inflitti ai goblin. Questo uccide uno di loro completamente e il danno in eccesso si riversa per ucciderne un altro a portata della sua ascia macchiata di rosso.
+Shinji vince l'iniziativa e decide di abbattere qualche goblin per primo. Tira per colpire su CA 7 e ci riesce. Tira 1d6 per il danno dell'ascia e ottiene un quattro; aggiungendo la sua Forza e il bonus magico dell'ascia si ottiene sei, per cui la tabella mostra 2 punti di danno inflitti ai goblin. Questo uccide uno di loro completamente e il danno in eccesso si riversa per ucciderne un altro a portata della sua ascia macchiata di sangue.
 
-Tira anche il suo Dado Mischia di 1d6, ottenendo un tre, per 1 punto di danno. Vorrebbe fare qualcosa con quella strega sacerdotessa, ma può applicare il Dado Mischia solo a nemici uguali o inferiori. Un altro goblin va giù quando il suo movimento all'indietro gli trafigge il cranio.
+Tira anche il suo Dado Mischia di 1d6, ottenendo un tre, per 1 punto di danno. Vorrebbe fare qualcosa con quella strega sacerdotessa, ma può applicare il Dado Mischia solo a nemici uguali o inferiori. Un altro goblin va giù quando il suo colpo all'indietro gli trafigge il cranio.
 
-I goblin sono spinti dalla sacerdotessa e si rifiutano di fuggire dal terribile guerriero. Quindi, tutti e tre attaccano, e fortunosamente due di loro colpiscono il samurai. Tirano 1 e 6 per le loro lance, facendo zero e 2 punti di danno. Shinji è sceso a 3 PF.
+I goblin sono spinti dalla sacerdotessa e si rifiutano di fuggire dal terribile guerriero. Quindi, tutti e tre attaccano e fortunosamente due di loro colpiscono il samurai. Tirano 1 e 6 con le loro lance, facendo zero e 2 punti di danno. Shinji è sceso a 3 PF.
 
-La strega sacerdotessa ora scatena la sua magia, colpendo Shinji con un incantesimo di sonno inesorabile. Questo metterebbe fine alla storia di Shinji seduta stante, quindi il Arbitro gli permette di Sfidare la Morte. Shinji tira 1d4 come dado per il danno e prende 1 danno mentre si scrolla di dosso l'incantesimo.
+La strega sacerdotessa ora scatena la sua magia, colpendo Shinji con un incantesimo di sonno inesorabile. Questo metterebbe fine alla storia di Shinji seduta stante, quindi l'Arbitro gli permette di Sfidare la Morte. Shinji tira 1d4 come dado per il danno e prende 1 danno mentre si scrolla di dosso l'incantesimo.
 
-Duramente provato, Shinji continua a combattere, questa volta colpendo la sacerdotessa con la sua ascia, infliggendo altri 2 punti di danno. La strega rimane con 1 PF mentre il Dado Mischia di Shinji uccide un altro goblin. La vittoria sarà sua o le sue ossa rosicchiate ingialliranno nella natura selvagge?
+Duramente provato, Shinji continua a combattere, questa volta colpendo la sacerdotessa con la sua ascia, infliggendo altri 2 punti di danno. La strega rimane con 1 PF mentre il Dado Mischia di Shinji uccide un altro goblin. La vittoria sarà sua o le sue ossa rosicchiate ingialliranno nelle Terre Selvagge?
