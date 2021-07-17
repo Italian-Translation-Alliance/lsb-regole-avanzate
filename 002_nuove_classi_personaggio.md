@@ -2,7 +2,7 @@
 nav_order: 3
 ---
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Sommario del capitolo
   </summary>
