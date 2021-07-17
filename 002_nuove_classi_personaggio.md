@@ -3,6 +3,16 @@ nav_order: 3
 ---
 
 # Capitolo 2: Nuove Classi Personaggio
+{: .no_toc }
+
+<details markdown="block">
+  <summary>
+    Sommario del capitolo
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## L'Assassino
 Gli Assassini sono sicari a pagamento con abilità di sotterfugio e omicidio. Eccellono nell'uso del veleno e possono ricevere cospicue ricompense per i loro servizi.
