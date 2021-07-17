@@ -14,7 +14,7 @@ nav_order: 11
 # Capitolo 10: Gruppi ridotti
 {: .no_toc }
 
-Ogni Arbitro prima o poi deve affrontare la mancanza di giocatori. Può essere che metà del gruppo chiami appena prima della sessione o che una particolare partita possa interessare solo uno o due altri giocatori. La maggior parte delle volte un Arbitro annullerà semplicemente la sessione o tirerà fuori i giochi di carte, ma altre volte un Arbitro può desiderare di giocare anche con meno giocatori del solito.
+Ogni Arbitro prima o poi deve affrontare la mancanza di giocatori. Può darsi che metà del gruppo chiami appena prima della sessione o che una particolare partita possa interessare solo uno o due altri giocatori. La maggior parte delle volte un Arbitro annullerà semplicemente la sessione o tirerà fuori i giochi di carte, ma altre volte un Arbitro può desiderare di giocare anche con meno giocatori del solito.
 
 Questo capitolo fornisce una serie di semplici modifiche alle regole che vi permettono di coinvolgere solo uno o due eroi in un'avventura Vecchia Scuola di livello appropriato con qualche speranza di successo. Queste modifiche non richiedono di cambiare la scheda personaggio o convertire i moduli. Supportano l'avventura e la scheda personaggio esistenti permettendo al PG di affrontare sfide e nemici che normalmente richiederebbero un intero gruppo di avventurieri.
 
@@ -129,7 +129,7 @@ Alcune avventure sono scritte in modo da richiedere praticamente più di un avve
 # Riassunto delle regole per solitari
 
 ## Infliggere danni
-Quando leggete i dadi dei danni, non contate i soliti totali. Invece, contate ogni dado come indicato nella tabella sottostante. Se avete un bonus al vostro tiro danni, aggiungetelo a un dado a vostra scelta prima di confrontarlo con la tabella.
+Quando interpretate i dadi dei danni, non considerate i soliti totali. Invece, considerate ogni dado rispetto alla tabella sottostante. Se avete un bonus al vostro tiro danni, aggiungetelo a un dado a vostra scelta prima di confrontarlo con la tabella.
 
 #### Tabella 33: Riduzione dei danni
 
@@ -140,13 +140,13 @@ Quando leggete i dadi dei danni, non contate i soliti totali. Invece, contate og
 | 6 a 9      | 2 punti di danno |
 | 10 o più   | 4 punti di danno |
 
-Tutti i dadi dei danni sono letti in questo modo, inclusi i danni fatti da incantesimi, trappole e pericoli ambientali. Quindi, una palla di fuoco da 5d6 farebbe ovunque da 0 a 10 punti di danno.
+Tutti i dadi dei danni sono interpretati in questo modo, inclusi i danni inflitti da incantesimi, trappole e pericoli ambientali. Quindi, una palla di fuoco da 5d6 causerebbe da 0 a 10 punti di danno.
 
 ## Subire danni
 Un PG subisce danni normalmente e muore a zero punti ferita. I mostri e i PNG perdono un dado vita per ogni punto ferita inflitto. Quindi, un orchetto verrebbe ucciso da 1 punto di danno e un orco da 4. I dadi vita sono arrotondati al numero intero più vicino. Quando viene inflitto abbastanza danno per uccidere un particolare bersaglio, qualsiasi danno residuo può essere inflitto a qualsiasi altra vittima nel raggio d'azione con classe armatura uguale o peggiore.
 
 ## Il Dado Mischia
-Ogni round, il PG può tirare un dado per infliggere danni a qualsiasi nemico con un numero di dadi vita uguale o inferiore, rappresentando i suoi colpi marziali o i piccoli incantesimi di combattimento di uno stregone addestrato. I Dadi Mischia dei maghi possono colpire qualsiasi nemico, anche quelli più potenti. Questo danno è automatico e non richiede un tiro per colpire. Non è necessario che il Dado Mischia sia rivolto allo stesso nemico dell'attacco del PG e non è necessario che un PG attacchi in un round per usare il suo Dado Mischia.
+Ogni round, il PG può tirare un dado per infliggere danni a qualsiasi nemico con un numero di dadi vita uguale o inferiore, rappresentando i suoi colpi marziali o i piccoli incantesimi di combattimento di uno stregone addestrato. I Dadi Mischia dei maghi possono colpire qualsiasi nemico, anche quelli più potenti. Questo danno è automatico e non richiede un tiro per colpire. Non è necessario che il Dado Mischia sia rivolto allo stesso nemico che il PG sta attaccando e non è necessario che un PG attacchi in un round per usare il suo Dado Mischia.
 
 ## Guarigione
 Dopo ogni combattimento o altra causa di ferite, l'eroe può prendersi cinque minuti per fasciare le proprie ferite e riprendere fiato, guarendo fino a 2 punti ferita del danno subito in quella battaglia o evento. I danni per Sconfiggere la Morte non possono essere guariti in questo modo.
@@ -156,13 +156,13 @@ Gli incantesimi e le magie di guarigione agiscono come dadi danno "invertiti", c
 ## Sfidare la Morte
 Quando il PG è colpito da un effetto "Salva o muori", intrappolato in una trappola da cui non può scappare da solo, intrappolato da una folla di nemici o piegato da uno stregone malvagio, può tentare di sfidare la morte.
 
-Ogni sfida o pericolo potenzialmente termina con l'avventura può essere schivato a discrezione del Arbitro, anche se infligge un pedaggio alla fortuna e alla capacità di recupero dell'eroe.
+Ogni sfida o pericolo che potenzialmente termina l'avventura può essere schivato a discrezione del Arbitro, anche se comporta un prezzo sulla fortuna e sulla capacità di recupero dell'eroe.
 
-Per Sconfiggere la Morte, l'eroe tira un dado danno d4 per ogni livello che ha, prendendo il danno come descritto sopra. Quindi, un guerriero di 3° livello tirerebbe 3d4 quando vuole sfidare la morte. Se il danno lo riduce a 0 punti ferita, mantiene 1 punto ferita ma subisce tutti gli effetti della morte.
+Per Sconfiggere la Morte, l'eroe tira un dado danno d4 per ogni livello che possiede, prendendo il danno come descritto sopra. Quindi, un guerriero di 3° livello tirerebbe 3d4 quando vuole sfidare la morte. Se il danno lo riduce a 0 punti ferita, mantiene 1 punto ferita ma subisce tutti gli effetti del fato.
 
-Se la schivata non lo ha esauriti, sfugge ad essa con qualche mezzo deciso dal Arbitro. Può essere che si sia liberato della magia all'ultimo momento, che abbiano trovato degli appigli fatiscenti nel muro o che sappia per caso quali segni tagliare per disattivare la barriera magica intorno al proprio obiettivo.
+Se la schivata non lo esaurisce, sfugge alla morte nel modo stabilito dal Arbitro. Può darsi che si sia liberato della magia all'ultimo momento, che abbia trovato degli appigli nel muro o che sappia per caso quali segni tagliare per disattivare la barriera magica intorno al proprio obiettivo.
 
-Più spesso un eroe sfida la morte, più diventa difficile. La seconda volta che schiva la morte durante una singola sessione, inizia a tirare i d6. La successiva, i d8 e poi infine i d10 se continua a schivare la morte. Man mano che la taglia dei dadi aumenta, schivare il destino rischia di infliggere ancora più danni alle loro prospettive future. Prima o poi, la loro fortuna è destinata a finire.
+Più spesso un eroe sfida la morte, più questo diventa difficile. La seconda volta che schiva la morte durante una singola sessione, inizia a tirare i d6. La successiva, i d8 e infine, se continua a schivare la morte, i d10. Mano a mano che la taglia dei dadi aumenta, schivare il destino rischia di infliggere ancora più danni alle sue prospettive future. Prima o poi, la sua fortuna è destinata a finire.
 
 ## Un esempio di incontro
 Il potente samurai Shinji Haraldsen si trova invischiato con sei guerrieri goblin e la loro selvaggia sacerdotessa-strega. Confidando nell'acciaio della sua armatura o-yoroi e nel filo dell'ascia di suo padre, Shinji si lancia nella mischia.
