@@ -1,18 +1,18 @@
 # Capitolo 8: Mostri Aggiuntivi
 
-I mostri sono la principale sfida che i giocatori dovranno affrontare nelle loro avventure. Comprendono tutti i veri orrori del mondo sotterraneo come troll, vampiri e draghi, così come tutti i personaggi non giocanti del mondo. Ogni personaggio che non è gestito da un giocatore è un mostro, anche i buoni cittadini e i mercenari dei giocatori.
+I mostri sono la principale sfida che i giocatori dovranno affrontare nelle loro avventure. Comprendono tutti i veri orrori del mondo sotterraneo come troll, vampiri e draghi, così come tutti i personaggi non giocanti del mondo. Ogni personaggio che non è gestito da un giocatore è un mostro, anche i buoni cittadini e i gregari dei giocatori.
 
-È chiaro quindi che non tutti i mostri sono dannosi per i giocatori. Alcuni sono abbastanza benigni e possono persino essere utili. Altri sono completamente disinteressati ai giocatori finché non li intralciano, mentre altri ancora sono minacce malvagie che cercheranno di uccidere, catturare o ingannare i giocatori. La disposizione iniziale di un mostro verso i giocatori è determinata dalla sua prova di reazione.
+È chiaro quindi che non tutti i mostri sono dannosi per i giocatori. Alcuni sono abbastanza benigni e possono persino essere utili. Altri sono completamente disinteressati ai giocatori fintanto che non sono intralciati, mentre altri ancora sono minacce malvagie che cercheranno di uccidere, catturare o ingannare i giocatori. La disposizione iniziale di un mostro verso i giocatori è determinata dalla sua prova di reazione.
 
 ## Descrizioni dei mostri
 
-Di seguito sono presentati tutti i mostri aggiuntivi in ordine alfabetico
+Di seguito sono presentati tutti i mostri aggiuntivi in ordine alfabetico. Dove non specificamente indicato diversamente, ciascun colpo in attacco infligge 1d6 danni.
 
 ### Androide
 
 *Classe Armatura*: 9 [10]  
 *Dadi Vita*: 2  
-*Attacchi*: Arma  
+*Attacchi*: Arma (1d6+1) 
 *Speciale*: Poteri mentali (vedi sotto) 
 *Movimento*: 12   
 *DVE/PE*: 4/120
@@ -23,7 +23,7 @@ Gli androidi sono uomini artificiali. Spesso hanno qualità superiori come la sa
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 6  
-*Attacchi*: Tentacoli  
+*Attacchi*: Tentacoli (vedi sotto) 
 *Speciale*: Nube d'inchiostro (vedi sotto)   
 *Movimento*: 12  
 *DVE/PE*: 7/600
@@ -34,7 +34,7 @@ I calamari giganti sono voraci predatori delle profondità marine che occasional
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1  
-*Attacchi*: Artigli/morso  
+*Attacchi*: Artigli/morso (1d6-1) 
 *Speciale*: Nessuno   
 *Movimento*: 15  
 *DVE/PE*: 1/15
@@ -50,13 +50,13 @@ I cani sono animali da branco dal naso acuto che abitano le pianure e le prateri
 *Movimento*: 12  
 *DVE/PE*: 2/30
 
-I cavernicoli sono grandi ma primitivi tipi di Neanderthal che sono altrimenti simili agli uomini. Combattono con asce, martelli e mazze, ma subiscono una correzione di -1 ai tiri di dado e hanno pochi tesori. I tipi leader sono sempre guerrieri ma non possiedono mai oggetti magici.
+I cavernicoli sono grandi ma primitivi tipi di Neanderthal che sono altrimenti simili agli uomini. Combattono con asce, martelli e mazze, ma subiscono una penalità di -1 ai tiri di dado e hanno pochi tesori. I tipi leader sono sempre guerrieri ma non possiedono mai oggetti magici.
 
 ### Ciclope
 
 *Classe Armatura*: 2 [17]  
 *Dadi Vita*: 16  
-*Attacchi*: Arma  
+*Attacchi*: Mazza (vedi sotto)  
 *Speciale*: Vedi sotto   
 *Movimento*: 15  
 *DVE/PE*: 17/3.500
@@ -78,18 +78,18 @@ I cinghiali sono maiali selvatici che si trovano nelle foreste e nelle pianure. 
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 7  
-*Attacchi*: Zanne  
+*Attacchi*: Zanne (2d6) 
 *Speciale*: Vedi sotto   
 *Movimento*: 12  
 *DVE/PE*: 8/800
 
-I cinghiali giganti sono simili ai normali cinghiali eccetto per la loro grande dimensione e il loro comportamento aggressivo. Attaccano chiunque entri nel loro territorio causando 2-12 punti di danno. Non si ritireranno mai e faranno sempre un altro tiro di attacco dopo essere stati ridotti a 0 o meno punti ferita.
+I cinghiali giganti sono simili ai normali cinghiali eccetto per la loro grande dimensione e il loro comportamento aggressivo. Attaccano chiunque entri nel loro territorio causando 2-12 punti di danno. Non fuggiranno mai e faranno sempre un altro tiro di attacco dopo essere stati ridotti a 0 o meno punti ferita.
 
 ### Coccodrillo
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 3  
-*Attacchi*: Fauci  
+*Attacchi*: Fauci (1d6+2) 
 *Speciale*: Vedi sotto   
 *Movimento*: 9/15  
 *DVE/PE*: 4/120
@@ -100,18 +100,18 @@ I coccodrilli sono rettili voraci che si trovano nei fiumi e nelle paludi delle 
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 7  
-*Attacchi*: Fauci  
+*Attacchi*: Fauci (2d6) 
 *Speciale*: Vedi sotto   
 *Movimento*: 9/15  
 *DVE/PE*: 8/800
 
-I coccodrilli giganti sono tre volte più grandi dei loro cugini ordinari, ma per il resto sono simili. Un attacco causa 2-12 punti di danno e ogni tiro di attacco che supera il numero richiesto per colpire di 4 o più inghiotte una vittima di dimensioni umane intera. Sono difficili da individuare perché galleggiano semisommersi nell'acqua e possono rovesciare barche e zattere. Un coccodrillo gigante può essere speronato da navi più grandi, possibilmente uccidendo il mostro ma anche rovesciando la barca (effettuare una prova separatamente per ciascuno).
+I coccodrilli giganti sono tre volte più grandi dei loro cugini ordinari, ma per il resto sono simili. Un attacco causa 2-12 punti di danno e ogni tiro di attacco che supera il numero richiesto per colpire di 4 o più inghiotte una vittima di dimensioni umane intera. Sono difficili da individuare perché galleggiano semi sommersi nell'acqua e possono rovesciare barche e zattere. Un coccodrillo gigante può essere speronato da navi più grandi, possibilmente uccidendo il mostro ma anche rovesciando la barca (effettuare una prova separatamente per ciascuno).
 
 ### Cyborg
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 3+3  
-*Attacchi*: Arma  
+*Attacchi*: Arma (1d6+2) 
 *Speciale*: Vedi sotto   
 *Movimento*: 9  
 *DVE/PE*: 5/240
@@ -126,7 +126,7 @@ I dinosauri sono grandi esseri preistorici e possono essere avversari temibili. 
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 32  
-*Attacchi*: Vedi sotto  
+*Attacchi*: Colpo (3d6)  
 *Speciale*: Vedi sotto   
 *Movimento*: 6  
 *DVE/PE*: 33/8.000
@@ -149,7 +149,7 @@ I Deinonychus comprendono tutti i carnivori relativamente piccoli che cacciano i
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 14  
-*Attacchi*: Pinne, fauci  
+*Attacchi*: Pinne, fauci (3d6) 
 *Speciale*: Vedi sotto   
 *Movimento*: 3/15  
 *DVE/PE*: 15/2.900
@@ -160,7 +160,7 @@ I Mosasauri sono enormi rettili nuotatori fino a 40 piedi di lunghezza. Queste l
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 2-7  
-*Attacchi*: Becco, artigli  
+*Attacchi*: Becco, artigli(1d6+2)  
 *Speciale*: Vedi sotto   
 *Movimento*: 3/12  
 *DVE/PE*: 2/30
@@ -171,7 +171,7 @@ Gli pterodattili sono rettili volanti di dimensioni umane e anche più grandi ch
 
 *Classe Armatura*: 2 [17], 5 [/14]  
 *Dadi Vita*: 8  
-*Attacchi*: Coda  
+*Attacchi*: Coda (2d6/3d6 vedi sotto) 
 *Speciale*: Vedi sotto   
 *Movimento*: 6  
 *DVE/PE*: 8/800
@@ -182,7 +182,7 @@ Gli Stegosauri sono grandi erbivori lunghi fino a 30 piedi e alti fino a 10 pied
 
 *Classe Armatura*: 2 [17], 5 [/14]  
 *Dadi Vita*: 16  
-*Attacchi*: Corna  
+*Attacchi*: Corna (2d6) 
 *Speciale*: Vedi sotto   
 *Movimento*: 9  
 *DVE/PE*: 16/3.200
@@ -193,7 +193,7 @@ I Triceratopi sono enormi, aggressivi erbivori che abbatteranno qualsiasi minacc
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 20  
-*Attacchi*: Zanne  
+*Attacchi*: Zanne (4d6) 
 *Speciale*: Vedi sotto   
 *Movimento*: 15   
 *DVE/PE*: 22/5.000
@@ -226,7 +226,7 @@ Lunghe 2-3 piedi. Sono industriose scavatrici e raccoglitrici che si presentano 
 
 *Classe Armatura*: 3 [16]  
 *Dadi Vita*: 3  
-*Attacchi*: Chele  
+*Attacchi*: Chele (due attacchi) 
 *Speciale*: Nessuno   
 *Movimento*: 6  
 *DVE/PE*: 4/120
@@ -237,7 +237,7 @@ I granchi giganti si trovano sott'acqua, negli estuari costieri e nelle paludi. 
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1  
-*Attacchi*: Arma  
+*Attacchi*: Arma (1d6-1) 
 *Speciale*: Vedi sotto   
 *Movimento*: 9  
 *DVE/PE*: 1/15
@@ -263,7 +263,7 @@ Se si arriva a combattere, lo juggernaut infligge uno schiacciamento di 5-30 pun
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 5+2  
-*Attacchi*: Fauci, artigli  
+*Attacchi*: Fauci, artigli (1d6+1/2d6) 
 *Speciale*: Nessuno   
 *Movimento*: 12  
 *DVE/PE*: 6/400
@@ -274,7 +274,7 @@ I leoni sono i grandi felini delle pianure. Sono presenti in climi che vanno da 
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 6+2  
-*Attacchi*: Fauci, artigli  
+*Attacchi*: Fauci, artigli (1d6+2/2d6+2) 
 *Speciale*: Vedi sotto   
 *Movimento*: 12  
 *DVE/PE*: 7/600
@@ -285,7 +285,7 @@ I leoni maculati sono simili ai leoni normali, tranne che sono più grandi e si 
 
 *Classe Armatura*: 5 [14], 8 [11]  
 *Dadi Vita*: ½, 3+1  
-*Attacchi*:   
+*Attacchi*: Morso (vedi sotto)  
 *Speciale*: Vedi sotto   
 *Movimento*: 12, 15   
 *DVE/PE*: >1/10, 4/120
@@ -307,7 +307,7 @@ I lupi si trovano principalmente nelle regioni fredde e cacciano in branco.
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 13  
-*Attacchi*: Vedi sotto  
+*Attacchi*: Zanne (3d6)  
 *Speciale*: Immunità al freddo   
 *Movimento*: 15   
 *DVE/PE*: 14/2.600
@@ -318,7 +318,7 @@ I mammut lanosi sono mammiferi enormi, pelosi e simili a elefanti che si trovano
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 12  
-*Attacchi*: Vedi sotto  
+*Attacchi*: Carica (2d6+2)  
 *Speciale*: Nessuno   
 *Movimento*: 15  
 *DVE/PE*: 13/2.300
@@ -329,7 +329,7 @@ I mastodonti sono proto-elefanti che si incontrano nelle pianure aperte in quals
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1-1  
-*Attacchi*: Arma  
+*Attacchi*: Arma (1d6-1) 
 *Speciale*: Vedi sotto   
 *Movimento*: 6/12  
 *DVE/PE*: 2/30
@@ -342,7 +342,7 @@ I Nixie si armano di pugnali e giavellotti. La loro tana sarà un'enclave sottom
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 5+5  
-*Attacchi*: Zampe  
+*Attacchi*: Zampe (1d6+2/2d6+2) 
 *Speciale*: Nessuno   
 *Movimento*: 12  
 *DVE/PE*: 6/400
@@ -353,7 +353,7 @@ Gli orsi sono onnivori ma favoriscono la carne. Hanno una vista piuttosto scarsa
 
 *Classe Armatura*: 6 [13] 
 *Dadi Vita*: 6+6  
-*Attacchi*: Artigli  
+*Attacchi*: Artigli (2d6-1/3d6)  
 *Speciale*: Nessuno   
 *Movimento*: 12  
 *DVE/PE*: 7/600
@@ -364,7 +364,7 @@ Gli orsi delle caverne sono enormi orsi carnivori che hanno sempre fame. Hanno u
 
 *Classe Armatura*: 7  
 *Dadi Vita*: 4  
-*Attacchi*: Tentacoli
+*Attacchi*: Tentacoli (6d6 vedi sotto)
 *Speciale*: Vedi sotto   
 *Movimento*: -/9  
 *DVE/PE*: 4/120
@@ -375,7 +375,7 @@ Le piovre giganti sono intelligenti e si annidano nei relitti e nelle grotte pre
 
 *Classe Armatura*: 8 [11]  
 *Dadi Vita*: ½  
-*Attacchi*: Morso  
+*Attacchi*: Morso (1d6-1) 
 *Speciale*: Nessuno   
 *Movimento*: 3/12  
 *DVE/PE*: <1/10
@@ -419,7 +419,7 @@ I ragni, giganti e grandi, sono comuni nei sotterranei. I ragni grandi hanno le 
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: ½  
-*Attacchi*: Morso  
+*Attacchi*: Morso (vedi sotto) 
 *Speciale*: Ragnatela   
 *Movimento*: 12/6 
 *DVE/PE*: 2/30
@@ -430,7 +430,7 @@ I ratti giganti sono una vera e propria piaga del sottosuolo, infilandosi in pic
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 10  
-*Attacchi*: Vedi sotto  
+*Attacchi*: Carica (2d6+2) 
 *Speciale*: Nessuno   
 *Movimento*: 12  
 *DVE/PE*: 11/1.700
@@ -441,7 +441,7 @@ I rinoceronti lanosi sono enormi, pelosi, mammiferi simili a rinoceronti che si 
 
 *Classe Armatura*: 3 [16]  
 *Dadi Vita*: 7  
-*Attacchi*: Vedi sotto  
+*Attacchi*: Colpo (1d6+2)  
 *Speciale*: Vedi sotto   
 *Movimento*: 6/6  
 *DVE/PE*: 8/800
@@ -474,7 +474,7 @@ Le sanguisughe giganti sono disgustosi parassiti di palude che si attaccheranno 
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 4+1  
-*Attacchi*: Vedi sotto  
+*Attacchi*: Colpo (1d6+1)  
 *Speciale*: Nessuno   
 *Movimento*: 12/12  
 *DVE/PE*: 5/240
@@ -485,7 +485,7 @@ Gli scimmioni non sono solitamente non aggressivi ma sono estremamente forti. Si
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 5+2  
-*Attacchi*: Vedi sotto  
+*Attacchi*: Lancio di pietre (2d6-1)  
 *Speciale*: Vedi sotto   
 *Movimento*: 12/12  
 *DVE/PE*: 6/400
@@ -496,7 +496,7 @@ Gli scimmioni dannati sono così chiamati per la loro colorazione pallida e il l
 
 *Classe Armatura*: 3 [13]  
 *Dadi Vita*: 5+4  
-*Attacchi*: Vedi sotto  
+*Attacchi*: Aculeo, tenaglia (vedi sotto)  
 *Speciale*: Vedi sotto   
 *Movimento*: 15  
 *DVE/PE*: 6/400
@@ -522,8 +522,8 @@ Le statue viventi sono grandi e potenti automi umanoidi. Stando in silenzio sono
 
 *Classe Armatura*: 2 [17]  
 *Dadi Vita*: 18  
-*Attacchi*: Vedi sotto  
-*Speciale*: Resistenza magica   
+*Attacchi*: Colpo (4d6)  
+*Speciale*: Resistenza magica, gas velenoso   
 *Movimento*: 6  
 *DVE/PE*: 21/4.700
 
@@ -533,7 +533,7 @@ Le statue viventi di ferro sono fuse in metallo solido. In combattimento possono
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 14  
-*Attacchi*: Vedi sotto   
+*Attacchi*: Colpo (3d6)   
 *Speciale*: Resistenza magica   
 *Movimento*: 6  
 *DVE/PE*: 17/3.500
@@ -568,7 +568,7 @@ I thull sono spaventosi umanoidi simili agli hobgoblin nell'aspetto, ma sono mol
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 5+4  
-*Attacchi*: Artigli  
+*Attacchi*: Artigli (1d6+1/2d6)  
 *Speciale*: Saltatore   
 *Movimento*: 12  
 *DVE/PE*: 7/600
@@ -579,7 +579,7 @@ Le tigri sono grandi felini che si trovano nelle foreste da fredde a tropicali. 
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 7+2  
-*Attacchi*: Denti, artigli  
+*Attacchi*: Denti, artigli (1d8+1/2d6+2)  
 *Speciale*: Vedi sotto   
 *Movimento*: 12  
 *DVE/PE*: 8/800
@@ -590,7 +590,7 @@ Le tigri dai denti a sciabola sono i grandi felini del Pliocene, capaci di cacci
 
 *Classe Armatura*: 2 [17]  
 *Dadi Vita*: 21  
-*Attacchi*: Armi  
+*Attacchi*: Arma (3d6+3) 
 *Speciale*: Vedi sotto   
 *Movimento*: 18  
 *DVE/PE*: 23/5.300
@@ -601,7 +601,7 @@ Un Titano è un gigante molto bello e civilizzato. Sono intelligenti almeno quan
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 12  
-*Attacchi*: Carica  
+*Attacchi*: Carica (3d6) 
 *Speciale*: Vedi sotto   
 *Movimento*: 12  
 *DVE/PE*: 13/2.300
@@ -612,7 +612,7 @@ I titanotteri sono enormi erbivori che vagano in branchi nelle pianure temperate
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1+1  
-*Attacchi*: Armi  
+*Attacchi*: Arma  
 *Speciale*: Vedi sotto   
 *Movimento*: 3/15  
 *DVE/PE*: 2/30
