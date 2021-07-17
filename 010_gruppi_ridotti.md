@@ -1,6 +1,6 @@
 # Capitolo 10: Gruppi ridotti
 
-Ogni Arbitro prima o poi deve affrontare la mancanza di giocatori. Può essere che metà del gruppo chiami appena prima della sessione o che una particolare partita possa interessare solo uno o due altri giocatori. La maggior parte delle volte un Arbitro annullerà semplicemente la sessione o tirerà fuori i giochi di carte, ma altre volte un Arbitro può desiderare di giocare anche con meno giocatori del solito.
+Ogni Arbitro prima o poi deve affrontare la mancanza di giocatori. Può essere che metà del gruppo chiami appena prima della sessione o che una particolare partita possa interessare solo uno o due giocatori. La maggior parte delle volte un Arbitro annullerà semplicemente la sessione o tirerà fuori i giochi di carte, ma altre volte un Arbitro può desiderare di giocare anche con meno giocatori del solito.
 
 Questo capitolo fornisce una serie di semplici modifiche alle regole che vi permettono di coinvolgere solo uno o due eroi in un'avventura Vecchia Scuola di livello appropriato con qualche speranza di successo. Queste modifiche non richiedono di cambiare la scheda personaggio o convertire i moduli. Supportano l'avventura e la scheda personaggio esistenti permettendo al PG di affrontare sfide e nemici che normalmente richiederebbero un intero gruppo di avventurieri.
 
