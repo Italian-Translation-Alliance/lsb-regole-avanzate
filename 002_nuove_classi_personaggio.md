@@ -92,7 +92,7 @@ I Bardi sono avventurieri purosangue e Cacciatori di tesori... o per essere più
 |    10   |      320.000     |    5+1    |      +3     |       5       |     5    |
 
 
-### Abilita del Bardo
+### Abilità del Bardo
 
 #### Restrizioni su armi e armature
 I Bardi sono deboli in battaglia. Non possono usare armi pesanti a due mani (questo include anche le armi pesanti a distanza) e possono indossare solo armature di cuoio.
@@ -371,19 +371,19 @@ I Ranger di solito sono Umani, ma a discrezione dell'Arbitro Elfi o Mezzorchi po
 ### Abilità del Ranger
 
 #### Restrizioni su armi e armature
-I Ranger possono usare qualsiasi arma ed indossare armature di cuoio o cotte di maglia, ma la cotta di maglia che è poco pratica per il loro stile di vita nella natura.
+I Ranger possono usare qualsiasi arma ed indossare armature di cuoio o cotte di maglia, ma non l'armatura a piastre che è poco pratica per il loro stile di vita nella natura.
 
 #### Lancio di incantesimi
-I Ranger lanciano incantesimi druidici ma non ma non acquisiscono il potere di lanciare incantesimi raggiungono il 3° livello.
+I Ranger lanciano incantesimi druidici ma non acquisiscono il potere di lanciare incantesimi raggiungono il 3° livello.
 
 #### Sopravvivenza
-I Ranger tirano 1d6 per testare la loro abilità di Sopravvivenza cercando di ottenere il numero prefissato o meno. La Sopravvivenza permette ai Ranger di riconoscere e seguire le tracce nelle terre selvagge. Se tentano di farlo in un dungeon o in città, l'obiettivo è ridotto di -1. Devono effettuare una prova di dell'abilità Seguire le tracce se queste attraversano una porta o un fiume. La Sopravvivenza può essere usata anche per cercare cibo per sfamare 1d6 persone, per individuare fosse e trappole nelle Terre Selvagge (ma non nei dungeon) e per identificare erbe e funghi funghi e le loro proprietà.
+I Ranger tirano 1d6 per testare la loro abilità di Sopravvivenza cercando di ottenere il numero prefissato o meno. La Sopravvivenza permette ai Ranger di riconoscere e seguire le tracce nelle terre selvagge. Se tentano di farlo in un dungeon o in città, l'obiettivo è ridotto di -1. Devono effettuare una prova dell'abilità Seguire le tracce se queste attraversano una porta o un fiume. La Sopravvivenza può essere usata anche per cercare cibo per sfamare 1d6 persone, per individuare fosse e trappole nelle Terre Selvagge (ma non nei dungeon) e per identificare erbe e funghi e le loro proprietà.
 
 #### Allerta
 I Ranger sono sorpresi solo il 50% delle volte rispetto al normale (cioè con un tiro di 1 su un d6 piuttosto che 1-2).
 
 #### Tiri salvezza
-I Ranger ottengono un bonus di +2 contro i poteri dei mostri selvaggi (es. animali giganti, piante velenose, creature creature fatate, licantropi).
+I Ranger ottengono un bonus di +2 contro i poteri dei mostri selvaggi (es. animali giganti, piante velenose, creature fatate, licantropi).
 
 #### Vagabondi Solitari
 I Ranger possono possedere solo beni che possono portare con sé. Essi dovrebbero regalare tesori extra a cause meritevoli. Non più di due Ranger possono avventurarsi insieme in un gruppo.
