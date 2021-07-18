@@ -1,3 +1,6 @@
+---
+nav_order: 11
+---
 # Capitolo 10: Gruppi ridotti
 
 Ogni Arbitro prima o poi deve affrontare la mancanza di giocatori. Può darsi che metà del gruppo chiami appena prima della sessione o che una particolare partita possa interessare solo uno o due altri giocatori. La maggior parte delle volte un Arbitro annullerà semplicemente la sessione o tirerà fuori i giochi di carte, ma altre volte un Arbitro desidererà di giocare anche con meno giocatori del solito.
@@ -34,10 +37,10 @@ Queste regole sui dadi di danno sono usate per tutti gli effetti che infliggono 
 
 Se un effetto fa un ammontare fisso di danni, allora viene fatto un punto di danno ogni quattro punti indicati nel testo. Quindi, se l'avventura afferma che toccare una statua di bronzo maledetta infligge automaticamente 10 punti di danno elettrico al profonatore, solo 2 punti di danno vengono fatti allo sfortunato eroe. I caltropi che infliggono automaticamente 1 punto di danno a chi li attraversa si arrotondano a zero, essendo un pericolo troppo banale per minacciare un eroe solitario.
 
-## La Seconda Regola: Infliggere Danni
+### La Seconda Regola: Infliggere Danni
 I danni ricevuti dai PG vengono tolti dai loro punti ferita come da Prima Regola. Se un guerriero con 6 punti ferita viene colpito dalla lancia di un orco, l'orco tira 1d6. Se il risultato è un 4, per esempio, allora viene inflitto un punto di danno e al guerriero solitario rimangono 5 punti ferita.
 
-I danni ricevuti dai PNG contano come un *dado vita completo* per ogni punto. Quindi, se lo stesso orco viene colpito dalla spada del guerriero e viene tirato un 3 sul dado dei danni, vengono sottratti 3 dadi vita all'orco. Poiché l'orco è una creatura con 1 solo dado vita, cade morto, infilzato dalla lama del suo nemico.
+I danni ricevuti dai PNG contano come un *dado vita completo* per ogni punto. Quindi, se lo stesso orco viene colpito dalla spada del guerriero e viene tirato un 3 sul dado dei danni, vengono sottratti 1 dado vita all'orco. Poiché l'orco è una creatura con 1 solo dado vita, cade morto, infilzato dalla lama del suo nemico.
 
 I dadi ferita dei mostri sono arrotondati al numero intero più vicino. Quindi, le creature con ½ dado vita, 1-1 dado vita e 1+2 dado vita contano tutte come creature da 1 dado vita. Si assume che i PNG di alto livello abbiano dadi vita pari al loro livello.
 
@@ -49,26 +52,26 @@ Un eroe che desideri fare qualcosa di diverso da un tiro di attacco in un round 
 
 Se viene fatto abbastanza danno a un mostro per ucciderlo, il PG può spendere il resto del danno per ferire qualsiasi altro nemico nel raggio d'azione di classe armatura uguale o peggiore. Per esempio, un prete hobgoblin corazzato e la sua guardia del corpo di guerrieri goblin si avventano su un eroe. L'eroe fa oscillare la sua alabarda contro un goblin e colpisce per 2 punti di danno. Tira anche il suo *Dado Mischia*, che fa un ulteriore punto di danno che non richiede un tiro per colpire. I goblin hanno solo un dado vita, quindi il suo tiro di mischia colpisce uno di loro. L'eroe spende poi i restanti 2 punti danno dell'ascia per fare a pezzi altri due goblin. Non può spendere il danno dell'alabarda sul prete hobgoblin, perché il prete ha una classe armatura migliore del nemico che ha colpito con il suo attacco. Allo stesso modo, se uno dei goblin fosse appollaiato su un balcone o tirasse dall'altra parte di un campo aperto, sarebbe troppo lontano dalla mischia per essere minacciato dall'alabarda del guerriero o dal Dado Mischia.
 
-## La Terza Regola: Guarire
+### La Terza Regola: Guarire
 Dadi ed effetti curativi sono trattati come se fossero dadi danno "invertiti", curando tanti dadi ferita quanti sarebbero i punti ferita inflitti. Così, una pozione curativa che il modulo indica che guarirà 1d6+1 danni verrebbe tirata come un dado danno "invertito", curando da 1 a 2 punti ferita per un eroe.
 
 Dopo ogni combattimento o occasione di ferirsi, un eroe da solo può prendersi cinque minuti per fasciare i propri tagli e riprendere fiato. Questo primo soccorso curerà fino a due punti di danno, anche se non li guarirà oltre il loro totale prima del combattimento o della ferita, né riparerà i danni subiti da Sfidare la Morte.
 
-## La quarta regola: Sfidare la Morte
+### La quarta regola: Sfidare la Morte
 Ogni volta che l'eroe si trova di fronte a un tiro salvezza fallito contro un incantesimo di morte, un assassino che uccide nel sonno, un'estenuante perdita di energia, una trappola inevitabile, una situazione senza speranza o una barriera insormontabile, può scegliere di sfidare la morte. Questa fortunata evasione permette loro di sfuggire agli effetti della loro situazione calamitosa, di aggirare una condizione altrimenti inevitabile o di superare barriere che li fermerebbero di sicuro, anche se mette pericolosamente a dura prova le loro riserve di fortuna.
 
 Quando un PG sfida la morte, subisce un dado di danno per ogni livello posseduto. La prima volta che schiva la morte durante una sessione di gioco, tira 1d4 per ogni livello. La volta successiva, tira 1d6, poi 1d8 e poi 1d10 per ogni ulteriore tentativo di evitare il proprio destino. Se il danno inflitto da questa prova di fortuna lo ridurrebbe a 0 punti ferita, è invece lasciato a 1 punto ferita e qualsiasi fosse il destino che stava cercando di evitare li colpisce normalmente.
 
 Spetta all'Arbitro decidere quali situazioni ed effetti negativi possono essere schivati. Quando il combattimento viene evitato, di solito significa che il PG è fuggito con successo da una situazione altrimenti ineluttabile. Quando qualche barriera arcana viene superata da un PG senza accesso a Dissolvere le Magie, potrebbe significare che l'eroe riconosce il presidio e sa come impedirne l'effetto. Quando una folla furiosa che ha sorpreso l'eroe in un vicolo viene schivata, potrebbe significare che qualche funzionario locale è un vecchio amico e arriva per disperdere la folla. L'Arbitro è il giudice finale di ciò che può essere schivato e della forma che l'evasione assume.
 
-## La Quinta Regola: Esperienza e gregari
+### La Quinta Regola: Esperienza e gregari
 Un eroe solitario guadagna solo un quarto dei normali punti esperienza per le sue gesta, riflettendo il fatto che ha meno mani con cui dividere il tesoro.
 
 Gregari e servitori possono essere impiegati normalmente, ma sono trattati come mostri ai fini del danno da combattimento. Un mercenario con 1 dado vita viene ucciso con un punto di danno.
 
 Gli Arbitri non dovrebbero sentirsi particolarmente obbligati a inviare dei gregari insieme a un avventuriero solitario. I corpi extra per assorbire gli attacchi dei mostri non sono così cruciali con queste regole e può risultare ingombrante tenerli tutti sotto controllo. Allo stesso modo, gli Arbitri dovrebbero stare attenti ad includere più di un PG in un'avventura quando usano queste regole: potrebbero rivelarsi molto più temibili di quanto l'avventura si aspettasse dai suoi eroi.
 
-## Cosa significa tutto questo
+### Cosa significa tutto questo
 La conversione dei danni e il Dado Mischia assicurano che il PG sia molto più lento a cedere durante il combattimento e molto più pericoloso verso i mostri. Ogni round, il PG di solito infliggerà almeno 1 PF di danno a qualsiasi nemico con dadi ferita uguali o inferiori grazie al Dado Mischia e ha la possibilità di fare di più con il suo attacco regolare. Un eroe con un'arma +1 o un modificatore +1 al tiro per il danno ha la garanzia di fare almeno 1 PF di danno e un guerriero con uno spadone potrebbe addirittura fare 4 PF.
 
 Un tipico guerriero novizio con 5 punti ferita e CA 4 da cotta di maglia e scudo potrebbe imbattersi in un corpo a corpo con quattro orchi durante la sua esplorazione. Ogni round, il suo Dado Mischia potrebbe ucciderne uno, con una probabilità di 1 su 6 di ucciderne due. Con una spada da 1d8 in mano e un bonus di Forza di +1, il guerriero ha un'eccellente possibilità di infliggere 2 punti di danno ad ogni colpo, lasciando la possibilità che un round fortunato possa uccidere tutti e quattro gli orchi in una volta sola.
