@@ -10,6 +10,7 @@ Alessio Persichetti
 
 ### Revisione
 Valerio Graziano
+Alessandro Ferrarese
 
 La Scatola Bianca è un progetto dell'[**Italian Translation Alliance**](https://italian-translation-alliance.github.io)
 
