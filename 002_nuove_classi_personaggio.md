@@ -74,7 +74,7 @@ Gli Assassini possono acquisire e usare il Veleno. Una dose di Veleno costa 50po
 
 Non-morti, golem, demoni, elementali e creature fatate sono invulnerabili a Veleno.
 
-### Tiri Salvezza 
+### Tiro Salvezza 
 Gli Assassini guadagnano un bonus di +2 contro veleni e trappole.
 
 ### Fondare una Gilda
@@ -85,7 +85,7 @@ L'uso del veleno è deplorato in una società civilizzata. **Ogni volta che l'As
 
 L'Assassino può tentare di usare Veleno di nascosto: l'abilità Assassinio può anche essere usata per impedire ai compagni di guadagnare Disgusto quando si usa il Veleno (questo è un tiro separato dal tiro per assassinare un bersaglio). Tuttavia, l'avvelenamento segreto è ancora più inquietante per i compagni, quindi se questo stratagemma fallisce gli altri avventurieri guadagnano 2 punti Disgusto.
 
-## Bardo
+## Il Bardo
 Menestrelli, artisti, poeti... i Bardi hanno molti nomi. Li incontrerete nella maggior parte delle taverne dove cantano gesta di potenti uccisori di draghi e di terre mistiche oltre l'orizzonte conosciuto.
 
 I Bardi sono avventurieri purosangue e Cacciatori di tesori... o per essere più precisi -- *Cacciatori di avventure*. I Bardi sono esperti in molte aree e sono custodi delle tradizioni. Giocano un ruolo di supporto nel gruppo - non sono poi così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
@@ -114,7 +114,7 @@ I Bardi sono deboli in battaglia. Non possono usare armi pesanti a due mani (que
 #### Incanto
 Ogni Bardo ha uno strumento musicale -- descrivetelo all'Arbitro. In qualsiasi momento, potete suonare una canzone magica che incanta i mostri con DV inferiore o uguale al vostro livello. Potete anche dividere questo effetto tra più mostri più deboli (per esempio: un Bardo di livello 5 può incantare cinque mostri con 1 DV). Finché suonerete il vostro strumento, i mostri incantati vi seguiranno e non faranno alcun danno. Se vi distraete, se venite colpiti o se i mostri vengono attaccati dal gruppo, l'incanto si rompe e la canzone non funziona più.
 
-Non potete incantare non morti, demoni e mostri che non possono sentire.
+Non potete incantare non morti, demoni e mostri che non possono udire.
 
 #### Sapienza
 I Bardi hanno una profonda conoscenza di diverse cose - leggende, magia e creature. Ogni qualvolta il Bardo trova qualcosa di strano (per esempio un oggetto magico non identificato o un luogo sconosciuto) l'Arbitro tira un d6. Se il risultato del tiro è uguale o inferiore al punteggio dell'abilità di Sapienza del Bardo, l'Arbitro rivela informazioni utili sull'oggetto o sul luogo. Altrimenti, l'Arbitro comunica al Bardo una bugia.
@@ -170,7 +170,7 @@ Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere u
 
 Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto venti trofei che rientrano in una categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). I Cacciatori ricevono un bonus di danno di +2, quando combattono un mostro di una categoria padroneggiata. I Cacciatori possono avere più titoli.
 
-#### Tiri salvezza
+#### Tiro salvezza
 I Cacciatori ricevono un bonus di +2 ai tiri salvezza contro il veleno e le illusioni create dalle creature selvatiche.
 
 #### Uccisore
@@ -181,7 +181,7 @@ I Cacciatori viaggiano per il mondo e sono rispettati da tutti. Le gilde e i nob
 #### Bonus di esperienza per la Destrezza
 La Destrezza è l'attributo principale dei Cacciatori, il che significa che un punteggio di Destrezza di 15+ garantisce un ulteriore 5% di esperienza.
 
-## Druido
+## Il Druido
 A differenza dei chierici o maghi, i druidi non prendono il loro potere dagli dei o dalle scritture mistiche. I druidi adorano la natura e l'ordine naturale delle cose. 
 
 La magia druidica proviene da Madre Natura -- gli elementi, le piante e gli animali. Hanno una propria lista di incantesimi. I druidi sono sempre Neutrali e tendono ad evitare le aree civilizzate.
@@ -233,7 +233,7 @@ Dopo essere diventato un custode, il boschetto attira molte creature fantastiche
 #### Bonus di esperienza per la Saggezza
 La saggezza è l'attributo principale dei druidi, il che significa che un punteggio di saggezza di 15+ garantisce un ulteriore 5% di esperienza
 
-## Illusionista
+## L'Illusionista
 Gli Illusionisti sono incantatori specializzati in illusioni e controllo della mente. Questo garantisce loro accesso a più incantesimi rispetto ai normali maghi, ma molti dei loro incantesimi possono essere visti come semplici illusioni.
 
 Gli Illusionisti possono avanzare fino al 10° livello. Possono utilizzare tutti gli oggetti magici che riguardano l'individuazione, l'ESP, il controllo della mente o le illusioni.
@@ -243,7 +243,7 @@ Gli Illusionisti sono solitamente Umani, ma a discrezione dell'Arbitro anche gli
 #### Tabella 6: Avanzamento dell'Illusionista
 
 |         |                  |           |             |               | Incantesimi          ||
-| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiri Salvezza | 1 | 2 | 3 | 4 | 5 | 6 |
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-------:|:----------------:|:---------:|:-----------:|:-------------:|:-:|:-:|:-:|:-:|:-:|:-:|
 |    1    |         0        |     1     |      +0     |       16      | 2 | - | - | - | - | - |
 |    2    |       2.750      |    1+1    |      +0     |       15      | 3 | 1 | - | - | - | - |
@@ -268,13 +268,13 @@ Gli Illusionisti lanciano incantesimi da mago, ma hanno accesso a più incantesi
 #### Ammaliamento Minore
 Gli Illusionisti possono alterare il proprio aspetto a volontà, cambiando abito, età, i tratti del viso, il sesso, l'altezza e la corporatura. Non possono apparire di un'altra razza razza e qualcosa del loro aspetto deve rimanere costante -- normalmente la voce, il colore delle loro vesti, l'odore del profumo o una spilla distintiva. L'Illusionista può alterare l'aspetto di qualsiasi cosa tenuta in mano, anche se ritorna al suo vero aspetto quando viene lasciata andare.
 
-#### Tiri salvezza
+#### Tiro salvezza
 Gli Illusionisti ottengono un bonus di +2 contro illusioni o inganni.
 
 #### Fondare un Eremo
 Al nono livello, un Illusionista può costruire un eremo nascosto, spesso celato da illusioni permanenti o ai confini della terra delle fate. Il personaggio può scegliere di attrarre un seguito di apprendisti e guardie che possono includere creature fatate (Driadi, Gnomi, Sidhe) a discrezione dell'Arbitro.
 
-## Monaco
+## Il Monaco
 I Monaci sono artisti marziali che lottano per la perfezione corporea e spirituale. Preferiscono combattere disarmati, dando più valore alla velocità che alla forza bruta. 
 
 I Monaci di solito viaggiano per la terra in cerca di degni avversari. Ogni Monaco si è addestrato in un monastero, che ha le proprie regole, filosofie e tecniche di combattimento. Il Monaco non sarà resistente quanto un guerriero, ma è meno imponente, può risolvere alcuni problemi più velocemente e non dipende molto dall'equipaggiamento.
@@ -317,7 +317,7 @@ Altri adepti e maestri itineranti possono visitare il Monaco quando si trova in 
 #### Bonus di esperienza per la Saggezza
 La saggezza è l'attributo principale dei Monaci, il che significa che un punteggio di saggezza di 15+ garantisce un 5% di esperienza aggiuntiva.
 
-## Paladino
+## Il Paladino
 I Paladini sono santi cavalieri asceti della legge e della virtù. I combattenti possono combattere per il gusto di farlo, i Paladini invece seguono un codice rigoroso - ogni loro colpo di spada ha un significato e una conseguenza. I Paladini sono guerrieri mistici che sono la rovina di tutta la tirannia e del male. Molti Paladini servono anche un dio legale.
 
 I Paladini devono essere sempre legali, anche se esistono cavalieri neri malvagi (anti-Paladini) che possono essere scelti se l'Arbitro è d'accordo.
@@ -361,7 +361,7 @@ Un Paladino di decimo livello diventa un campione del bene. A questo livello il 
 #### Bonus di esperienza per il Carisma
 Il Carisma è l'attributo principale dei Paladini, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
 
-## Ranger
+## Il Ranger
 I Ranger sono uomini di frontiera ed esploratori che proteggono la gente dei regni pacifici dai pericoli delle terre selvagge. I Ranger sono in sintonia con la natura proprio come i Paladini servono le loro divinità legali. I Ranger devono essere sempre Legali, anche se i bruti caotici (Anti-Ranger) esistono e possono essere creati se l'Arbitro è d'accordo.
 
 I Ranger di solito sono Umani, ma a discrezione dell'Arbitro Elfi o Mezzorchi possono essere Ranger.
@@ -396,7 +396,7 @@ I Ranger tirano 1d6 per testare la loro abilità di Sopravvivenza cercando di ot
 #### Allerta
 I Ranger sono sorpresi solo il 50% delle volte rispetto al normale (cioè con un tiro di 1 su un d6 piuttosto che 1-2).
 
-#### Tiri salvezza
+#### Tiro salvezza
 I Ranger ottengono un bonus di +2 contro i poteri dei mostri selvaggi (es. animali giganti, piante velenose, creature fatate, licantropi).
 
 #### Vagabondi Solitari

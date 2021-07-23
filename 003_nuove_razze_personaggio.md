@@ -13,40 +13,44 @@ nav_order: 4
 {:toc}
 </details>
 
-## Gnomi
+## Lo Gnomo
 Gli Gnomi sono alti la metà dei nani, più bassi anche degli Halfling. Possono essere barbuti o meno, ma possiedono sempre dei tratti quasi comicamente esagerati (nasi lunghi, sopracciglia folte, mento curvo, orecchie larghe) che possono apparire adorabili o grotteschi. Sono creature fatate non del tutto di questo mondo.
 
-### Avanzamento del personaggio
+### Abilità degli gnomi
+
+#### Avanzamento del personaggio
 Gli Gnomi possono avanzare come Guerrieri o Maghi fino al 6° livello o Ladri o Illusionisti fino all'8° livello.
 
-### Difficile da colpire
+#### Difficile da colpire
 Gli Gnomi subiscono la metà dei danni dagli attacchi di creature più grandi dell'uomo.
 
-### Illusioni
+#### Illusioni
 Gli Gnomi possono lanciare Forza Fantasma una volta al giorno. L'illusione ha sempre una caratteristica distintiva che il giocatore sceglie alla creazione del personaggio (ad esempio, motivo tartan, una campana d'argento attaccata, odore di sambuco, colorata di rosso e bianco) e se viene toccata con incredulità o ferro freddo, svanisce senza richiedere alcun tiro salvezza.
 
-### Eredità Fatata
+#### Eredità Fatata
 Gli Gnomi hanno strane compulsioni e rituali, che si tratti di pulire stanze in disordine, ponendo indovinelli alle persone che chiedono loro delle cose o non rivelano mai i loro nomi. Guadagnano un bonus di esperienza di +10%  quando manifestano queste stranezze durante un'avventura.
 
-### Tiri salvezza
+#### Tiro salvezza
 La natura fatata degli Gnomi li rende resistenti alla magia; salvano a +4 contro incantesimi. Sono completamente immuni alle illusioni.
 
-### Lingue
+#### Lingue
 Gli Gnomi parlano lo gnomesco, il nanico, elfico e la lingua dei coboldi. Gli gnomi possono comunicare con tutti gli animali che scavano.
 
-## Mezzorco
+## Il Mezzorco
 Il Mezzorco può essere un guerriero feroce e selvaggio o una creatura tormentata che lotta per trovare un nobile scopo. I Mezzorchi sono evitati dalla maggior parte delle comunità, incluse le tribù orchesche.
 
-### Avanzamento del personaggio
+### Abilità dei Mezzorchi
+
+#### Avanzamento del personaggio
 La maggior parte dei Mezzorchi sono Guerrieri, ma possono essere Ranger, Ladri, Chierici o Assassini. Non possono avanzare oltre il 6° livello.
 
-### Forza bruta
+#### Forza bruta
 I Mezzorchi ottengono un +1 ai tiri per i danni in combattimento, anche con proiettili o magia. Possono anche aprire porte/piegare sbarre più facilmente -- il loro raggio di successo è aumentato di 2 (1-4 invece di 1-2).
 
-### Tiri salvezza
+#### Tiro salvezza
 I Mezzorchi ottengono un ulteriore +2 a tutti i tiri salvezza contro il veleno.
 
-### Lingue
+#### Lingue
 I Mezzorchi di solito parlano anche l'orchesco oltre al comune.
 
 ## Multiclassi
@@ -65,6 +69,7 @@ I **mezzorchi** possono essere chierici-assassini multiclasse. Essi sono limitat
 |    5    |      24.000      |      4     |      +1     |       10      |      3      | 2 | 2 | - |
 |    6    |      48.000      |      5     |      +2     |       9       |      3      | 2 | 2 | 1 |
 
+### Abilità dei Chierici-Assassini
 
 #### Restrizioni sulle armature e sulle armi
 I chierici-assassini possono indossare armature di cuoio o
@@ -77,7 +82,7 @@ e scacciare i Non-morti. Oltre alle armi dei chierici possono nominare un'arma d
 #### Assassinio, Pugnalata alla Schiena e Veleno
 I chierici-assassini possono effettuare omicidi e usare il veleno. Possono pugnalare alle spalle come i ladri con qualsiasi arma da mischia, ma tirano tre dadi per danno.
 
-#### Tiri salvezza
+#### Tiro salvezza
 I chierici-assassini ottengono un +2 per tutti i tiri salvezza tiri salvezza contro Paralisi, Veleno o Trappole.
 
 > **Suggerimento:** questi non sono cumulativi: il tiro salvezza contro una trappola velenosa è sempre solamente +2.
@@ -97,6 +102,7 @@ I chierici-assassini ottengono un +2 per tutti i tiri salvezza tiri salvezza con
 |    5    |      32.000      |      4     |      +2     |       10      |   3   |
 |    6    |      64.000      |      5     |      +2     |       9       |   3   |
 
+### Abilità del Guerriero-Ladro
 
 #### Restrizioni su armature e armi
 I Guerrieri-Ladri possono indossare armature di pelle e portare scudi e possono usare qualsiasi arma.
@@ -107,7 +113,7 @@ I Guerrieri-Ladri  guadagnano Furia da combattimento come un guerriero quando at
 #### Furto
 I Guerrieri-Ladri possiedono la capacità Furto. Possono pugnalare alle schiena come i Ladri con qualsiasi arma da mischia.
 
-#### Tiri salvezza
+#### Tiro salvezza
 I Guerrieri-Ladri ottengono un bonus di +2 per tutti i tiri salvezza contro morte, veleno o trappole.
 
 > **Suggerimento:** Questi non sono cumulativi: il tiro salvezza contro una trappola velenosa è sempre solamente +2.
@@ -128,6 +134,8 @@ Gli gnomi possono avanzare come multiclasse nello stesso modo in cui gli elfi co
 |    7    |      160.000     |      4     |      +2     |       8       |   4   | 4 | 3 | 2 | - |
 |    8    |      320.000     |     4+1    |      +2     |       7       |   4   | 4 | 3 | 2 | 1 |
 
+### Abilità del Ladro-Illusionista
+
 #### Restrizioni su armature e armi
 
 Un Ladro-Illusionista può indossare armature di cuoio e può usare qualunque arma.
@@ -138,7 +146,7 @@ I Ladri-Illusionisti eseguono pugnalate alla schiena e imparano il Furto proprio
 #### Illusioni
 I Ladri-Illusionisti imparano gli incantesimi di Illusionismo e Ammaliare.
 
-#### Tiri salvezza
+#### Tiro salvezza
 I Ladri-Illusionisti ricevono un bonus di +2 ai tiri salvezza contro gli incantesimi e contro le trappole.
 
 > **Suggerimento:** Questi non sono cumulativi: il tiro salvezza contro una trappola magica è sempre solamente +2.
