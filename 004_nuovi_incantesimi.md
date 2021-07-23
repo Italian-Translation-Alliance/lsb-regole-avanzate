@@ -126,7 +126,7 @@ Il Druido crea 1d6 bacche magiche nella sua mano. Ogni bacca ripristina 1 PF qua
 ### Bagliore
 *Livello*: D1  
 *Raggio d'azione*: 25 piedi  
-*Durata*: Istantanea
+*Durata*: Istantaneo
 
 Questo incantesimo emette un piccolo bagliore magico dal dito del Druido. Il bagliore può stordire un nemico per 1d6 round (tiro salvezza possibile). Non funziona sui mostri che non hanno occhi o non possono vedere.
 
@@ -154,28 +154,28 @@ Questo incantesimo crea un cerchio magico stazionario intorno al Druido, che blo
 ### Chiamare il Fulmine
 *Livello*: D3  
 *Raggio d'azione*: 240 piedi  
-*Durata*: Istantanea
+*Durata*: Istantaneo
 
 Un fulmine si abbatte sul bersaglio scelto e infligge 1d6 danni per livello dell'incantatore. Infligge 1d6 aggiuntivi se usato all'aperto e altri 1d6 se il bersaglio indossa oggetti metallici.
 
 ### Chiamare un mostro
 *Livello*: D4  
 *Raggio d'azione*: n/a  
-*Durata*: Istantanea
+*Durata*: Istantaneo
 
 Questo incantesimo richiama dalla natura un mostro casuale, a seconda del tipo di terreno in cui l'incantesimo è stato lanciato. C'è una probabilità di 1-2 che il mostro sia neutrale nei confronti del Druido. Anche se ostile, il mostro attaccherà sempre per primo i nemici del Druido.
 
 ### Conoscere il Tempo Atmosferico
 *Livello*: D1  
 *Raggio d'azione*: 2 miglia per livello dell'incantatore  
-*Durata*: Istantanea
+*Durata*: Istantaneo
 
 Questo incantesimo permette al Druido di prevedere il tempo nella posizione corrente. La previsione vale per le successive 12 ore.
 
 ### Esplosione Solare
 *Livello*: D5  
 *Raggio d'azione*: 300 piedi  
-*Durata*: Istantanea
+*Durata*: Istantaneo
 
 Questo incantesimo crea un globo esplosivo (80 piedi) di luce. Tutte le creature all'interno del globo diventano cieche e subiscono 1d6 punti di danno per livello dell'incantatore.
 
@@ -224,7 +224,7 @@ Funziona allo stesso modo dell'incantesimo Localizzare oggetto, ma ha effetto su
 ### Individuare trappole e fosse
 *Livello*: D1  
 *Raggio d'azione*: 90 piedi  
-*Durata*: Istantanea
+*Durata*: Istantaneo
 
 Funziona allo stesso modo dell'incantesimo Trovare trappole, ma colpisce le trappole e le fosse.
 
