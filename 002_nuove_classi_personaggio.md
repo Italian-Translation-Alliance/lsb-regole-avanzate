@@ -214,7 +214,7 @@ I druidi possono usare pugnali e qualsiasi arma di legno. Possono indossare solo
 I druidi lanciano incantesimi druidici da una specifica lista di incantesimi, come indicato nella tabella di avanzamento dei druidi. Ogni giorno il druido medita per un certo numero di incantesimi, scegliendo un incantesimo qualsiasi dalla lista standard.
 
 #### Mutaforma
-Una volta al giorno il druido può mutare forma in un piccolo animale o in un animale più grande e feroce. Il druido può tornare alla sua forma normale in qualsiasi momento. Durante la creazione del vostro personaggio, consultate il vostro Arbitro riguardo a quale animale piccolo (per esempio: lucertola, corvo) ed a quale animale grande (per esempio: orso, lupo) potete assumere forma.
+Una volta al giorno il druido può mutare forma in un piccolo animale o in un animale più grande e feroce. Il druido può tornare alla sua forma normale in qualsiasi momento. Durante la creazione del vostro personaggio, consultate il vostro Arbitro riguardo a quale sia l'animale piccolo (per esempio: lucertola, corvo) o grande (per esempio: orso, lupo) di cui potete assumere forma.
 
 Nella vostra forma di piccolo animale non potete parlare, perdete tutto l'equipaggiamento, non potete usare nessun oggetto e combattere, ma siete più agili e potete raggiungere luoghi inaccessibili ai normali umanoidi.
 
