@@ -8,27 +8,27 @@
 
 #### Tabella 16: Terreno selvaggio casuale
 
-| Tiro 2d6 | Terreno casuale adiacente all'esagono di tipo noto |          |          |          |          |        |
-|----------|----------------------------------------------------|----------|----------|----------|----------|--------|
-|          | Terreno                                            | Aperto   | Bosco    | Montagna | Deserto  | Palude |
-| 2        | Deserto                                            | Deserto  | Aperto   | Aperto   | Montagna | Montagna        |
-| 3        | Deserto                                            | Aperto   | Montagna | Aperto   | Montagna | Palude |
-| 4        | Aperto                                             | Aperto   | Bosco    | Deserto  | Montagna | Palude |
-| 5        | Aperto                                             | Montagna | Bosco    | Montagna | Deserto  | Palude |
-| 6        | Bosco                                              | Aperto   | Bosco    | Montagna | Deserto  | Palude |
-| 7        | Montagna                                           | Aperta   | Aperta   | Deserto  | Bosco    | Bosco  |
-| 8        | Bosco                                              | Aperto   | Bosco    | Montagna | Deserto  | Palude |
-| 9        | Aperto                                             | Bosco    | Bosco    | Montagna | Deserto  | Palude |
-| 10       | Aperto                                             | Aperto   | Bosco    | Bosco    | Deserto  | Palude |
-| 11       | Aperto                                             | Aperto   | Bosco    | Montagna | Deserto  | Aperto |
-| 12       | Palude                                             | Palude   | Palude   | Montagna | Aperto   | Aperto |
+| Tiro 2d6               | Terreno casuale adiacente all'esagono di tipo noto |          |          |          |          |          |
+| ---------------------- | -------------------------------------------------- | -------- | -------- | -------- | -------- | -------- |
+| Tipo dell'esagono noto | Terreno                                            | Aperto   | Bosco    | Montagna | Deserto  | Palude   |
+| 2                      | Deserto                                            | Deserto  | Aperto   | Aperto   | Montagna | Montagna |
+| 3                      | Deserto                                            | Aperto   | Montagna | Aperto   | Montagna | Palude   |
+| 4                      | Aperto                                             | Aperto   | Bosco    | Deserto  | Montagna | Palude   |
+| 5                      | Aperto                                             | Montagna | Bosco    | Montagna | Deserto  | Palude   |
+| 6                      | Bosco                                              | Aperto   | Bosco    | Montagna | Deserto  | Palude   |
+| 7                      | Montagna                                           | Aperta   | Aperta   | Deserto  | Bosco    | Bosco    |
+| 8                      | Bosco                                              | Aperto   | Bosco    | Montagna | Deserto  | Palude   |
+| 9                      | Aperto                                             | Bosco    | Bosco    | Montagna | Deserto  | Palude   |
+| 10                     | Aperto                                             | Aperto   | Bosco    | Bosco    | Deserto  | Palude   |
+| 11                     | Aperto                                             | Aperto   | Bosco    | Montagna | Deserto  | Aperto   |
+| 12                     | Palude                                             | Palude   | Palude   | Montagna | Aperto   | Aperto   |
 
 Oltre al suo tipo di terreno, ogni esagono può eventualmente contenere una (o più) caratteristiche significative. Queste possono essere determinate con la tabella sottostante:
 
 #### Tabella 17: Caratteristiche significative
 
 | Tiro 2d6 | Aperto    | Bosco       | Montagna    | Deserto     | Palude      |
-|----------|-----------|-------------|-------------|-------------|-------------|
+| -------- | --------- | ----------- | ----------- | ----------- | ----------- |
 | 2        | Tana      | Fiume†      | .           | Tana        | .           |
 | 3        | Guado\*   | Fiume       | Tana        | .           | Tana        |
 | 4        | .         | .           | .           | .           | Fiume       |
@@ -52,18 +52,21 @@ Notate che i fiumi e i sentieri dovrebbero coprire un certo numero di esagoni.
 L'Arbitro dovrebbe piazzare questi elementi senza tirare i dadi dopo aver riempito esagoni adiacenti, a meno che essi non presentino: montagne (dove nascono i fiumi); paludi (dove sfociano i fiumi); esagoni aperti (dove terminano i sentieri).
 
 ### Visibilità
+
 La visibilità è generalmente limitata ad un esagono (6 miglia) con una buona posizione di vantaggio su terreno aperto. Comunque, l'Arbitro può permettere una visibilità fino a tre esagoni (18 miglia) quando si sorveglia un terreno aperto dai passi montani, o fino a 11-16 esagoni (fino a 100 miglia) da una cima montana in condizioni di bel tempo. Notate che il terreno e le condizioni atmosferiche possono limitare gravemente la visibilità.
 
 ### Riposo
+
 Tutti i viaggiatori hanno bisogno di un giorno intero di riposo dopo sei giorni di viaggio.
 
 ### Tempo atmosferico
+
 Le condizioni atmosferiche dovrebbero essere determinate ogni giorno. Se il giorno precedente ha fatto caldo si tira 1d6 e si aggiunge 1. Se il giorno precedente ha piovuto si tira 1d6 e si aggiunge 6. Altrimenti, tirate due dadi a sei facce per determinare le condizioni del tempo giornaliero.
 
 #### Tabella 18: Meteo
 
 | Tiro 2d6 | Meteo           |
-|----------|-----------------|
+| -------- | --------------- |
 | 2-3      | Caldo           |
 | 4-6      | Sereno          |
 | 6-7      | Sereno          |
@@ -72,26 +75,25 @@ Le condizioni atmosferiche dovrebbero essere determinate ogni giorno. Se il gior
 | 11       | Pioggia         |
 | 12       | Pioggia forte   |
 
-
 Il caldo causerà sete, aumenterà la fatica e dimezzerà la velocità di spostamento. Il caldo aumenterà anche il rischio di incendi nella stagione secca.
 
 La pioggia di qualsiasi tipo ridurrà la visibilità, mentre la pioggia forte dimezzerà la velocità di spostamento.
 
 ## Roccaforti
+
 Quando viene indicata una roccaforte, si tratta di una torre occupata o di una fortezza in un luogo strategico come una scogliera, un incrocio, una valle, un ponte o un'isola. Il residente principale della roccaforte dovrebbe essere determinato casualmente, come segue:
 
 #### Tabella 19: Residente della Roccaforte
 
-
 | Tiro d6 | Allineamento | Classe        | Seguito   (1-6) |                |               |
-|---------|--------------|---------------|-----------------|----------------|---------------|
+| ------- | ------------ | ------------- | --------------- | -------------- | ------------- |
 | 1       | C            | Anti-chierico | 1\. Antieroi    | 2\. Licantropi | 3\. Meduse    |
 |         |              |               | 4\. Mummie      | 5\. Spettri    | 6\. Vampiri   |
 | 2       | C            | Mago          | 1\. Basilischi  | 2\. Chimere    | 3\. Draghi    |
 |         |              |               | 4\. Efreet      | 5\. Elementale | 6\. Gargoyles |
-| 3       | C            | Guerrieri     | 1\. Antieroi    | 2\. Draghi     | 3\. Giganti   |
+| 3       | C            | Guerriero     | 1\. Antieroi    | 2\. Draghi     | 3\. Giganti   |
 |         |              |               | 4\. Manticore   | 5\. Orchetti   | 6\. Troll     |
-| 4       | N            | Guerrieri     | 1\. Djinn       | 2\. Giganti    | 3\. Grifoni   |
+| 4       | N            | Guerriero     | 1\. Djinn       | 2\. Giganti    | 3\. Grifoni   |
 |         |              |               | 4\. Eroi        | 5\. Licantropi | 6\. Viverne   |
 | 5       | N            | Mago          | 1\. Centauri    | 2\. Djinn      | 3\. Draghi    |
 |         |              |               | 4\. Elementale  | 5\. Gorgoni    | 6\. Minotauri |
@@ -114,20 +116,23 @@ Un residente guerriero sfiderà il guerriero di livello più alto in una giostra
 
 Se il giocatore giostra e perde, lo sfidante chiederà la sua cavalcatura. Se i giocatori non hanno un guerriero tra loro e rifiutano la gara, lo sfidante riscuoterà un pedaggio di 1.000-4.000 po per il loro passaggio.
 
-Il mago esigerà dai personaggi un pedaggio di un oggetto magico di sua scelta o di 1.000-6.000 po se si ha nulla di desiderabile. Se non è possibile pagare, il mago può spingerli a raccogliere il tesoro necessario in una Missione. Il mago sceglierà tra i tesori recuperati, o forse li prenderà tutti.
+Il mago esigerà dai personaggi un pedaggio di un oggetto magico di sua scelta o di 1.000-6.000 po se non si ha nulla di desiderabile. Se non è possibile pagare, il mago può spingerli a raccogliere il tesoro necessario in una Missione. Il mago sceglierà tra i tesori recuperati, o forse li prenderà tutti.
 
-Un chierico legale richiede un tributo per il suo tempio pari a una decima parte della ricchezza dei personaggi. Se non possono pagare, il chierico chiede loro di compiere una missione legale, che, se completata con successo, gli farà guadagnare la sua ospitalità. Un anti-chierico può chiedere una quarta parte di qualsiasi ricchezza dei personaggi giocanti. Se non possono pagare, potrebbe semplicemente ucciderli o chiedere loro di svolgere una missione caotica, che potrebbe portare alla loro rovina.
+Un chierico legale richiede un tributo per il suo tempio pari alla decima parte della ricchezza dei personaggi. Se non possono pagare, il chierico chiede loro di compiere una missione legale, che, se completata con successo, gli farà guadagnare la sua ospitalità. Un anti-chierico può chiedere la quarta parte di qualsiasi ricchezza dei personaggi giocanti. Se non possono pagare, potrebbe semplicemente ucciderli o chiedere loro di svolgere una missione caotica, che potrebbe portare alla loro rovina.
 
 ### Guadi
+
 I fiumi e i corsi d'acqua sono generalmente impraticabili se non grazie a guadi e ponti (tranne che con un incantesimo di controllo dell'acqua). Questi saranno spesso occupati e, se un incontro dovesse avvenire in prossimità di un guado o di un ponte, l'Arbitro può presumere che l'incontro si svolga in quel preciso punto.
 
 ### Insediamenti
+
 Villaggi e città hanno rispettivamente 100-400 e 1.000-6.000 abitanti. Le aree che circondano le città alleate sono di solito relativamente sicure. Più lontano dalla civiltà le strade sono poco curate e ci sono poche pattuglie. La gente in queste zone è poco amichevole, se non pericolosa e si può incontrare qualsiasi tipo di mostro.
 
 L'Arbitro può assumere che i 3 esagoni (18 miglia di raggio) intorno ad una roccaforte alleata siano liberi, pattugliati o comunque relativamente sicuri. Città e villaggi controllano aree più piccole, ma tutto ciò che si trova al di là di queste immediate vicinanze è conosciuto come "terra selvaggia". Questi vasti tratti sono comunque punteggiati da villaggi e castelli di posizione sconosciuta, così come enclavi, rovine e altre curiosità in attesa di essere scoperte.
 
-## Incontri nella Terre Selvagge
-I mostri erranti si incontrano nelle terre selvagge come nel Sottomondo. L'Arbitro dovrebbe controllare una volta al giorno nelle immediate vicinanze di un insediamento amico o di una roccaforte con un tiro di 6 su 1d6 che indica un incontro. Nelle Terre Selvagge l'Arbitro dovrebbe controllare una volta al giorno in terreno aperto o nel deserto o due volte al giorno in boschi, paludi, montagne e terre fluviali. 
+## Incontri nelle Terre Selvagge
+
+I mostri erranti si incontrano nelle Terre Selvagge come nel Sottomondo. L'Arbitro dovrebbe controllare una volta al giorno nelle immediate vicinanze di un insediamento amico o di una roccaforte con un tiro di 6 su 1d6 se si verifica un incontro. Nelle Terre Selvagge l'Arbitro dovrebbe controllare una volta al giorno in terreno aperto o nel deserto o due volte al giorno in boschi, paludi, montagne e terre fluviali. 
 
 L'Arbitro dovrebbe fare un'ulteriore verifica al giorno se i giocatori si sono persi o si trovano ad un ponte o ad una fortezza.
 
@@ -135,78 +140,77 @@ Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro 
 
 #### Tabella 20: Incontri nelle Terre Selvagge
 
-| Tiro d20 | Pianura                 | Bosco                       | Giungla                       |
-|----------|-------------------------|-----------------------------|-------------------------------|
-| 1        | Dinosauri, qualsiasi    | Orsi                        | Formiche, giganti             |
-| 2        | Cani                    | Cinghiali, normali/giganti  | Scimmie                       |
-| 3        | Draghi, qualsiasi       | Centauri                    | Basilischi                    |
-| 4        | Nani                    | Millepiedi, grandi/giganti  | Pipistrelli, normali/giganti  |
-| 5        | Elfi                    | Cacatua                     | Scarabei, giganti             |
-| 6        | Giganti, collina        | Draghi, verde               | Millepiedi, grandi/giganti    |
-| 7        | Gnoll                   | Driadri                     | Dinosauri, qualsiasi          |
-| 8        | Goblin                  | Elfi                        | Draghi, verde                 |
-| 9        | Gorgoni                 | Licantropi                  | Idra                          |
-| 10       | Hobgoblin               | Meduse                      | Coboldi                       |
-| 11       | Cavalli                 | Uomini                      | Sanguisughe, giganti          |
-| 12       | Leoni                   | Personaggi non giocanti     | Uomini lucertola              |
-| 13       | Licantropi              | Orchetti                    | Lucertole, grandi/ giganti    |
-| 14       | Mastodonti              | Pixie                       | Meduse                        |
-| 15       | Uomini                  | Vermi viola                 | Uomini                        |
-| 16       | Personaggi non giocanti | Serpenti, grandi/giganti    | Personaggi non giocanti       |
-| 17       | Orchetti                | Ragni, grandi/giganti       | Vermi viola                   |
-| 18       | Orchetti                | Treant                      | Scorpioni, giganti            |
-| 19       | Vermi viola             | Unicorni                    | Serpenti, grandi/giganti      |
-| 20       | Titanotteri             | Donnole, giganti            | Ragni, grandi/giganti         |
+| Tiro d20 | Pianura                 | Bosco                      | Giungla                      |
+| -------- | ----------------------- | -------------------------- | ---------------------------- |
+| 1        | Dinosauri, qualsiasi    | Orsi                       | Formiche, giganti            |
+| 2        | Cani                    | Cinghiali, normali/giganti | Scimmie                      |
+| 3        | Draghi, qualsiasi       | Centauri                   | Basilischi                   |
+| 4        | Nani                    | Millepiedi, grandi/giganti | Pipistrelli, normali/giganti |
+| 5        | Elfi                    | Cacatua                    | Scarabei, giganti            |
+| 6        | Giganti, collina        | Draghi, verde              | Millepiedi, grandi/giganti   |
+| 7        | Gnoll                   | Driadri                    | Dinosauri, qualsiasi         |
+| 8        | Goblin                  | Elfi                       | Draghi, verde                |
+| 9        | Gorgoni                 | Licantropi                 | Idra                         |
+| 10       | Hobgoblin               | Meduse                     | Coboldi                      |
+| 11       | Cavalli                 | Uomini                     | Sanguisughe, giganti         |
+| 12       | Leoni                   | Personaggi non giocanti    | Uomini lucertola             |
+| 13       | Licantropi              | Orchetti                   | Lucertole, grandi/ giganti   |
+| 14       | Mastodonti              | Pixie                      | Meduse                       |
+| 15       | Uomini                  | Vermi viola                | Uomini                       |
+| 16       | Personaggi non giocanti | Serpenti, grandi/giganti   | Personaggi non giocanti      |
+| 17       | Orchetti                | Ragni, grandi/giganti      | Vermi viola                  |
+| 18       | Orchetti                | Treant                     | Scorpioni, giganti           |
+| 19       | Vermi viola             | Unicorni                   | Serpenti, grandi/giganti     |
+| 20       | Titanotteri             | Donnole, giganti           | Ragni, grandi/giganti        |
 
+| Tiro d20 | Montagna                   | Deserto                    | Artico                     |
+| -------- | -------------------------- | -------------------------- | -------------------------- |
+| 1        | Orsi delle caverne         | Formiche, giganti          | Orsi delle caverne         |
+| 2        | Uomini delle caverne       | Uomini delle caverne       | Uomini delle caverne       |
+| 3        | Chimere                    | Millepiedi, grandi/giganti | Ciclopi                    |
+| 4        | Draghi, rosso              | Chimere                    | Cani                       |
+| 5        | Nani                       | Ciclopi                    | Draghi, bianchi            |
+| 6        | Elementale, terra          | Djinn                      | Elementale, aria           |
+| 7        | Gargoyle                   | Draghi, blu                | Giganti, gelo              |
+| 8        | Giganti, pietra            | Efreet                     | Gnomi                      |
+| 9        | Goblin                     | Elementale, fuoco          | Leoni, maculato            |
+| 10       | Grifoni                    | Giganti, fuoco             | Statue viventi, qualsiasi  |
+| 11       | Ippogrifi                  | Gnomi                      | Mastodonti                 |
+| 12       | Hobgoblin                  | Statue viventi, qualsiasi  | Uomini                     |
+| 13       | Leoni, maculati            | Manticore                  | Personaggi non giocanti    |
+| 14       | Uomini                     | Uomini                     | Vermi viola                |
+| 15       | Minotauri                  | Mummie                     | Tigri dai denti a sciabola |
+| 16       | Personaggi non giocanti    | Personaggi non giocanti    | Teschi                     |
+| 17       | Rocs                       | Vermi viola                | Lupi                       |
+| 18       | Tigri dai denti a sciabola | Salamandre                 | Lupi, giganti              |
+| 19       | Troll                      | Scorpioni, giganti         | Mammut lanosi              |
+| 20       | Viverne                    | Serpenti, grandi           | Rinoceronti lanosi         |
 
-| Tiro d20 | Montagna                   | Deserto                     | Artico                     |
-|----------|----------------------------|-----------------------------|----------------------------|
-| 1        | Orsi delle caverne         | Formiche, giganti           | Orsi delle caverne         |
-| 2        | Uomini delle caverne       | Uomini delle caverne        | Uomini delle caverne       |
-| 3        | Chimere                    | Millepiedi, grandi/giganti  | Ciclopi                    |
-| 4        | Draghi, rosso              | Chimere                     | Cani                       |
-| 5        | Nani                       | Ciclopi                     | Draghi, bianchi            |
-| 6        | Elementale, terra          | Djinn                       | Elementale, aria           |
-| 7        | Gargoyle                   | Draghi, blu                 | Giganti, gelo              |
-| 8        | Giganti, pietra            | Efreet                      | Gnomi                      |
-| 9        | Goblin                     | Elementale, fuoco           | Leoni, maculato            |
-| 10       | Grifoni                    | Giganti, fuoco              | Statue viventi, qualsiasi  |
-| 11       | Ippogrifi                  | Gnomi                       | Mastodonti                 |
-| 12       | Hobgoblin                  | Statue viventi, qualsiasi   | Uomini                     |
-| 13       | Leoni, maculati            | Manticore                   | Personaggi non giocanti    |
-| 14       | Uomini                     | Uomini                      | Vermi viola                |
-| 15       | Minotauri                  | Mummie                      | Tigri dai denti a sciabola |
-| 16       | Personaggi non giocanti    | Personaggi non giocanti     | Teschi                     |
-| 17       | Rocs                       | Vermi viola                 | Lupi                       |
-| 18       | Tigri dai denti a sciabola | Salamandre                  | Lupi, giganti              |
-| 19       | Troll                      | Scorpioni, giganti          | Mammut lanosi              |
-| 20       | Viverne                    | Serpenti, grandi            | Rinoceronti lanosi         |
-
-
-| Tiro d20 | Palude                     | Città                   | Necropoli                     |
-|----------|----------------------------|-------------------------|-------------------------------|
-| 1        | Basilischi                 | Uomini delle caverne    | Pipistrelli, normale/giganti  |
-| 2        | Coccodrilli                | Doppelganger            | Millepiedi, grandi/giganti    |
-| 3        | Coccodrilli, giganti       | Nani                    | Gargoyle                      |
-| 4        | Dinosauri, qualsiasi       | Elfi                    | Ghoul                         |
-| 5        | Draghi tartarughe          | Ghoul                   | Goblin/Hobgoblin              |
-| 6        | Draghi, nero               | Giganti, qualsiasi      | Golem, qualsiasi              |
-| 7        | Giganti, collina           | Gnoll                   | Manticore                     |
-| 8        | Idre                       | Goblin                  | Uomini, zelanti               |
-| 9        | Coboldi                    | Golem, qualsiasi        | Mummie                        |
-| 10       | Sanguisughe, giganti       | Halfling                | Personaggi non giocanti       |
-| 11       | Uomini lucertola           | Hobgoblin               | Ratti, giganti                |
-| 12       | Lucertole, grandi/giganti  | Licantropi              | Ombre                         |
-| 13       | Meduse                     | Uomini                  | Scheletri                     |
-| 14       | Uomini                     | Uomini, dervisci        | Spettri                       |
-| 15       | Personaggi non giocanti    | Personaggi non giocanti | Ragni, grandi/giganti         |
-| 16       | Melme, qualsiasi           | Orchi                   | Vampiri                       |
-| 17       | Vermi viola                | Orchetti                | Erranti                       |
-| 18       | Serpenti, grandi/giganti   | Ratti, giganti          | Lupi, giganti                 |
-| 19       | Rospi, giganti             | Titano                  | Apparizioni                   |
-| 20       | Troll                      | Vampiri                 | Zombie                        |
+| Tiro d20 | Palude                    | Città                   | Necropoli                    |
+| -------- | ------------------------- | ----------------------- | ---------------------------- |
+| 1        | Basilischi                | Uomini delle caverne    | Pipistrelli, normale/giganti |
+| 2        | Coccodrilli               | Doppelganger            | Millepiedi, grandi/giganti   |
+| 3        | Coccodrilli, giganti      | Nani                    | Gargoyle                     |
+| 4        | Dinosauri, qualsiasi      | Elfi                    | Ghoul                        |
+| 5        | Draghi tartarughe         | Ghoul                   | Goblin/Hobgoblin             |
+| 6        | Draghi, nero              | Giganti, qualsiasi      | Golem, qualsiasi             |
+| 7        | Giganti, collina          | Gnoll                   | Manticore                    |
+| 8        | Idre                      | Goblin                  | Uomini, zelanti              |
+| 9        | Coboldi                   | Golem, qualsiasi        | Mummie                       |
+| 10       | Sanguisughe, giganti      | Halfling                | Personaggi non giocanti      |
+| 11       | Uomini lucertola          | Hobgoblin               | Ratti, giganti               |
+| 12       | Lucertole, grandi/giganti | Licantropi              | Ombre                        |
+| 13       | Meduse                    | Uomini                  | Scheletri                    |
+| 14       | Uomini                    | Uomini, dervisci        | Spettri                      |
+| 15       | Personaggi non giocanti   | Personaggi non giocanti | Ragni, grandi/giganti        |
+| 16       | Melme, qualsiasi          | Orchi                   | Vampiri                      |
+| 17       | Vermi viola               | Orchetti                | Erranti                      |
+| 18       | Serpenti, grandi/giganti  | Ratti, giganti          | Lupi, giganti                |
+| 19       | Rospi, giganti            | Titano                  | Apparizioni                  |
+| 20       | Troll                     | Vampiri                 | Zombie                       |
 
 ### Fuga e inseguimento
+
 Un gruppo più piccolo può desiderare di eludere un gruppo più grande piuttosto che affrontarlo. I mostri ostili (inclusi i residenti della roccaforte precedentemente offesi) inseguiranno il gruppo con un tiro di 4-6 su 1d6, mentre i non ostili inseguiranno solo con un tiro di 6.
 
 La possibilità di eludere un incontro è determinata dalla dimensione delle parti. Se i fuggiaschi non sono più di un quarto del numero degli inseguitori, si eviteranno con un tiro di 3-6 su 1d6. Se non sono più della metà degli inseguitori, riescono a fuggire con un tiro di 4-6; altrimenti solo con un tiro di 5-6.
@@ -214,9 +218,11 @@ La possibilità di eludere un incontro è determinata dalla dimensione delle par
 Le probabilità di fuga sono regolate come segue:
 
 #### Sorpresa
+
 Se gli inseguitori sono sorpresi, la fuga è più probabile di 1 possibilità su 6. Se i fuggiaschi sono sorpresi non c'è opportunità di fuga a meno che la bassa visibilità o la velocità non dicano altrimenti.
 
 #### Bassa visibilità
+
 Boschi, paludi nebbiose, notte, pioggia, nebbia o neve aumentano la possibilità di fuga di 1 su 6, anche se sorpresi.
 
 #### Velocità
@@ -241,27 +247,27 @@ L'Arbitro può usare le seguenti tabelle per generare regioni oceaniche per la n
 
 #### Tabella 21: Mare inesplorato casuale
 
-| Tiro 2d6 | Mare casuale adiacente all'esagono di tipo noto |          |          |         |         |          |
-|----------|-------------------------------------------------|----------|----------|---------|---------|----------|
-|          | Terreno                                         | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
-| 2        | Isola                                           | Isola    | Oceano   | Oceano  | Scoglio |          |
-| 3        | Isola                                           | Oceano   | Scoglio  | Oceano  | Scoglio | Tempesta |
-| 4        | Oceano                                          | Oceano   | Costa    | Isola   | Scoglio | Tempesta |
-| 5        | Oceano                                          | Scoglio  | Costa    | Scoglio | Isola   | Tempesta |
-| 6        | Costa                                           | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
-| 7        | Scoglio                                         | Aperta   | Aperta   | Isola   | Costa   |          |
-| 8        | Costa                                           | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
-| 9        | Oceano                                          | Costa    | Costa    | Scoglio | Isola   | Tempesta |
-| 10       | Oceano                                          | Oceano   | Costa    | Costa   | Isola   | Tempesta |
-| 11       | Oceano                                          | Oceano   | Costa    | Scoglio | Isola   | Oceano   |
-| 12       | Tempesta                                        | Tempesta | Tempesta | Scoglio | Oceano  | Oceano   |
+| Tiro 2d6               | Mare casuale adiacente all'esagono di tipo noto |          |          |         |         |          |
+| ---------------------- | ----------------------------------------------- | -------- | -------- | ------- | ------- | -------- |
+| Tipo dell'esagono noto | Terreno                                         | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
+| 2                      | Isola                                           | Isola    | Oceano   | Oceano  | Scoglio |          |
+| 3                      | Isola                                           | Oceano   | Scoglio  | Oceano  | Scoglio | Tempesta |
+| 4                      | Oceano                                          | Oceano   | Costa    | Isola   | Scoglio | Tempesta |
+| 5                      | Oceano                                          | Scoglio  | Costa    | Scoglio | Isola   | Tempesta |
+| 6                      | Costa                                           | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
+| 7                      | Scoglio                                         | Aperta   | Aperta   | Isola   | Costa   |          |
+| 8                      | Costa                                           | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
+| 9                      | Oceano                                          | Costa    | Costa    | Scoglio | Isola   | Tempesta |
+| 10                     | Oceano                                          | Oceano   | Costa    | Costa   | Isola   | Tempesta |
+| 11                     | Oceano                                          | Oceano   | Costa    | Scoglio | Isola   | Oceano   |
+| 12                     | Tempesta                                        | Tempesta | Tempesta | Scoglio | Oceano  | Oceano   |
 
 Ogni esagono può eventualmente contenere una (o più) caratteristiche significative. Queste possono essere determinate con la tabella sottostante:
 
 #### Tabella 22: Caratteristiche significative
 
 | Tiro 2d6 | Oceano      | Costa    | Scoglio | Isola | Tempesta |
-|----------|-------------|----------|---------|-------|----------|
+| -------- | ----------- | -------- | ------- | ----- | -------- |
 | 2        |             | Corrente | .       |       | .        |
 | 3        | Confluenza† | Corrente |         | .     |          |
 | 4        | .           | .        | .       | .     | Corrente |
@@ -279,21 +285,22 @@ Ogni esagono può eventualmente contenere una (o più) caratteristiche significa
 † Confluenza di correnti marine
 
 ### Tempo e movimento
+
 L'esplorazione marittima conserva la scala di tempo dell'esplorazione selvaggia di 1 turno per giorno.
 
 #### Tabella 23: Tasso di esplorazione marittima
 
-| Trasporto         | Tasso di movimento |        |Esagoni al giorno|             |
-|-------------------|--------------------|--------|-----------------|-------------|
-|                   | A remi             | A Vela | Acque costiere  | Mare aperto |
-| Imbarcazione      |                    | 6"     | 1               | 3           |
-| Zattera           | 6"                 | .      | 1               | 1           |
-| Galea, piccola    | 12"                | .      | 2               | 2           |
-| Galea, grande     | 18"                |        | 3               | 3           |
-| Nave lunga        | 24"                | .      | 4               | 4           |
-| Mercante, piccolo |                    | 18"    | 3               | 9           |
-| Mercante, grande  |                    | 12"    | 2               | 6           |
-| Nave da guerra    | .                  | 6"     | 1               | 3           |
+| Trasporto           | Tasso di movimento |        | Esagoni al giorno |             |
+| ------------------- | ------------------ | ------ | ----------------- | ----------- |
+|                     | A remi             | A Vela | Acque costiere    | Mare aperto |
+| Imbarcazione        |                    | 6"     | 1                 | 3           |
+| Zattera             | 6"                 | .      | 1                 | 1           |
+| Galea, piccola      | 12"                | .      | 2                 | 2           |
+| Galea, grande       | 18"                |        | 3                 | 3           |
+| Nave lunga          | 24"                | .      | 4                 | 4           |
+| Mercantile, piccolo |                    | 18"    | 3                 | 9           |
+| Mercantile, grande  |                    | 12"    | 2                 | 6           |
+| Nave da guerra      | .                  | 6"     | 1                 | 3           |
 
 Le acque costiere (fino a 3 esagoni da terra) e i fiumi interni navigabili mantengono la scala delle esplorazioni delle terre selvagge dove ogni 1" di tasso di movimento rappresenta 1 miglio percorso al giorno. L'oceano aperto, tuttavia, è così vasto e generalmente privo di ostacoli che la velocità di navigazione è triplicata in modo che 1" di movimento rappresenta 1 lega (3 miglia) percorsa al giorno.
 
@@ -310,21 +317,25 @@ I tassi di movimento per le navi a vela presuppongono che abbiamo vento fresco a
 Un esagono dovrebbe essere aggiunto quando si viaggia con una corrente a favore o sottratto quando si viaggia contro corrente.
 
 #### Ricambi
+
 Ad eccezione delle barche e delle zattere, tutti i velieri hanno remi di riserva e tutte le barche a vela hanno vele di riserva da utilizzare in caso di necessità. Queste permettono di muoversi a metà velocità.
 
 #### Riposo
+
 Tutti gli equipaggi hanno bisogno di un giorno intero di riposo dopo sei giorni in mare o immediatamente dopo aver superato una tempesta.
 
 #### Visibilità
+
 La distanza dall'orizzonte è determinata dall'altezza sul livello del mare. Dal ponte di una nave la visibilità è limitata a un esagono (6 miglia). Dalla coffa un marinaio può vedere una nave fino a due esagoni (12 miglia) di distanza con tempo sereno. Tuttavia, le condizioni atmosferiche possono limitare gravemente la visibilità.
 
 ### Tempo atmosferico
+
 In mare la forza e la direzione del vento dovrebbero essere determinate ogni giorno. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento.
 
 #### Tabella 24: Meteo e velocità della nave
 
 | 2-12  | Vento        | Vela             | Canottaggio      |
-|-------|--------------|------------------|------------------|
+| ----- | ------------ | ---------------- | ---------------- |
 | 2-3   | Calma piatta | Niente vela      | Velocità normale |
 | 4-7   | Moderato     | ½ velocità       | Velocità normale |
 | 8-9   | Fresco       | Velocità normale | Velocità normale |
@@ -332,18 +343,23 @@ In mare la forza e la direzione del vento dovrebbero essere determinate ogni gio
 | 12    | Tempesta     | Speciale         | Speciale         |
 
 #### Venti forti
+
 In mare aperto barche, zattere e galee si capovolgono in caso di vento forte con un tiro di 1-2 su 1d6 ad ogni turno.
 
 #### Tempeste
+
 La navigazione è impossibile in condizioni di tempesta e qualsiasi imbarcazione si capovolge con un tiro di 1-2 su 1d6 per ogni turno. Qualsiasi imbarcazione che non si capovolge viene invece spostata di 2-7 esagoni in una direzione determinata segretamente dall'Arbitro e viene immediatamente considerata come dispersa.
 
 ### Perdersi
+
 Il capitano di una nave non avrà difficoltà a navigare su una rotta conosciuta finché il tempo rimane buono. Tuttavia, se il tempo diventa avverso, c'è la possibilità di perdersi. L'Arbitro dovrebbe tirare segretamente 1d6 per ogni giorno trascorso con vento forte: un 1-2 indica che i giocatori si sono persi. Se questo accade, l'Arbitro dovrebbe spostarli ad una distanza/direzione imprevista sulla sua mappa, senza avvertirli.
 
 ### Insediamenti e roccaforti
+
 Insediamenti e roccaforti si determinano in mare come nelle Terre Selvagge. Questi possono essere interamente o parzialmente sommersi, costruiti su pontoni galleggianti, aggrappati a prominenze rocciose o qualsiasi altra cosa l'Arbitro desideri. Che siano amichevoli o meno può essere determinato con una prova di reazione.
 
 ### Incontri in mare
+
 I mostri erranti si incontrano in mare proprio come nelle Terre Selvagge. L'Arbitro non ha bisogno di controllare se ci sono mostri erranti mentre i giocatori sono entro 3 esagoni (18 miglia) da un porto amico, ma una volta in mare aperto dovrebbe controllare una volta al giorno in mare aperto o due volte al giorno lungo una costa o una via navigabile. Un ulteriore controllo dovrebbe essere effettuato ogni giorno se i giocatori si sono persi. Un tiro di 6 su 1d6 indica che ci sarà un incontro.
 
 Quando viene determinato un incontro, stabilite il tipo di mostro tirando i dadi sulla tabella degli incontri in mare. Se i giocatori stanno viaggiando lungo una costa o una via d'acqua interna, è altrettanto probabile che un incontro avvenga a terra come in mare. In questo caso, usate la tabella degli incontri nelle Terre Selvagge.
@@ -351,7 +367,7 @@ Quando viene determinato un incontro, stabilite il tipo di mostro tirando i dadi
 #### Tabella 25: Tabelle degli incontri in mare
 
 | Tiro d20 | Corso d'acqua           | Costa                   | Oceano aperto           |
-|----------|-------------------------|-------------------------|-------------------------|
+| -------- | ----------------------- | ----------------------- | ----------------------- |
 | 1        | Coccodrilli             | Granchi, giganti        | Granchi, giganti        |
 | 2        | Coccodrilli, giganti    | Coccodrilli             | Dinosauri, mosasauri    |
 | 3        | Dinosauri, brontosauri  | Coccodrilli, giganti    | Tartarughe drago        |
@@ -373,28 +389,35 @@ Quando viene determinato un incontro, stabilite il tipo di mostro tirando i dadi
 | 19       | Serpente, giganti       | Nixie                   | Serpente, giganti       |
 | 20       | Rospi, giganti          | Personaggi non giocanti | Calamari, giganti       |
 
-
 #### Sorpresa
+
 La sorpresa avviene in mare (come nel Sottomondo) con un tiro di 5-6 su 1d6. Se i giocatori sono sorpresi, le navi o i mostri nemici li raggiungono da sopravento, emergono improvvisamente da banchi di nebbia o piogge, appaiono da dietro le onde o emergono inaspettatamente da sott'acqua.
 
 ### Distanza dell'incontro
+
 Se una delle due parti è sorpresa, l'incontro inizia a 10-60 iarde di distanza e la parte sorpresa non potrà rispondere per un turno; altrimenti, l'incontro inizia a 40-240 iarde di distanza, il raggio d'azione è di 1" (10 iarde come nelle Terre Selvagge). La gittata dell'artiglieria navale è tipicamente di 300 iarde.
 
 #### Reazione dei mostri
+
 La reazione ai giocatori dei mostri in mare è come nel Sottomondo.
 
 ### Fuga e inseguimento
-La fuga e l'inseguimento in mare avvengono come nelle Terre Selvagge con le seguenti considerazioni aggiuntive:
+
+La fuga e l'inseguimento in mare avvengono come nelle Terre Selvagge, con le seguenti considerazioni aggiuntive:
+
 - La scarsa visibilità si verifica in caso di tempeste, pioggia, nebbia e di notte.
-- Gli inseguitori che sono in grado di immergersi sfuggiranno automaticamente agli inseguitori senza questa capacità, a meno che non vengano sorpresi.
+- Gli inseguiti che sono in grado di immergersi sfuggiranno automaticamente agli inseguitori senza questa capacità, a meno che non vengano sorpresi.
 
 ### Nuotare
+
 Qualsiasi personaggio giocante cresciuto sulla costa o vicino a un corso d'acqua può nuotare, così come qualsiasi personaggio non giocante che tira un 4-6 su 1d6. Il nuoto ha una velocità di 6" in circostanze ideali; altrimenti 3". Un personaggio può nuotare al massimo per un giorno, dopodiché annega.
 
 ### Annegamento
+
 Chiunque si butti in mare rischia di annegare. La metà dell'equipaggio di una nave non sa nuotare e annega automaticamente; altrimenti, gli uomini non armati che sanno nuotare sopravvivono con un tiro di 2-6 su 1d6 se si liberano immediatamente di qualsiasi cosa più pesante di un pugnale. Ogni oggetto più pesante trattenuto aumenta il rischio di annegamento di 1 su 6. Le armature di pelle e di maglia contano rispettivamente uno e quattro oggetti, mentre le armature di piastre causano l'annegamento automatico. Durante una tempesta c'è sempre un minimo di 3 possibilità su 6 di annegare. La sopravvivenza indica che il personaggio è riuscito a rimuovere la sua armatura prima di annegare.
 
 ## Esplorazione aerea
+
 Se i giocatori si dotano di cavalcature alate, possono mappare regioni selvagge e oceaniche attraverso l'esplorazione aerea.
 
 L'Arbitro potrebbe anche voler includere regioni in cima alle nuvole che possono essere raggiunte solo volando. 
@@ -403,20 +426,20 @@ L'Arbitro può usare le seguenti tabelle per generare regioni in cima alle nuvol
 
 #### Tabella 26: Regione area casuale
 
-| Tiro 2d6 | Regione area casuale adiacente all'esagono di tipo noto |          |          |          |          |        |
-|----------|----------------------------------------------------|----------|----------|----------|----------|--------|
-|          | Terreno                                            | Aria   | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
-| 2        | Nube inconsistente                                            | Nube inconsistente  | Aria   | Aria   | Montagna fluttuante \* |        |
-| 3        | Nube inconsistente                                            | Aria   | Montagna fluttuante \* | Aria   | Montagna fluttuante \* | Tempesta |
-| 4        | Aria                                             | Aria   | Nube solida    | Nube inconsistente  | Montagna fluttuante \* | Tempesta |
-| 5        | Aria                                             | Montagna fluttuante \* | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
-| 6        | Nube solida                                              | Aria   | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
-| 7        | Montagna fluttuante \*                                           | Aperta   | Aperta   | Nube inconsistente  | Nube solida    |        |
-| 8        | Nube solida                                              | Aria   | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
-| 9        | Aria                                             | Nube solida    | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
-| 10       | Aria                                             | Aria   | Nube solida    | Nube solida    | Nube inconsistente  | Tempesta |
-| 11       | Aria                                             | Aria   | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Aria |
-| 12       | Tempesta                                             | Tempesta   | Tempesta   | Montagna fluttuante \* | Aria   | Aria |
+| Tiro 2d6 | Regione area casuale adiacente all'esagono di tipo noto |                        |                        |                        |                        |          |
+| -------- | ------------------------------------------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | -------- |
+|          | Terreno                                                 | Aria                   | Nube solida            | Montagna fluttuante \* | Nube inconsistente     | Tempesta |
+| 2        | Nube inconsistente                                      | Nube inconsistente     | Aria                   | Aria                   | Montagna fluttuante \* |          |
+| 3        | Nube inconsistente                                      | Aria                   | Montagna fluttuante \* | Aria                   | Montagna fluttuante \* | Tempesta |
+| 4        | Aria                                                    | Aria                   | Nube solida            | Nube inconsistente     | Montagna fluttuante \* | Tempesta |
+| 5        | Aria                                                    | Montagna fluttuante \* | Nube solida            | Montagna fluttuante \* | Nube inconsistente     | Tempesta |
+| 6        | Nube solida                                             | Aria                   | Nube solida            | Montagna fluttuante \* | Nube inconsistente     | Tempesta |
+| 7        | Montagna fluttuante \*                                  | Aperta                 | Aperta                 | Nube inconsistente     | Nube solida            |          |
+| 8        | Nube solida                                             | Aria                   | Nube solida            | Montagna fluttuante \* | Nube inconsistente     | Tempesta |
+| 9        | Aria                                                    | Nube solida            | Nube solida            | Montagna fluttuante \* | Nube inconsistente     | Tempesta |
+| 10       | Aria                                                    | Aria                   | Nube solida            | Nube solida            | Nube inconsistente     | Tempesta |
+| 11       | Aria                                                    | Aria                   | Nube solida            | Montagna fluttuante \* | Nube inconsistente     | Aria     |
+| 12       | Tempesta                                                | Tempesta               | Tempesta               | Montagna fluttuante \* | Aria                   | Aria     |
 
 \* Picco che sbuca delle nubi o montagna fluttuante nel cielo
 
@@ -424,31 +447,32 @@ Ogni esagono può eventualmente contenere una (o più) caratteristiche significa
 
 #### Tabella 27: Caratteristiche significative
 
-| Tiro 2d6 | Aria      | Nube solida    | Montagna fluttuante | Nube inconsistente | Tempesta |
-|----------|-------------|----------|---------|-------|----------|
-| 2        |             | Corrente | .       |       | .        |
-| 3        | Confluenza† | Corrente |         | .     |          |
-| 4        | .           | .        | .       | .     | Corrente |
-| 5        | Corrente    | .        | .       | .     | Corrente |
-| 6        |             | .        | .       | .     | Rotta\*  |
-| 7        |             | .        | .       | .     | .        |
-| 8        | .           | .        | .       | .     | .        |
-| 9        | .           | .        | .       | .     | .        |
-| 10       | .           | .        | .       | .     | .        |
-| 11       | .           | Rotta\*  | Rotta\* | .     | .        |
-| 12       |             |          |         |       |          |
+| Tiro 2d6 | Aria        | Nube solida | Montagna fluttuante | Nube inconsistente | Tempesta |
+| -------- | ----------- | ----------- | ------------------- | ------------------ | -------- |
+| 2        |             | Corrente    | .                   |                    | .        |
+| 3        | Confluenza† | Corrente    |                     | .                  |          |
+| 4        | .           | .           | .                   | .                  | Corrente |
+| 5        | Corrente    | .           | .                   | .                  | Corrente |
+| 6        |             | .           | .                   | .                  | Rotta\*  |
+| 7        |             | .           | .                   | .                  | .        |
+| 8        | .           | .           | .                   | .                  | .        |
+| 9        | .           | .           | .                   | .                  | .        |
+| 10       | .           | .           | .                   | .                  | .        |
+| 11       | .           | Rotta\*     | Rotta\*             | .                  | .        |
+| 12       |             |             |                     |                    |          |
 
 \* Rotta area stabilita
 
 † Confluenza di correnti aeree
 
 ### Tempo e movimento
+
 L'esplorazione aerea mantiene la scala di tempo dell'esplorazione delle Terre Selvagge di 1 turno al giorno.
 
 #### Tabella 28: Tasso di esplorazione aerea
 
 | Trasporto        | Tasso di movimento | Esagoni per giorno |      |
-|------------------|--------------------|--------------------|------|
+| ---------------- | ------------------ | ------------------ | ---- |
 |                  |                    | Bassa              | Alta |
 | Elementale, aria | 36"                | 6                  | 12   |
 | Djinn            | 24"                | 4                  | 8    |
@@ -469,21 +493,23 @@ A bassa quota è possibile osservare o rimanere in contatto con l'attività a te
 Ad alta quota il progresso non è ostacolato se non dalla necessità di appollaiarsi durante la notte; la velocità di movimento è generalmente doppia rispetto a quella raggiunta a bassa quota.
 
 ### Visibilità
+
 La distanza dall'orizzonte è relativa all'altitudine. In condizioni di tempo sereno la visibilità è di 2-6 esagoni (fino a 36 miglia) da bassa quota, o 11-16 esagoni (fino a 100 miglia) da una cima di montagna. Tuttavia, condizioni meteorologiche avverse e montagne intermedie limiteranno fortemente la visibilità. Da un'alta quota la visibilità è di 11-16 esagoni (fino a 100 miglia) in condizioni meteorologiche perfette, ma è solitamente limitata dalla copertura nuvolosa.
 
 ### Riposo
+
 Le creature volanti diverse dagli elementali dell'aria hanno bisogno di appollaiarsi durante la notte (o durante il giorno se viaggiano di notte). Inoltre, le creature volanti diverse dai draghi e dagli elementali dell'aria hanno bisogno di un giorno intero di riposo dopo sei giorni di viaggio; gli elementali dell'aria sono volatori instancabili, mentre i draghi hanno bisogno di una settimana intera di sonno dopo sei settimane di attività.
 
 ### Tempo atmosferico
 
-Anche se il viaggio via aerea è veloce, è gravemente influenzato dal maltempo.
+Anche se il viaggio aereo è veloce, è gravemente influenzato dal maltempo.
 
 Le condizioni metereologiche dovrebbero essere determinate dall'Arbitro per ogni giorno di esplorazione aerea. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento. Il viaggio aereo può essere pericoloso con vento forte e tempeste; i viaggiatori rischiano di essere spinti contro ostacoli, colpiti da fulmini o detriti volanti, e così via.
 
 #### Tabella 29: Meteo e velocità di volo
 
 | 2-12  | Vento        | Velocità di volo |                  |
-|-------|--------------|------------------|------------------|
+| ----- | ------------ | ---------------- | ---------------- |
 |       | Sopravento   | Altrimenti       |                  |
 | 2-3   | Calma piatta | Velocità normale | Velocità normale |
 | 4-7   | Moderato     | Velocità normale | ¾ velocità       |
@@ -493,23 +519,26 @@ Le condizioni metereologiche dovrebbero essere determinate dall'Arbitro per ogni
 
 **Venti forti** Le creature volanti di tipo normale, i tappeti volanti, i manici di scopa volanti e simili si schiantano in caso di vento forte con un tiro di 1-2 su 1d6, controllato una volta ogni turno.
 
-**Tempeste** La navigazione è impossibile in condizioni di tempesta e qualsiasi creatura volante (diversa dagli elementali dell'aria) o nave si schianta con un tiro di 1-2 su 1d6. Un volatore che non si schianta viene invece spostato di 2-7 esagoni in una direzione determinata segretamente dall'Arbitro e viene immediatamente considerato disperso.
+**Tempeste** La navigazione aerea è impossibile in condizioni di tempesta e qualsiasi creatura volante (diversa dagli elementali dell'aria) o nave si schianta con un tiro di 1-2 su 1d6. Un volatore che non si schianta viene invece spostato di 2-7 esagoni in una direzione determinata segretamente dall'Arbitro e viene immediatamente considerato disperso.
 
 ### Perdersi
-Un pilota non avrà difficoltà a navigare su una rotta conosciuta finché il tempo rimane buono. Tuttavia, se il tempo dovesse diventare brutto, è possibile perdersi. L'Arbitro dovrebbe tirare segretamente 1d6 ogni giorno trascorso con vento forte: un 1-2 indica che i giocatori si sono persi. Se questo accade, l'Arbitro dovrebbe spostarli ad una distanza/direzione non prevista sulla sua mappa, senza avvertirli.
+
+Un pilota non avrà difficoltà a volare su una rotta conosciuta finché il tempo rimane buono. Tuttavia, se il tempo dovesse diventare brutto, è possibile perdersi. L'Arbitro dovrebbe tirare segretamente 1d6 ogni giorno trascorso con vento forte: un 1-2 indica che i giocatori si sono persi. Se questo accade, l'Arbitro dovrebbe spostarli ad una distanza/direzione non prevista sulla sua mappa, senza avvertirli.
 
 ### Insediamenti e roccaforti
+
 Insediamenti e roccaforti sono presenti in aria come nelle Terre Selvagge. A bassa quota è probabile che si trovino sul terreno. Se vengono scoperti ad alta quota potrebbero essere torri levitanti, costruite su banchi di nuvole, sospese da squadriglie di mongolfiere, o qualsiasi altra cosa l'Arbitro desideri. Se queste saranno amichevoli o meno può essere determinato con una prova di reazione.
 
 ### Incontri aerei
-Gli incontri avvengono in aria proprio come nella natura. L'Arbitro dovrebbe controllare una volta al giorno, con un tiro di un 6 su 1d6 che indica un incontro.
+
+Gli incontri avvengono in aria proprio come nella natura sottostante. L'Arbitro dovrebbe controllare una volta al giorno, con un tiro di un 6 su 1d6 che indica un incontro.
 
 Quando si verifica un incontro, determinate il tipo di mostro tirando i dadi sulla tabella degli incontri in aria. Se i giocatori stanno viaggiando a bassa quota è altrettanto probabile che l'incontro avvenga in superficie o in volo. In questo caso usate la tabella degli incontri nelle Terre Selvagge.
 
 #### Tabella 30: Tabelle degli incontri aerei
 
 | Tiro d20 | Cime delle montagne      | Cielo aperto             | Cime delle nuvole        |
-|----------|--------------------------|--------------------------|--------------------------|
+| -------- | ------------------------ | ------------------------ | ------------------------ |
 | 1        | Uomini delle caverne     | Chimere                  | Chimere                  |
 | 2        | Chimere                  | Dinosauri, pterodattili  | Cacatua                  |
 | 3        | Coccatrici               | Dinosauri, pterodattili‡ | Dinosauri, pterodattili† |
@@ -538,18 +567,24 @@ Quando si verifica un incontro, determinate il tipo di mostro tirando i dadi sul
 ‡ Con i cavalieri.
 
 #### Sorpresa
+
 La sorpresa avviene in aria (come nel Sottomondo) con un lancio di 5-6 su un dado a sei facce. Se i giocatori vengono sorpresi i loro nemici arriveranno tipicamente sopravento o dall'alto, emergeranno improvvisamente dalle nuvole o dalle piogge o emergeranno contro il bagliore del sole.
 
 #### Distanza dell'incontro
+
 Se una delle due parti è sorpresa, un incontro inizierà a 10-60 iarde di distanza e la parte sorpresa non sarà in grado di rispondere per un turno; altrimenti, un incontro inizierà a 40-240 iarde di distanza. La gittata dell'artiglieria aerea è tipicamente di 300 iarde.
 
 #### Reazione dei mostri
+
 La reazione ai giocatori dei mostri in aria è come nel Sottomondo.
 
 ### Evasione e inseguimento
-La fuga e l'inseguimento aerei sono come nelle Terre Selvagge con le seguenti considerazioni aggiuntive:
+
+La fuga e l'inseguimento aerei sono come nelle Terre Selvagge, con le seguenti considerazioni aggiuntive:
+
 - La bassa visibilità si verifica in caso di tempeste, pioggia, nuvole, guardando il sole e di notte.
 - I fuggiaschi che possono volare sfuggono automaticamente agli inseguitori a terra senza questa capacità, a meno che non vengano sorpresi.
 
 ### Cadere
+
 Cadere o schiantarsi in altro modo è un pericolo costante per chi vola. Una caduta a terra da una bassa altitudine causerà 1-6 dadi di danno (da 1-6 a 6-36 punti ferita). Una caduta a terra da un'altitudine elevata causerà 10-60 punti di danno dopo 1-4 turni (minuti) di caduta libera.
