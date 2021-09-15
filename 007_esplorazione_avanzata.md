@@ -107,7 +107,7 @@ Il numero di membri del seguito sarà indicativamente di 1-6 individui. Gli eroi
 
 Il residente può anche avere uno o più luogotenenti di livello 5-8. Un guerriero ha il 50% di probabilità di essere assistito da un chierico o da un mago. Il mago ha il 50% di probabilità di essere assistito da un guerriero o da 1-6 apprendisti (maghi di livello 3-6). Il chierico ha il 50% di probabilità di essere assistito da un guerriero o da 1-6  apprendisti (chierici di livello 3-6). Controllate separatamente per entrambi i casi.
 
-Indipendentemente da quanto detto sopra una roccaforte  è occupata da una forza di 30-180 soldati con un numero simile di personale di supporto. Se il residente principale è caotico, questi hanno il 50% di probabilità di essere orchi, altrimenti sono uomini.
+Indipendentemente da quanto detto sopra una roccaforte è occupata da una forza di 30-180 soldati con un numero simile di personale di supporto. Se il residente principale è caotico, questi hanno il 50% di probabilità di essere orchi, altrimenti sono uomini.
 
 Se i personaggi passano vicino alla roccaforte, gli esploratori o le spie del residente li individuano con un tiro di 6 su 1d6 a due esagoni di distanza, con un tiro di 5-6 a un esagono di distanza e con un tiro di 3-6 se passano nello stesso esagono della roccaforte stessa. Se vengono avvistati, o se chiamano direttamente la fortezza, il residente reagirà alla loro presenza.
 
@@ -360,7 +360,7 @@ Insediamenti e roccaforti si determinano in mare come nelle Terre Selvagge. Ques
 
 ### Incontri in mare
 
-I mostri erranti si incontrano in mare proprio come nelle Terre Selvagge. L'Arbitro non ha bisogno di controllare se ci sono mostri erranti mentre i giocatori sono entro 3 esagoni (18 miglia) da un porto amico, ma una volta in mare aperto dovrebbe controllare una volta al giorno in mare aperto o due volte al giorno lungo una costa o una via navigabile. Un ulteriore controllo dovrebbe essere effettuato ogni giorno se i giocatori si sono persi. Un tiro di 6 su 1d6 indica che ci sarà un incontro.
+I mostri erranti si incontrano in mare proprio come nelle Terre Selvagge. L'Arbitro non ha bisogno di controllare se ci sono mostri erranti mentre i giocatori sono entro 3 esagoni (18 miglia) da un porto amico, ma una volta in mare aperto dovrebbe controllare una volta al giorno o due volte al giorno lungo una costa o una via navigabile. Un ulteriore controllo dovrebbe essere effettuato ogni giorno se i giocatori si sono persi. Un tiro di 6 su 1d6 indica che ci sarà un incontro.
 
 Quando viene determinato un incontro, stabilite il tipo di mostro tirando i dadi sulla tabella degli incontri in mare. Se i giocatori stanno viaggiando lungo una costa o una via d'acqua interna, è altrettanto probabile che un incontro avvenga a terra come in mare. In questo caso, usate la tabella degli incontri nelle Terre Selvagge.
 
@@ -410,11 +410,11 @@ La fuga e l'inseguimento in mare avvengono come nelle Terre Selvagge, con le seg
 
 ### Nuotare
 
-Qualsiasi personaggio giocante cresciuto sulla costa o vicino a un corso d'acqua può nuotare, così come qualsiasi personaggio non giocante che tira un 4-6 su 1d6. Il nuoto ha una velocità di 6" in circostanze ideali; altrimenti 3". Un personaggio può nuotare al massimo per un giorno, dopodiché annega.
+Qualsiasi personaggio giocante cresciuto sulla costa o vicino a un corso d'acqua sa nuotare, così come qualsiasi personaggio non giocante che tira un 4-6 su 1d6. Il nuoto ha una velocità di 6" in circostanze ideali; altrimenti 3". Un personaggio può nuotare al massimo per un giorno, dopodiché annega.
 
 ### Annegamento
 
-Chiunque si butti in mare rischia di annegare. La metà dell'equipaggio di una nave non sa nuotare e annega automaticamente; altrimenti, gli uomini non armati che sanno nuotare sopravvivono con un tiro di 2-6 su 1d6 se si liberano immediatamente di qualsiasi cosa più pesante di un pugnale. Ogni oggetto più pesante trattenuto aumenta il rischio di annegamento di 1 su 6. Le armature di pelle e di maglia contano rispettivamente uno e quattro oggetti, mentre le armature di piastre causano l'annegamento automatico. Durante una tempesta c'è sempre un minimo di 3 possibilità su 6 di annegare. La sopravvivenza indica che il personaggio è riuscito a rimuovere la sua armatura prima di annegare.
+Chiunque si butti in mare rischia di annegare. La metà dell'equipaggio di una nave non sa nuotare e annega automaticamente; altrimenti, gli uomini non armati che sanno nuotare sopravvivono con un tiro di 2-6 su 1d6 se si liberano immediatamente di qualsiasi cosa più pesante di un pugnale. Ogni oggetto pesante trattenuto aumenta il rischio di annegamento di 1 su 6. Le armature di pelle e di maglia contano rispettivamente comd uno e quattro oggetti, mentre le armature di piastre causano l'annegamento automatico. Durante una tempesta c'è sempre un minimo di 3 possibilità su 6 di annegare. La sopravvivenza indica che il personaggio è riuscito a rimuovere la sua armatura prima di annegare.
 
 ## Esplorazione aerea
 
@@ -467,7 +467,7 @@ Ogni esagono può eventualmente contenere una (o più) caratteristiche significa
 
 ### Tempo e movimento
 
-L'esplorazione aerea mantiene la scala di tempo dell'esplorazione delle Terre Selvagge di 1 turno al giorno.
+L'esplorazione aerea usa la scala di tempo dell'esplorazione delle Terre Selvagge di 1 turno al giorno.
 
 #### Tabella 28: Tasso di esplorazione aerea
 
@@ -486,7 +486,7 @@ L'esplorazione aerea mantiene la scala di tempo dell'esplorazione delle Terre Se
 | Roc, adulto      | 42"                | 7                  | 14   |
 | Roc, antico      | 36"                | 6                  | 12   |
 
-Ci sono due modi di viaggiare sull'ala: bassa e alta quota.
+Ci sono due modi di viaggiare in volo: bassa e alta quota.
 
 A bassa quota è possibile osservare o rimanere in contatto con l'attività a terra, compresi i combattimenti a terra. Tuttavia, a bassa quota i piloti devono tenere conto dei pericoli e delle turbolenze e devono tracciare percorsi intorno, tra o sopra le caratteristiche del terreno.
 
@@ -494,7 +494,7 @@ Ad alta quota il progresso non è ostacolato se non dalla necessità di appollai
 
 ### Visibilità
 
-La distanza dall'orizzonte è relativa all'altitudine. In condizioni di tempo sereno la visibilità è di 2-6 esagoni (fino a 36 miglia) da bassa quota, o 11-16 esagoni (fino a 100 miglia) da una cima di montagna. Tuttavia, condizioni meteorologiche avverse e montagne intermedie limiteranno fortemente la visibilità. Da un'alta quota la visibilità è di 11-16 esagoni (fino a 100 miglia) in condizioni meteorologiche perfette, ma è solitamente limitata dalla copertura nuvolosa.
+La distanza visibile all'orizzonte è relativa all'altitudine. In condizioni di tempo sereno la visibilità è di 2-6 esagoni (fino a 36 miglia) da bassa quota, o 11-16 esagoni (fino a 100 miglia) dalla cima di una montagna in condizioni meteorologiche perfette. Tuttavia, condizioni meteorologiche avverse, copertura nuvolosa e montagne intermedie limiteranno fortemente la visibilità.
 
 ### Riposo
 
@@ -508,26 +508,25 @@ Le condizioni metereologiche dovrebbero essere determinate dall'Arbitro per ogni
 
 #### Tabella 29: Meteo e velocità di volo
 
-| 2-12  | Vento        | Velocità di volo |                  |
+| 2-12  | Vento        | Sopravento       | Altrimenti       |
 | ----- | ------------ | ---------------- | ---------------- |
-|       | Sopravento   | Altrimenti       |                  |
 | 2-3   | Calma piatta | Velocità normale | Velocità normale |
 | 4-7   | Moderato     | Velocità normale | ¾ velocità       |
 | 8-9   | Fresco       | +6" (1 esagono)  | ½ velocità       |
 | 10-11 | Forte        | +12" (2 esagoni) | ¼ di velocità    |
 | 12    | Tempesta     | Speciale         | Speciale         |
 
-**Venti forti** Le creature volanti di tipo normale, i tappeti volanti, i manici di scopa volanti e simili si schiantano in caso di vento forte con un tiro di 1-2 su 1d6, controllato una volta ogni turno.
+**Venti forti**: Le creature volanti di tipo normale, i tappeti volanti, i manici di scopa volanti e simili si schiantano in caso di vento forte con un tiro di 1-2 su 1d6, controllato una volta ogni turno.
 
-**Tempeste** La navigazione aerea è impossibile in condizioni di tempesta e qualsiasi creatura volante (diversa dagli elementali dell'aria) o nave si schianta con un tiro di 1-2 su 1d6. Un volatore che non si schianta viene invece spostato di 2-7 esagoni in una direzione determinata segretamente dall'Arbitro e viene immediatamente considerato disperso.
+**Tempeste**: La navigazione aerea è impossibile in condizioni di tempesta e qualsiasi creatura volante (diversa dagli elementali dell'aria) o nave si schianta con un tiro di 1-2 su 1d6. Un volatore che non si schianta viene invece spostato di 2-7 esagoni in una direzione determinata segretamente dall'Arbitro e viene immediatamente considerato disperso.
 
 ### Perdersi
 
-Un pilota non avrà difficoltà a volare su una rotta conosciuta finché il tempo rimane buono. Tuttavia, se il tempo dovesse diventare brutto, è possibile perdersi. L'Arbitro dovrebbe tirare segretamente 1d6 ogni giorno trascorso con vento forte: un 1-2 indica che i giocatori si sono persi. Se questo accade, l'Arbitro dovrebbe spostarli ad una distanza/direzione non prevista sulla sua mappa, senza avvertirli.
+Un pilota non avrà difficoltà a volare su una rotta conosciuta finché il tempo rimane buono. Tuttavia, se il tempo dovesse diventare brutto, è possibile perdersi. L'Arbitro dovrebbe tirare segretamente 1d6 ogni giorno trascorso con vento forte: un 1-2 indica che i giocatori si sono persi. Se questo accade, l'Arbitro dovrebbe spostarli di una distanza o in una direzione imprevista sulla sua mappa, senza avvertirli.
 
 ### Insediamenti e roccaforti
 
-Insediamenti e roccaforti sono presenti in aria come nelle Terre Selvagge. A bassa quota è probabile che si trovino sul terreno. Se vengono scoperti ad alta quota potrebbero essere torri levitanti, costruite su banchi di nuvole, sospese da squadriglie di mongolfiere, o qualsiasi altra cosa l'Arbitro desideri. Se queste saranno amichevoli o meno può essere determinato con una prova di reazione.
+Insediamenti e roccaforti sono presenti in aria come nelle Terre Selvagge. A bassa quota è probabile che si trovino sul terreno. Se vengono scoperti ad alta quota potrebbero essere torri levitanti, costruite su banchi di nuvole, sospese da squadriglie di mongolfiere, o qualsiasi altra cosa l'Arbitro desideri. Se queste saranno amichevoli o meno potrà essere determinato con una prova di reazione.
 
 ### Incontri aerei
 

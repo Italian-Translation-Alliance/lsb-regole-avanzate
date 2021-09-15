@@ -620,6 +620,7 @@ I titanotteri sono enormi erbivori che vagano in branchi nelle pianure temperate
 I Tritoni sono guerrieri acquatici. Contro gli umanoidi in mare attaccano a +2 e non hanno bisogno di effettuare prove di morale. Possono rimanere sott'acqua a tempo indeterminato e sono soggetti al tiro di dardi solo se salgono in superficie, che devono affrontare per afferrare o abbordare le navi. Sulla terraferma o a bordo delle navi subiscono una penalità di -2 ai tiri di attacco e alle prove di morale. La loro pelle squamosa è uguale a un'armatura di pelle e combattono con spade e pugnali. I Tritoni hanno dei capi come gli umani anche se sono esclusivamente dei combattenti.
 
 ## Umani
+
 Per infoltire le schiere dei PNG umani delle regole base, di seguito è possibile trovare nuove tipologie di personaggi.
 
 ### Umano, Brigante
@@ -686,8 +687,7 @@ I Nomadi sono razziatori del deserto o della steppa che sono sempre a cavallo. P
 *Movimento*: 12  
 *DVE/PE*: 1/15
 
-I pirati sono spietati lupi di mare e tagliagole che saccheggiano i corsi d'acqua e le regioni costiere dai loro sloop e galee. Sono senza armatura e veloci e si armano con spade ricurve o mazze e pugnali come le manosinistre. 
-Hanno una correzione di +1 alle prove di morale.
+I pirati sono spietati lupi di mare e tagliagole che saccheggiano i corsi d'acqua e le regioni costiere dai loro sloop e galee. Sono senza armatura e veloci e si armano con spade ricurve o mazze e pugnali come le manosinistre. Hanno una correzione di +1 alle prove di morale.
 
 ### Umano, Zelota
 
@@ -705,7 +705,7 @@ Gli zeloti sono fanatici religiosi di tipo caotico. Attaccano a +2 per colpire c
 Per aiutarvi a determinare i Dadi Vita Equivalenti (DVE), la tabella qui sotto può essere utile. I DVE determinano il valore dei punti esperienza di un mostro. Per determinare i DVE di un mostro, prendete i suoi Dadi Vita e poi aggiungete punti se il mostro ha abilità speciali che lo rendono più difficile da uccidere o più pericoloso per i personaggi.
 
 | Capacità speciali                                                          | Effetto sui DVE |
-|----------------------------------------------------------------------------|-----------------|
+| -------------------------------------------------------------------------- | --------------- |
 | 4+ attacchi per round (minimo d6 o tiro salvezza ciascuno)                 | +1 DVE          |
 | AC 20 o superiore                                                          | +1 DVE          |
 | Danno automatico dopo il colpo                                             | +1 DVE          |

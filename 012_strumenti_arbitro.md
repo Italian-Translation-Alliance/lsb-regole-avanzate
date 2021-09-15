@@ -1,31 +1,33 @@
 # Capitolo 12: Strumenti per l'Arbitro
 
-Le seguenti tabelle sono utili esempi di tabelle casuali che possono aiutare l'arbitro a creare materiale d'avventura. Queste tabelle sono utili già così come sono, ma potrebbe essere necesario adattarle alla propria campagna.
+Le seguenti tabelle sono utili esempi di tabelle casuali che possono aiutare l'Arbitro a creare materiale d'avventura. Queste tabelle sono utilizzabili già così come sono, ma potrebbe essere necesario adattarle alla propria campagna.
 
 ## Dungeon al volo
 
-Non importa quanto sia preparato un Arbitro, ci saranno momenti in cui il materiale deve essere creato al volo per rifinire una sessione. Le seguenti tabelle opzionali possono essere di aiuto. Anche se non vi piacesse il risultato così come è scritto, esso può darvi un'idea di partenza. Queste tabelle sono state deliberatamente  semplici e generiche, quindi richiederanno un po' di interpretazione da parte dell'Arbitro.
+Non importa quanto sia preparato un Arbitro, ci saranno momenti in cui il materiale deve essere creato al volo per rifinire una sessione. Le seguenti tabelle opzionali possono essere di aiuto. Anche se non vi piace un risultato così come è scritto, esso può comunque darvi un'idea di partenza. Queste tabelle sono deliberatamente  semplici e generiche, quindi richiederanno un po' di interpretazione da parte dell'Arbitro.
 
 ### Generazione casuale del Dungeon
 
 Se non avete tempo di preparare un dungeon in anticipo, usate la seguente procedura:
+
 1. Prendete un foglio di carta a quadretti.
 2. Prendete una manciata di dadi.
 3. Tirate i dadi tutti insieme e lasciateli cadere dove vogliono sulla carta. (Può essere utile avere una scatola per tenere i dadi confinati sul foglio).
 4. Ovunque atterri un dado è una stanza. Il numero di uscite da quella stanza è basato sul valore del dado: 
-    - 1-2:1 uscita
-    - 3-4:2 uscite
-    - 5-6:3 uscite
+   - 1-2: 1 uscita
+   - 3-4: 2 uscite
+   - 5-6: 3 uscite
 5. Aggiungete i corridoi che collegano le stanze a piacere.
-6. Per determinare con cosa riempa una stanza, tirate un d8:
-    - 1-3: Vuoto
-    - 4: Vuoto a parte il tesoro
-    - 5: Mostro
-    - 6: Mostro e tesoro
-    - 7: Trappola
-    - 8: A scelta dell'Arbitro (o tirate ancora)
+6. Per determinare con cosa riempire una stanza, tirate un d8:
+   - 1-3: vuota
+   - 4: vuota a parte il tesoro
+   - 5: mostro
+   - 6: mostro e tesoro
+   - 7: trappola
+   - 8: a scelta dell'Arbitro (o tirate ancora)
 
 ### Popolare un Dungeon
+
 Con un livello di dungeon pianificato l'Arbitro deve distribuire mostri, trappole e tesori in tutto il labirinto. I tesori principali dovrebbero essere posizionati in modo ponderato, mentre si usa la determinazione casuale per riempire il resto del livello.
 
 L'Arbitro dovrebbe lanciare due dadi a sei facce per ogni luogo non popolato del dungeon e consultare la tabella dei luoghi casuali del dungeon.
@@ -33,7 +35,7 @@ L'Arbitro dovrebbe lanciare due dadi a sei facce per ogni luogo non popolato del
 #### Tabella 34: Luoghi Casuali del Dungeon
 
 | 2-12  | Contenuto                        |
-|-------|----------------------------------|
+| ----- | -------------------------------- |
 | 2     | Tesoro custodito da una trappola |
 | 3     | Trucco o trappola                |
 | 4     | Tesoro custodito da un mostro    |
@@ -43,17 +45,18 @@ L'Arbitro dovrebbe lanciare due dadi a sei facce per ogni luogo non popolato del
 | 10    | Tesoro custodito da un mostro    |
 | 11-12 | Tesoro non custodito             |
 
-
 ### Stanze vuote
+
 Le stanze vuote sono frequenti e di solito sono benvenute anche se sono inquietanti o completamente anonime. Queste possono essere usate dai giocatori per riorganizzarsi, tendere imboscate, stabilire una posizione difendibile o qualsiasi altra cosa l'Arbitro permetta.
 
 ### Trucchi e trappole
+
 Trucchi e trappole possono essere subdoli o mortali e possono trovarsi quasi ovunque.
 
 #### Tabella 35: Trucchi e trappole
 
 | 2-12 | Tipo                  |
-|------|-----------------------|
+| ---- | --------------------- |
 | 2    | Costrizione/Ammaliare |
 | 3    | Distorsione           |
 | 4    | Scala a trabocchetto  |
@@ -66,19 +69,19 @@ Trucchi e trappole possono essere subdoli o mortali e possono trovarsi quasi ovu
 | 11   | Stanza affondante     |
 | 12   | Teletrasporto         |
 
-Le **distorsioni** possono alterare l'aspetto della distanza, il senso di profondità, scala o direzione, o anche il flusso del tempo e possono impedire una mappatura precisa. Un Regno miniaturizzato potrebbe essere nascosto in una bottiglia oppure una stanza o un livello del dungeon potrebbero accelerare il tempo di cento volte.
+Le **distorsioni** possono alterare l'aspetto della distanza, il senso di profondità, scala o direzione, o anche il flusso del tempo e possono impedire una mappatura precisa. Un regno miniaturizzato potrebbe essere nascosto in una bottiglia, oppure una stanza o un livello del dungeon potrebbe accelerare il tempo di cento volte.
 
 Le **costrizioni** costringeranno una vittima a eseguire qualche richiesta, atto, o azione indesiderabile. Le possibilità includono abbandonare tutti i tesori trasportati in una volta vicina, sottomettersi a un sommo sacerdote malvagio, convertire una dozzina di persone all'allineamento caotico, o uccidere il drago nel prossimo livello del sotterraneo.
 
 Le **illusioni** possono essere di qualsiasi cosa, compresi i tesori affascinanti, gli ostacoli impraticabili, i banchetti irresistibili, i prigionieri sconvolti, gli appuntamenti lussuosi sopra lo squallore, o i piedi solidi sopra le aperture. Lo scopo di queste è di scoraggiare o ritardare il progresso, attirare l'incauto in una trappola, nascondere un percorso o un oggetto, o dare un allarme se ci si intromette.
 
-Le **costruzioni oblique** comprendono qualsiasi stanza o passaggio che non sono allineati perfettamente nord-sud o est-ovest, ma con un angolo obliquo. La differenza non dovrebbe essere immediatamente notata dai giocatori, in modo da impedire loro di mappare troppo accuratamente il passaggio.
+Le **costruzioni oblique** comprendono qualsiasi stanza o passaggio che non sia allineato perfettamente nord-sud o est-ovest, ma con un angolo obliquo. La differenza non dovrebbe essere immediatamente nota ai giocatori, in modo da impedire loro di mappare troppo accuratamente il passaggio.
 
-I **pozzi** sono tipicamente profondi 10-40 piedi e sono aperti o coperti da botole. Quando si passa sopra una botola si aprirà se l'Arbitro tira un 5-6 su 1d6 e alcune si chiuderanno automaticamente. Un pozzo può essere vuoto o contenere un mostro. Colpire il fondo causerà 1-6 punti di danno per ogni metro caduto e qualsiasi mostro presente avrà automaticamente il vantaggio della sorpresa nel turno successivo. Le fosse profonde potrebbero essere riempite d'acqua e causare l'annegamento di personaggi corazzati. Le fosse poco profonde potrebbero contenere delle lance o delle rocce frastagliate che puntano verso l'alto e che causano altri 2-12 punti di danno se qualcuno vi cade sopra; le lance presenti possono essere avvelenate o meno.
+I **pozzi** sono tipicamente profondi 10-40 piedi e sono aperti o coperti da botole. Quando si passa sopra una botola questa si aprirà se l'Arbitro tira un 5-6 su 1d6 e alcune si chiuderanno automaticamente. Un pozzo può essere vuoto o contenere un mostro. Colpire il fondo causerà 1-6 punti di danno per ogni metro di caduta e qualsiasi mostro presente avrà automaticamente il vantaggio della sorpresa nel turno successivo. Le fosse profonde potrebbero essere riempite d'acqua e causare l'annegamento di personaggi corazzati. Le fosse poco profonde potrebbero contenere delle lance o delle rocce frastagliate che puntano verso l'alto e che causano altri 2-12 punti di danno se qualcuno vi cade sopra; le lance presenti possono essere avvelenate o meno.
 
-I **muri mobili** possono essere spostati dall'azione del giocatore o dall'automazione, rivelando (o nascondendo) a intermittenza scale, passaggi o cripte segrete o semplicemente impedendo ai giocatori di tornare da dove sono venuti. Nuove sezioni del dungeon possono essere rivelate e sezioni esplorate essere nascoste. Intere sezioni possono muoversi in un labirinto a orologeria.
+I **muri mobili** possono essere spostati dall'azione del giocatore o dall'automazione, rivelando (o nascondendo) a intermittenza scale, passaggi, cripte segrete o semplicemente impedendo ai giocatori di tornare da dove sono venuti. Nuove sezioni del dungeon possono essere rivelate e sezioni esplorate essere nascoste. Intere sezioni possono muoversi in un labirinto a orologeria.
 
-Le **stanze affondanti** possono sigillare i giocatori chiudendo i portali o sbarrando le uscite con pesi pesanti. Alcune si riempiranno di acqua, bava verde o mostri. Altre porteranno i giocatori a un livello più basso del sotterraneo senza possibilità di ricorso, o sembreranno farlo mentre in realtà girano solo sullo stesso livello.
+Le **stanze affondanti** possono sigillare i giocatori chiudendo i portali o sbarrando le uscite con pesi. Alcune si riempiranno di acqua, bava verde o mostri. Altre porteranno i giocatori a un livello più basso del sotterraneo senza possibilità di ricorso, o sembreranno farlo mentre in realtà girano solo sullo stesso livello.
 
 **Passaggi o sale in pendenza** scendono dolcemente e non saranno notati dai giocatori (a parte i nani). Questi possono vedere i giocatori esplorare inavvertitamente il prossimo livello più profondo del dungeon.
 
@@ -89,15 +92,17 @@ Le **porte a trabocchetto** sono di molti tipi, tra cui porte segrete, portali o
 Le **scale a trabocchetto** sono di vario tipo, tra cui scale non abbastanza profonde da cambiare livello, scale la cui destinazione cambia ogni volta che vengono usate, scale che crollano in uno scivolo ripidamente inclinato che è un percorso a senso unico verso un antro o un livello più profondo, scale che possono essere trovate solo a intermittenza, e così via.
 
 ### Arredare il Dungeon
+
 La progettazione del dungeon è trattata in modo approfondito nelle regole base. Tuttavia, le seguenti tabelle possono essere utili per dare corpo ad aree speciali o per aggiungere oggetti alle aree sotterranee.
 
 ### Trappole casuali
-Usa questa tabella per progettare trappole. Sarà necessario impiegare un po' di creatività per rendere le trappole appropriate alla situazione e alle abilità dei PG.
+
+Usa questa tabella per progettare le trappole. Sarà necessario impiegare un po' di creatività per rendere le trappole appropriate alla situazione e alle abilità dei PG.
 
 #### Tabella 36: Determinazione casuale delle trappole
 
 | D100  | Tipo di trappola                 | D100  | Tipo di trappola                                   |
-|-------|----------------------------------|-------|----------------------------------------------------|
+| ----- | -------------------------------- | ----- | -------------------------------------------------- |
 | 01-06 | Trappola a freccia <sup>1</sup>  | 41-43 | Fulmine                                            |
 | 07-08 | Crollo del soffitto <sup>5</sup> | 44-53 | Fossa (profonda 10') <sup>2</sup>                  |
 | 09-10 | Soffitto che collassa            | 54-63 | Fossa (si chiude) <sup>2</sup>                     |
@@ -110,21 +115,21 @@ Usa questa tabella per progettare trappole. Sarà necessario impiegare un po' di
 | 28-30 | Palla di fuoco                   | 95-98 | Palla/blocco oscillante                            |
 | 31-40 | Gas <sup>4</sup>                 | 99-00 | Teletrasporto                                      |
 
-
 <sup>1</sup> Avvelenato con un tiro di 1 su d10
 <sup>2</sup> Tirate un d10; punte avvelenate, 1; punte, 2-3; allagamento, 4
 <sup>3</sup> Tirate un d10; trappola, 1-2; ago avvelenato, 3
 <sup>4</sup> Tirate un d10; accecante, 1-2; confusione, 3-4; paura, 5; velenoso, 6; sonno, 7-8; rallentamento, 9-10;
 <sup>5</sup> Tirate un d6; blocca il passaggio davanti 1-3; blocca il passaggio dietro 4-6
-<sup>6</sup> Tirate un d10; inondazione, 1-2; ascensore, 3-4; collasso, 5-6; spunzoni, 7-8; schiacciante, 9-10
+<sup>6</sup> Tirate un d10; inondazione, 1-2; ascensore, 3-4; collasso, 5-6; spuntoni, 7-8; schiacciante, 9-10
 
 ### Dettagli d'atmosfera
-Le seguenti tabelle possono essere usate per aggiungere atmosfera ad aree altrimenti spoglie o poco interessanti. Questi dettagli d'atmosfera non hanno bisogno di essere spiegati in alcun modo, o se ispirano l'immaginazione potrebbero portare a ulteriori incontri unici o misteri. Tirate una o più volte sulla tabella qui sotto per ogni area. Tiri di dado diversi dovrebbero essere usati per determinare gli odori o i dettagli d'atmosfera tattili.
+
+Le seguenti tabelle possono essere usate per dare un tocco di atmosfera ad aree altrimenti spoglie o poco interessanti. Questi dettagli d'atmosfera non hanno bisogno di essere razionalizzati, ma con un po' di immaginazione potrebbero portare ad ulteriori incontri unici e misteri. Tirate una o più volte sulla tabella qui sotto per ogni area. Tiri di dado diversi dovrebbero essere usati per determinare gli odori e i dettagli d'atmosfera tattili.
 
 #### Tabella 37: Dettagli atmosferici casuali
 
 | d12 | Odori        | Tangibili             | Visibili (d6)              |
-|-----|--------------|-----------------------|----------------------------|
+| --- | ------------ | --------------------- | -------------------------- |
 | 1   | Umido        | Brivido, freddo       | Polvere                    |
 | 2   | Decadenza    | Brivido, secco        | Nebbioso                   |
 | 3   | Terra        | Brezza, umida         | Nebbioso                   |
@@ -138,46 +143,44 @@ Le seguenti tabelle possono essere usate per aggiungere atmosfera ad aree altrim
 | 11  | Fumo         | Naturalmente immobile |                            |
 | 12  | Solforosa    | Corrente ascensionale |                            |
 
-
 #### Tabella 38: Suoni casuali
 
-| D100   | Suono                         | D100  | Suono                     |
-|--------|-------------------------------|-------|---------------------------|
-| 1      | Abbaiare                      | 53-54 | Ansimare                  |
-| 2      | Campana che suona             | 55    | Carta che stropiccia      |
-| 03-04  | Ronzio                        | 56    | Botta                     |
-| 05-06  | Schiamazzo                    | 57-58 | Sferragliare              |
-| 7      | Catene che sferragliano       | 59-60 | Strappo                   |
-| 08-09  | Soffocare                     | 61-62 | Graffiare                 |
-| 10-12  | Ridacchiare                   | 63    | Sfrigolare                |
-| 13-14  | Tosse                         | 64    | Schiaffi                  |
-| 15-16  | Scricchiolio                  | 65-67 | Slittamento               |
-| 17-19  | Porta che si rompe            | 68-69 | Schiocco                  |
-| 20-21  | Porta che si chiude           | 70    | Starnutire                |
-| 22-23  | Porta che sbatte              | 71    | Sbuffo                    |
-| 24-25  | Trascinando                   | 72-73 | Singhiozzare              |
-| 26     | Animale da fattoria (casuale) | 74    | Sputare                   |
-| 27-28  | Fuoco scoppiettante           | 75-76 | Scivolamento di pietre    |
-| 29-30  | Passi, camminare              | 77-78 | Parlare (indistinguibile) |
-| 31-32  | Passi, correre                | 79-80 | Picchiettare              |
-| 33     | Ridacchiare                   | 81    | Tuono                     |
-| 34     | Vetro che si rompe            | 82    | Lamento                   |
-| 35     | Gong che suona                | 83-84 | Acqua che ribolle         |
-| 36-37  | Grattare                      | 85-86 | Acqua che gocciola        |
-| 38-39  | Gorgoglio                     | 87-88 | Acqua che scorre          |
-| 40-41  | Sibilo                        | 89    | Schizzi d'acqua           |
-| 42     | Zoccoli che battono           | 90-91 | Acqua che scorre          |
-| 43-45  | Ridere                        | 92-94 | Sussurrare                |
-| 46     | Foglie che frusciano          | 95    | Fischiettio               |
-| 47-48  | Gemito                        | 96-97 | Fischio del vento         |
-| 49     | Strumento musicale            | 98-99 | Legno che si scheggia     |
-| 50-52  | Nome parlato                  | 0     | Urla (indistinguibili)    |
-
+| D100  | Suono                         | D100  | Suono                     |
+| ----- | ----------------------------- | ----- | ------------------------- |
+| 1     | Abbaiare                      | 53-54 | Ansimare                  |
+| 2     | Campana che suona             | 55    | Carta che stropiccia      |
+| 03-04 | Ronzio                        | 56    | Botta                     |
+| 05-06 | Schiamazzo                    | 57-58 | Sferragliare              |
+| 7     | Catene che sferragliano       | 59-60 | Strappo                   |
+| 08-09 | Soffocare                     | 61-62 | Graffiare                 |
+| 10-12 | Ridacchiare                   | 63    | Sfrigolare                |
+| 13-14 | Tosse                         | 64    | Schiaffi                  |
+| 15-16 | Scricchiolio                  | 65-67 | Slittamento               |
+| 17-19 | Porta che si rompe            | 68-69 | Schiocco                  |
+| 20-21 | Porta che si chiude           | 70    | Starnutire                |
+| 22-23 | Porta che sbatte              | 71    | Sbuffo                    |
+| 24-25 | Trascinando                   | 72-73 | Singhiozzare              |
+| 26    | Animale da fattoria (casuale) | 74    | Sputare                   |
+| 27-28 | Fuoco scoppiettante           | 75-76 | Scivolamento di pietre    |
+| 29-30 | Passi, camminare              | 77-78 | Parlare (indistinguibile) |
+| 31-32 | Passi, correre                | 79-80 | Picchiettare              |
+| 33    | Ridacchiare                   | 81    | Tuono                     |
+| 34    | Vetro che si rompe            | 82    | Lamento                   |
+| 35    | Gong che suona                | 83-84 | Acqua che ribolle         |
+| 36-37 | Grattare                      | 85-86 | Acqua che gocciola        |
+| 38-39 | Gorgoglio                     | 87-88 | Acqua che scorre          |
+| 40-41 | Sibilo                        | 89    | Schizzi d'acqua           |
+| 42    | Zoccoli che battono           | 90-91 | Acqua che scorre          |
+| 43-45 | Ridere                        | 92-94 | Sussurrare                |
+| 46    | Foglie che frusciano          | 95    | Fischiettio               |
+| 47-48 | Gemito                        | 96-97 | Fischio del vento         |
+| 49    | Strumento musicale            | 98-99 | Legno che si scheggia     |
+| 50-52 | Nome parlato                  | 0     | Urla (indistinguibili)    |
 
 #### Tabella 39: Contenuto misto delle stanze
 
 | D100  | Contenuto                      | D100  | Contenuto                     |
-|-------|--------------------------------|-------|-------------------------------|
+| ----- | ------------------------------ | ----- | ----------------------------- |
 | 1     | Cenere                         | 53-54 | Bottiglia di pozione, vuota   |
 | 2     | Ascia, insanguinata            | 55    | Corda, canapa, marcia         |
 | 03-04 | Bende, insanguinate            | 56    | Sacco, grande, marcio         |
@@ -208,15 +211,14 @@ Le seguenti tabelle possono essere usate per aggiungere atmosfera ad aree altrim
 | 49-50 | Muschio                        | 98-99 | Pelle d'acqua, vuota, marcia  |
 | 51-52 | Funghi (nelle frattaglie)      | 0     | Fiori o erbe appassite        |
 
-
 ### Incontri speciali
 
-Quando si progetta un dungeon, ci sono zone che contengono incontri o aree speciali. Si può tirare o scegliere dalle seguenti tabelle per aiutare a progettare questi luoghi o oggetti unici. Bisogna fare attenzione a creare oggetti o aree che non possano essere abusati dai giocatori e in alcuni casi gli effetti associati a questi incontri dovrebbero essere temporanei o di uso limitato. Tirate o scegliete dalla Tabella delle Funzioni casuali prima, poi tirate o scegliete sulla Tabella delle Caratteristiche casuali. Se si tira a caso, non tutti i risultati avranno senso, quindi l'Arbitro dovrà tirare di nuovo o modificare l'interpretazione dei risultati. I dettagli specifici degli effetti sono lasciati al progetto dell'Arbitro, come la durata, il danno inflitto (se appropriato), i meccanismi di innesco, ecc.
+Quando si progetta un dungeon, ci sono zone che contengono incontri o aree speciali. Si può tirare o scegliere dalle seguenti tabelle per aiutare a progettare questi luoghi o oggetti unici. Bisogna fare attenzione a creare oggetti o aree che non possano essere abusati dai giocatori e in alcuni casi gli effetti associati a questi incontri dovrebbero essere temporanei o di uso limitato. Tirate o scegliete dalla Tabella delle Funzioni casuali prima, poi tirate o scegliete sulla Tabella delle Caratteristiche casuali. Se si tira a caso, non tutti i risultati avranno senso, quindi l'Arbitro dovrà tirare di nuovo o modificare l'interpretazione dei risultati. I dettagli specifici degli effetti sono lasciati alla dsicrezione dell'Arbitro, come la durata, il danno inflitto (se appropriato), i meccanismi di innesco, ecc.
 
 #### Tabella 40: Tabella delle funzioni casuali
 
 | D100  | Risultato                           | D100  | Risultato                   |
-|-------|-------------------------------------|-------|-----------------------------|
+| ----- | ----------------------------------- | ----- | --------------------------- |
 | 01-03 | Alcova                              | 51-53 | Pittura                     |
 | 04-05 | Altare, grande                      | 54-56 | Passaggio                   |
 | 06-07 | Altare, piccolo                     | 57-59 | Piedistallo                 |
@@ -238,53 +240,53 @@ Quando si progetta un dungeon, ci sono zone che contengono incontri o aree speci
 | 46-48 | Specchio, grande                    | 95-97 | Muro                        |
 | 49-50 | Mostro                              | 98-00 | Pozzo                       |
 
-
 #### Tabella 41: Tabella delle caratteristiche casuali
 
-| D100 | Caratteristica | D100 | Caratteristica |
-|-----------|-----------------------|-------|----------------------|
-| 01-02 | Invecchia (25% diminuisce) | 51 | Illusorio |
-| 03-04 | Altera l'allineamento | 52 | Aumenta l'abilità<sup>4</sup> |
-| 05-06 | Anima un oggetto | 53 | Aumenta la gravità |
-| 07-08 | Attira | 54-55 | Invisibile |
-| 09-10 | Attacca | 56-57 | Levita |
-| 11-12 | Lancia una maledizione | 58-59 | Muove |
-| 13-14 | Brucia | 60 | Annulla la magia |
-| 15-16 | Provoca paura | 61-62 | Pivot |
-| 17-18 | Provoca costrizione | 63 | Punti |
-| 19-20 | Cambia<sup>3</sup> | 64 | Veleni |
-| 21-22 | Crolla | 65 | Polimorfi |
-| 23-24 | Condensa | 66-67 | Produce un oggetto<sup>2</sup> |
-| 25-26 | Consuma | 68-69 | Riduce |
-| 27-28 | Diminuisce l'abilità<sup>4</sup> | 70-71 | Sostituisce |
-| 29-30 | Diminuisce la gravità | 72-73 | Respinge |
-| 31 | Disintegra | 74-75 | Rivela le bugie |
-| 32-33 | Duplica l'oggetto | 76-77 | Inverte la gravità |
-| 34 | Duplica persona | 78-79 | Affonda |
-| 35-36 | Emette un gas | 80-81 | Scivola |
-| 37-38 | Emette una melma o una melma | 82-83 | Pende (su o giù) |
-| 39 | Si allarga | 84-85 | Parla<sup>1</sup>|
-| 40-41 | Finge | 86-87 | Gira |
-| 42 | Da carne a pietra | 88-89 | Ruba |
-| 43-44 | Congela | 90-91 | Da pietra a carne |
-| 45 | Concede una lingua | 92-93 | Si allunga |
-| 46 | Concede un desiderio opposto | 94 | Sospende l'animazione |
-| 47 | Concede un desiderio | 95-96 | Teletrasporto |
-| 48 | Guarisce | 97-98 | Torsioni |
-| 49-50 | Riscalda | 99-00 | Avvizzisce una parte del corpo |
+| D100  | Caratteristica                   | D100  | Caratteristica                 |
+| ----- | -------------------------------- | ----- | ------------------------------ |
+| 01-02 | Invecchia (25% diminuisce)       | 51    | Illusorio                      |
+| 03-04 | Altera l'allineamento            | 52    | Aumenta l'abilità<sup>4</sup>  |
+| 05-06 | Anima un oggetto                 | 53    | Aumenta la gravità             |
+| 07-08 | Attira                           | 54-55 | Invisibile                     |
+| 09-10 | Attacca                          | 56-57 | Levita                         |
+| 11-12 | Lancia una maledizione           | 58-59 | Muove                          |
+| 13-14 | Brucia                           | 60    | Annulla la magia               |
+| 15-16 | Provoca paura                    | 61-62 | Pivot                          |
+| 17-18 | Provoca costrizione              | 63    | Punti                          |
+| 19-20 | Cambia<sup>3</sup>               | 64    | Veleni                         |
+| 21-22 | Crolla                           | 65    | Polimorfi                      |
+| 23-24 | Condensa                         | 66-67 | Produce un oggetto<sup>2</sup> |
+| 25-26 | Consuma                          | 68-69 | Riduce                         |
+| 27-28 | Diminuisce l'abilità<sup>4</sup> | 70-71 | Sostituisce                    |
+| 29-30 | Diminuisce la gravità            | 72-73 | Respinge                       |
+| 31    | Disintegra                       | 74-75 | Rivela le bugie                |
+| 32-33 | Duplica l'oggetto                | 76-77 | Inverte la gravità             |
+| 34    | Duplica persona                  | 78-79 | Affonda                        |
+| 35-36 | Emette un gas                    | 80-81 | Scivola                        |
+| 37-38 | Emette una melma o una melma     | 82-83 | Pende (su o giù)               |
+| 39    | Si allarga                       | 84-85 | Parla<sup>1</sup>              |
+| 40-41 | Finge                            | 86-87 | Gira                           |
+| 42    | Da carne a pietra                | 88-89 | Ruba                           |
+| 43-44 | Congela                          | 90-91 | Da pietra a carne              |
+| 45    | Concede una lingua               | 92-93 | Si allunga                     |
+| 46    | Concede un desiderio opposto     | 94    | Sospende l'animazione          |
+| 47    | Concede un desiderio             | 95-96 | Teletrasporto                  |
+| 48    | Guarisce                         | 97-98 | Torsioni                       |
+| 49-50 | Riscalda                         | 99-00 | Avvizzisce una parte del corpo |
 
 <sup>1</sup>Tirare 1d4; con intelligenza, 1; un messaggio preprogrammato, 2; cerca di convincere il gruppo a compiere un'azione, 3; cerca di condurre il gruppo in una trappola, 4 
 <sup>2</sup>Tirare 1d8; monete d'oro, 1; oro degli stolti, 2; oggetto magico, 3; cibo, 4; gemme, 5; acqua, 6; vino, 7; olio, 8
 <sup>3</sup>Tirare 1d6; colore della pelle, 1; colore degli occhi, 2; colore dei capelli, 3; razza, 4; sesso, 5; altezza, 6
 <sup>4</sup>Tirare 1d6; FOR, 1; DES, 2; COS, 3; INT, 4; SAG, 5; CAR, 6
 
-### Arredare di stanze particolari
+### Arredo di stanze particolari
+
 Le seguenti tabelle possono arricchire il contenuto dei laboratori di alchimia o di magia.
 
 #### Tabella 42: Arredamento d'alchimia o del mago
 
 | D100  | Oggetto               | D100  | Oggetto                      |
-|-------|-----------------------|-------|------------------------------|
+| ----- | --------------------- | ----- | ---------------------------- |
 | 01-02 | Alambicco             | 51-52 | Vasi, vetro                  |
 | 3     | Aludel                | 53    | Manette, a muro              |
 | 4     | Anthanor              | 54-55 | Stampi, colata               |
@@ -317,13 +319,12 @@ Le seguenti tabelle possono arricchire il contenuto dei laboratori di alchimia o
 | 47-48 | Incenso               | 98-99 | Fiale, vetro                 |
 | 49-50 | Inchiostro, fiale     | 0     | Orologio ad acqua            |
 
-
-Usate la tabella qui sotto per determinare a caso il contenuto di barattoli, vasi o altri recipienti in un laboratorio.
+Usa la tabella qui sotto per determinare a caso il contenuto di barattoli, vasi o altri recipienti in un laboratorio.
 
 #### Tabella 43: Contenuto casuale del contenitore
 
 | D100  | Contenuto                  | D100  | Contenuto               |
-|-------|----------------------------|-------|-------------------------|
+| ----- | -------------------------- | ----- | ----------------------- |
 | 01-03 | Ambra                      | 51-53 | Foglie                  |
 | 04-06 | Cenere                     | 54-56 | Locuste                 |
 | 07-09 | Corteccia                  | 57-60 | Minerali, in polvere    |
@@ -341,13 +342,12 @@ Usate la tabella qui sotto per determinare a caso il contenuto di barattoli, vas
 | 45-47 | Fluido, putrido            | 95-97 | Lingua, sottaceto       |
 | 48-50 | Capelli, umanoidi          | 98-00 | Urina                   |
 
-
 La seguente tabella può essere utilizzata per determinare quali dispositivi di tortura sono presenti in una stanza di tortura o in qualche altro luogo.
 
-#### Tabella 44: Arredamento della camera di tortura
+#### Tabella 44: Arredamento delle camere di tortura
 
 | D20 | Dispositivi            | D20 | Strumenti           |
-|-----|------------------------|-----|---------------------|
+| --- | ---------------------- | --- | ------------------- |
 | 1   | Ruota di rottura       | 1   | Braciere            |
 | 2   | Calderone, grande      | 2   | Gabbia, grande      |
 | 3   | Sedia, a spillo        | 3   | Catene              |
@@ -366,17 +366,17 @@ La seguente tabella può essere utilizzata per determinare quali dispositivi di 
 | 16  | Pendolo                | 16  | Sega, grande        |
 | 17  | Griglia                | 17  | Chodi, ferro        |
 | 18  | Solleticatore spagnolo | 18  | Cunei, ferro        |
-| 19  | Viti da pollice        | 19  | Cunei di legno      |
+| 19  | Viti da pollice        | 19  | Cunei, legno        |
 | 20  | Strappalingua          | 20  | Fruste              |
 
 ## Avventori della taverna casuali
 
-È una legge della natura del gioco che a un certo punto i giocatori chiedano che tipo di persone ci sono in una taverna. Le seguenti tabelle possono essere usate per mettere in moto la creatività in modo che questa domanda possa avere una risposta al volo e in modo colorato. Questo è inteso come punto di partenza e l'Arbitro dovrebbe dare corpo agli avventori della taverna in qualsiasi misura sia necessaria in base alla situazione.
+È nella natura del gioco che ad un certo punto i giocatori chiedano che tipo di persone ci sono in una taverna. Le seguenti tabelle possono essere usate per stimolare la creatività in modo che questa domanda possa ricevere una risposta al volo e sorprendente. Questo è inteso come punto di partenza e l'Arbitro dovrebbe dare corpo agli avventori della taverna in qualsiasi misura sia necessaria in base alla situazione.
 
 #### Tabella 45: Avventori di taverne
 
 | D20   | Razza     | D100  | Classe              | D4  | Sesso   |
-|-------|-----------|-------|---------------------|-----|---------|
+| ----- | --------- | ----- | ------------------- | --- | ------- |
 | 1-2   | Nano      | 1     | Assassino           | 1-2 | Maschio |
 | 3-4   | Elfo      | 02-11 | Chierico            | 3-4 | Femmina |
 | 5     | Gnomo     | 12-26 | Guerriero           |     |         |
@@ -388,13 +388,12 @@ La seguente tabella può essere utilizzata per determinare quali dispositivi di 
 | 86-90 | Ranger    |       |                     |     |         |
 | 91-00 | Ladro     |       |                     |     |         |
 
-
 <sup>1</sup>Tirare per una professione.
 
 #### Tabella 46: Professioni casuali
 
 | D100  | Professione             | D100  | Professione           |
-|-------|-------------------------|-------|-----------------------|
+| ----- | ----------------------- | ----- | --------------------- |
 | 01-03 | Addestratore di animali | 56-59 | Cacciatore            |
 | 04-05 | Armaiolo                | 60-62 | Lapidario/gioielliere |
 | 06-09 | Panettiere              | 63-66 | Lorimer               |
@@ -412,13 +411,12 @@ La seguente tabella può essere utilizzata per determinare quali dispositivi di 
 | 51-54 | Pellicciaio             | 97-98 | Taglialegna           |
 | 55    | Soffiatore di vetro     | 99-00 | Vinaio                |
 
-
 Si può tirare o scegliere più di una volta per ciascun individuo sulla seguente tabella. Si può usare come ispirazione quando si descrive o si gioca di ruolo la personalità e/o le motivazioni di un PNG.
 
 #### Tabella 47: Tratti casuali dell'avventore di taverna
 
 | D100 | Tratto           | D100 | Tratto        |
-|------|------------------|------|---------------|
+| ---- | ---------------- | ---- | ------------- |
 | 1    | Accondiscendente | 51   | Narcisista    |
 | 2    | Distante         | 52   | Cattivo       |
 | 3    | Arrabbiato       | 53   | Rumoroso      |
@@ -469,5 +467,3 @@ Si può tirare o scegliere più di una volta per ciascun individuo sulla seguent
 | 48   | Miserabile       | 98   | Sprecato      |
 | 49   | Topo             | 99   | Debole        |
 | 50   | Assassino        | 0    | Volenteroso   |
-
-
