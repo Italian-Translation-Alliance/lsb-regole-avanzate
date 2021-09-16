@@ -13,7 +13,7 @@ nav_order: 13
 {:toc}
 </details>
 
-Le seguenti tabelle sono utili esempi di tabelle casuali che possono aiutare l'arbitro a creare materiale d'avventura. Queste tabelle sono utili già così come sono, ma potrebbe essere necesario adattarle alla propria campagna.
+Le seguenti tabelle sono utili esempi di tabelle casuali che possono aiutare l'arbitro a creare materiale d'avventura. Queste tabelle sono utili già così come sono, ma potrebbe essere necessario adattarle alla propria campagna.
 
 ## Dungeon al volo
 
@@ -91,7 +91,7 @@ I **pozzi** sono tipicamente profondi 10-40 piedi e sono aperti o coperti da bot
 
 I **muri mobili** possono essere spostati dall'azione del giocatore o dall'automazione, rivelando (o nascondendo) a intermittenza scale, passaggi o cripte segrete o semplicemente impedendo ai giocatori di tornare da dove sono venuti. Nuove sezioni del dungeon possono essere rivelate e sezioni esplorate essere nascoste. Intere sezioni possono muoversi in un labirinto a orologeria.
 
-Le **stanze affondanti** possono sigillare i giocatori chiudendo i portali o sbarrando le uscite con pesi pesanti. Alcune si riempiranno di acqua, bava verde o mostri. Altre porteranno i giocatori a un livello più basso del sotterraneo senza possibilità di ricorso, o sembreranno farlo mentre in realtà girano solo sullo stesso livello.
+Le **stanze affondanti** possono sigillare i giocatori chiudendo i portali o sbarrando le uscite con pesi pesanti. Alcune si riempiranno di acqua, melma verde o mostri. Altre porteranno i giocatori a un livello più basso del sotterraneo senza possibilità di ricorso, o sembreranno farlo mentre in realtà girano solo sullo stesso livello.
 
 **Passaggi o sale in pendenza** scendono dolcemente e non saranno notati dai giocatori (a parte i nani). Questi possono vedere i giocatori esplorare inavvertitamente il prossimo livello più profondo del dungeon.
 
@@ -246,7 +246,7 @@ Quando si progetta un dungeon, ci sono zone che contengono incontri o aree speci
 | 34-36 | Pavimento                           | 83-84 | Scala                       |
 | 37-38 | Fontana                             | 85-87 | Statua                      |
 | 39-40 | Fungo                               | 88-89 | Arazzo                      |
-| 41-42 | Porta, ferro                        | 92    | Cripta                      |
+| 41-42 | Porta, ferro                        | 90-92 | Cripta                      |
 | 43-45 | Idolo                               | 93-94 | Vegetazione                 |
 | 46-48 | Specchio, grande                    | 95-97 | Muro                        |
 | 49-50 | Mostro                              | 98-00 | Pozzo                       |
