@@ -168,7 +168,7 @@ Il potente samurai Shinji Haraldsen si trova invischiato con sei guerrieri gobli
 
 Shinji è un guerriero di livello 1 con 5 punti ferita, un modificatore di Forza +1, un'ascia+1 e una CA 2 grazie alla sua armatura di piastre e allo scudo.
 
-Contro di lui ci sono sei goblin con 1 PF ciascuno, AC 7 e lance che provocano 1d6 danni. La sacerdotessa-strega ha più esperienza avendo 3 PF, AC 6 e un pugnale che provoca 1d4 danni.
+Contro di lui ci sono sei goblin con 1 DV ciascuno, AC 7 e lance che provocano 1d6 danni. La sacerdotessa-strega ha più esperienza avendo 3 DV, AC 6 e un pugnale che provoca 1d4 danni.
 
 Shinji vince l'iniziativa e decide di abbattere qualche goblin per primo. Tira per colpire su CA 7 e ci riesce. Tira 1d6 per il danno dell'ascia e ottiene un quattro; aggiungendo la sua Forza e il bonus magico dell'ascia si ottiene sei, per cui la tabella mostra 2 punti di danno inflitti ai goblin. Questo uccide uno di loro completamente e il danno in eccesso si riversa per ucciderne un altro a portata della sua ascia macchiata di sangue.
 
