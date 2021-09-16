@@ -508,8 +508,9 @@ Le condizioni metereologiche dovrebbero essere determinate dall'Arbitro per ogni
 
 #### Tabella 29: Meteo e velocità di volo
 
-| 2-12  | Vento        | Sopravento       | Altrimenti       |
-| ----- | ------------ | ---------------- | ---------------- |
+| 2-12  | Vento        | Velocità di volo |                  |
+|-------|--------------|------------------|------------------|
+|       |              | Sopravento       | Altrimenti       |
 | 2-3   | Calma piatta | Velocità normale | Velocità normale |
 | 4-7   | Moderato     | Velocità normale | ¾ velocità       |
 | 8-9   | Fresco       | +6" (1 esagono)  | ½ velocità       |
