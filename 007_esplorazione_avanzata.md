@@ -79,7 +79,7 @@ Le condizioni atmosferiche dovrebbero essere determinate ogni giorno. Se il gior
 |----------|-----------------|
 | 2-3      | Caldo           |
 | 4-6      | Sereno          |
-| 6-7      | Sereno          |
+| 6-7      | Schiarite       |
 | 8-9      | Coperto         |
 | 10       | Pioggia leggera |
 | 11       | Pioggia         |
