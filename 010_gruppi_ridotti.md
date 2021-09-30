@@ -80,7 +80,7 @@ Gli Arbitri non dovrebbero sentirsi particolarmente obbligati a inviare dei greg
 
 ### Cosa significa tutto questo
 
-La conversione dei danni e il Dado Mischia assicurano che il PG sia molto più lento a cedere durante il combattimento e molto più pericoloso verso i mostri. Ogni round, il PG di solito infliggerà almeno 1 PF di danno a qualsiasi nemico con dadi ferita uguali o inferiori grazie al Dado Mischia e ha la possibilità di fare di più con il suo attacco regolare. Un eroe con un'arma +1 o un modificatore +1 al tiro per il danno ha la garanzia di fare almeno 1 PF di danno e un guerriero con uno spadone potrebbe addirittura infliggere 4 PF.
+La conversione dei danni e il Dado Mischia assicurano che il PG sia molto più lento a cedere durante il combattimento e molto più pericoloso verso i mostri. Ogni round, il PG di solito infliggerà almeno 1 DV di danno a qualsiasi nemico con dadi ferita uguali o inferiori grazie al Dado Mischia e ha la possibilità di fare di più con il suo attacco regolare. Un eroe con un'arma +1 o un modificatore +1 al tiro per il danno ha la garanzia di fare almeno 1 DV di danno e un guerriero con uno spadone potrebbe addirittura infliggere 4 DV.
 
 Un tipico guerriero novizio con 5 punti ferita e CA 4 da cotta di maglia e scudo potrebbe trovarsi in uno scontro corpo a corpo con quattro orchi durante la sua esplorazione. Ogni round, il suo Dado Mischia potrebbe ucciderne uno, con una probabilità di 1 su 6 di ucciderne due. Con una spada da 1d8 in mano e un bonus di Forza di +1, il guerriero ha un'eccellente possibilità di infliggere 2 punti di danno ad ogni colpo, lasciando la possibilità che un round fortunato possa uccidere tutti e quattro gli orchi in una volta sola.
 
@@ -181,9 +181,9 @@ Contro di lui ci sono sei goblin con 1 DV ciascuno, AC 7 e lance che provocano 1
 
 Shinji vince l'iniziativa e decide di abbattere qualche goblin per primo. Tira per colpire su CA 7 e ci riesce. Tira 1d6 per il danno dell'ascia e ottiene un quattro; aggiungendo la sua Forza e il bonus magico dell'ascia si ottiene sei, per cui la tabella mostra 2 dadi vita di danno inflitti ai goblin. Questi uccidono uno di loro e il dado vita di danno in eccesso si riversa su di un altro a portata della sua ascia macchiata di sangue, uccidendolo.
 
-Tira anche il suo Dado Mischia di 1d6, ottenendo un tre, per 1 dado vita di danno. Vorrebbe danneggiare quella strega sacerdotessa, ma può applicare il Dado Mischia solo a nemici con dadi vita pari o inferiori ai suoi. Vada per un terzo goblinm che va giù quando il suo colpo all'indietro gli trafigge il cranio.
+Tira anche il suo Dado Mischia di 1d6, ottenendo un tre, per 1 dado vita di danno. Vorrebbe danneggiare quella strega sacerdotessa, ma può applicare il Dado Mischia solo a nemici con dadi vita pari o inferiori ai suoi. Vada per un terzo goblin che va giù quando il suo colpo all'indietro gli trafigge il cranio.
 
-I restanti goblin sono incitati dalla sacerdotessa e si rifiutano di fuggire dal terribile guerriero. Quindi, tutti e tre i restanti attaccano e fortunosamente due di loro colpiscono il samurai. Tirano 1 e 6 con le loro lance, infliggendo 0 e 2 punti di danno. Shinji è ora sceso a 3 PF.
+I restanti goblin sono incitati dalla sacerdotessa e si rifiutano di fuggire dal terribile guerriero. Quindi, tutti e tre i restanti attaccano e fortunosamente due di loro colpiscono il samurai. Tirano 1 e 6 con le loro lance, infliggendo 0 e 2 punti di danno. Shinji è ora sceso a 3 DV.
 
 La strega sacerdotessa ora scatena la sua magia, colpendo Shinji con un incantesimo di sonno inesorabile. Questo metterebbe fine alla storia di Shinji seduta stante, quindi l'Arbitro gli permette di Sfidare la Morte. Shinji tira 1d4 come dado per il danno che gli tocca subire per aver osato Sfidare la Morte e subisce 1 danno, ma si scrolla di dosso l'incantesimo!
 
