@@ -1,6 +1,6 @@
 # Capitolo 2: Nuove Classi Personaggio
 
-## L'Assassino
+## Assassino
 
 Gli Assassini sono sicari a pagamento con abilità di sotterfugio e omicidio. Eccellono nell'uso del veleno e possono ricevere cospicue ricompense per i loro servizi.
 
@@ -127,7 +127,7 @@ Un Bardo di nono livello o superiore può scrivere un libro che racconti le legg
 
 Il Carisma è l'attributo principale dei Bardi, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
 
-## Il Cacciatore
+## Cacciatore
 
 A differenza dei combattenti e dei Paladini, i Cacciatori non passano il loro tempo a padroneggiare le armi, le arti marziali o a cercare la gloria. Invece, questi eroi studiano la vita e la biologia dei mostri... per trovare un modo per ucciderli il più velocemente possibile. I Cacciatori preferiscono seguire le loro prede e combattere i nemici usando armi a distanza o lunghe.
 

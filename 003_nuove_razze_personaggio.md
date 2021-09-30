@@ -50,7 +50,7 @@ I Mezzorchi di solito parlano anche l'orchesco oltre al comune.
 
 ## Multiclassi
 
-### Il Chierico-Assassino
+### Chierico-Assassino
 
 I **mezzorchi** possono essere chierici-assassini multiclasse. Essi sono limitati al 6° livello.
 
@@ -85,7 +85,7 @@ I chierici-assassini ottengono un +2 per tutti i tiri salvezza contro Paralisi, 
 
 > **Suggerimento:** questi non sono cumulativi, il tiro salvezza contro una trappola velenosa è sempre solamente +2.
 
-### Il Guerriero-Ladro
+### Guerriero-Ladro
 
 **Nani**, **Elfi**, **Gnomi**, **Halfling** e **Mezzorchi** possono essere multiclasse Guerriero-Ladro. Sono limitati al 6° livello.
 
@@ -118,7 +118,7 @@ I Guerrieri-Ladri ottengono un bonus di +2 per tutti i tiri salvezza contro mort
 
 > **Suggerimento:** Questi non sono cumulativi, il tiro salvezza contro una trappola velenosa è sempre solamente +2.
 
-### Il Ladro-Illusionista
+### Ladro-Illusionista
 
 Gli gnomi possono avanzare come multiclasse nello stesso modo in cui gli elfi combinano guerriero e mago. Sono limitati all'8° livello.
 
