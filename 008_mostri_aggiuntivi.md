@@ -738,7 +738,7 @@ Per aiutarvi a determinare i Dadi Vita Equivalenti (DVE), la tabella qui sotto p
 | Paralisi, ingoia interi, immobilizza i nemici (ragnatela, ecc.)            | +1 DVE          |
 | Pietrificazione, veleno o magia della morte                                | +2 DVE          |
 | Rigenera                                                                   | +1 DVE          |
-| Non-morti (soggetti all'esilio ma immuni al sonno, al fascino, alla presa) | +0 DVE          |
+| Non-morti (soggetti all'esilio ma immuni al sonno, al fascino, al blocco)  | +0 DVE          |
 | Usa un potere magico di livello 3 equivalente o superiore                  | +2 DVE          |
 | Usa più incantesimi di livello 2 o inferiore                               | +1 DVE          |
 | Usa incantesimi multipli di livello 3 o superiore                          | +2 DVE          |
