@@ -334,7 +334,7 @@ I Monaci possono cadere da grandi altezze senza subire alcun danno. Inoltre, il 
 
 Un Monaco di nono livello o di livello superiore può chiamarsi Maestro e addestrare gli altri. 
 
-Altri adepti e maestri itineranti possono visitare il Monaco quando si trova in una città o in altre aree civilizzate. Alcuni adepti possono unirsi al Monaco, i maestri possono condividere saggezza e voci.
+Altri adepti e maestri itineranti possono visitare il Monaco quando si trova in una città o in altre aree civilizzate. Alcuni adepti potrebbero unirsi al monaco, i maestri potrebbero condividere sapienza e dicerie.
 
 #### Bonus di esperienza per la Saggezza
 
