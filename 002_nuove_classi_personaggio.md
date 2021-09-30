@@ -1,6 +1,6 @@
 # Capitolo 2: Nuove Classi Personaggio
 
-## Assassino
+## L'Assassino
 
 Gli Assassini sono sicari a pagamento con abilità di sotterfugio e omicidio. Eccellono nell'uso del veleno e possono ricevere cospicue ricompense per i loro servizi.
 
@@ -78,7 +78,7 @@ L'uso del veleno è deplorato in una società civilizzata. **Ogni volta che l'As
 
 L'Assassino può tentare di usare Veleno di nascosto: l'abilità Assassinio può anche essere usata per impedire ai compagni di guadagnare Disgusto quando si usa il Veleno (questo è un tiro separato dal tiro per assassinare un bersaglio). Tuttavia, l'avvelenamento segreto è ancora più inquietante per i compagni, quindi se questo stratagemma fallisce gli altri avventurieri guadagnano 2 punti Disgusto.
 
-## Bardo
+## Il Bardo
 
 Menestrelli, artisti, poeti... i Bardi hanno molti nomi. Li incontrerete nella maggior parte delle taverne dove cantano gesta di potenti uccisori di draghi e di terre mistiche oltre l'orizzonte conosciuto.
 
@@ -127,7 +127,7 @@ Un Bardo di nono livello o superiore può scrivere un libro che racconti le legg
 
 Il Carisma è l'attributo principale dei Bardi, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
 
-## Cacciatore
+## Il Cacciatore
 
 A differenza dei combattenti e dei Paladini, i Cacciatori non passano il loro tempo a padroneggiare le armi, le arti marziali o a cercare la gloria. Invece, questi eroi studiano la vita e la biologia dei mostri... per trovare un modo per ucciderli il più velocemente possibile. I Cacciatori preferiscono seguire le loro prede e combattere i nemici usando armi a distanza o lunghe.
 
@@ -187,7 +187,7 @@ I Cacciatori viaggiano per il mondo e sono rispettati da tutti. Le gilde e i nob
 
 La Destrezza è l'attributo principale dei Cacciatori, il che significa che un punteggio di Destrezza di 15+ garantisce un ulteriore 5% di esperienza.
 
-## Druido
+## Il Druido
 
 A differenza dei chierici o maghi, i druidi non prendono il loro potere dagli dei o dalle scritture mistiche. I druidi adorano la natura e l'ordine naturale delle cose. 
 
@@ -245,7 +245,7 @@ Dopo essere diventato un custode, il boschetto attira molte creature fantastiche
 
 La saggezza è l'attributo principale dei druidi, il che significa che un punteggio di saggezza di 15+ garantisce un ulteriore 5% di esperienza
 
-## Illusionista
+## L'Illusionista
 
 Gli Illusionisti sono incantatori specializzati in illusioni e controllo della mente. Questo garantisce loro accesso a più incantesimi rispetto ai normali maghi, ma molti dei loro incantesimi possono essere visti come semplici illusioni.
 
@@ -291,7 +291,7 @@ Gli Illusionisti ottengono un bonus di +2 contro illusioni o inganni.
 
 Al nono livello, un Illusionista può costruire un eremo nascosto, spesso celato da illusioni permanenti o ai confini della terra delle fate. Il personaggio può scegliere di attrarre un seguito di apprendisti e guardie che possono includere creature fatate (Driadi, Gnomi, Sidhe) a discrezione dell'Arbitro.
 
-## Monaco
+## Il Monaco
 
 I Monaci sono artisti marziali che lottano per la perfezione corporea e spirituale. Preferiscono combattere disarmati, dando più valore alla velocità che alla forza bruta. 
 
@@ -340,7 +340,7 @@ Altri adepti e maestri itineranti possono visitare il Monaco quando si trova in 
 
 La saggezza è l'attributo principale dei Monaci, il che significa che un punteggio di saggezza di 15+ garantisce un 5% di esperienza aggiuntiva.
 
-## Paladino
+## Il Paladino
 
 I Paladini sono santi cavalieri asceti della legge e della virtù. I combattenti possono combattere per il gusto di farlo, i Paladini invece seguono un codice rigoroso — ogni loro colpo di spada ha un significato e una conseguenza. I Paladini sono guerrieri mistici che sono la rovina di tutta la tirannia e del male. Molti Paladini servono anche un dio legale.
 
@@ -392,7 +392,7 @@ Un Paladino di decimo livello diventa un campione del bene. A questo livello il 
 
 Il Carisma è l'attributo principale dei Paladini, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
 
-## Ranger
+## Il Ranger
 
 I Ranger sono uomini di frontiera ed esploratori che proteggono la gente dei regni pacifici dai pericoli delle terre selvagge. I Ranger sono in sintonia con la natura proprio come i Paladini servono le loro divinità legali. I Ranger devono essere sempre Legali, anche se i bruti caotici (Anti-Ranger) esistono e possono essere creati se l'Arbitro è d'accordo.
 
