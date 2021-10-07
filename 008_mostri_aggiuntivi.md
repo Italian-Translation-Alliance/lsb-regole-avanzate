@@ -25,18 +25,18 @@ Di seguito sono presentati tutti i mostri aggiuntivi in ordine alfabetico. Dove 
 
 *Classe Armatura*: 9 [10]  
 *Dadi Vita*: 2  
-*Attacchi*: Arma (1d6+1) 
-*Speciale*: Poteri mentali (vedi sotto) 
+*Attacchi*: Arma (1d6+1)  
+*Speciale*: Poteri mentali (vedi sotto)  
 *Movimento*: 12   
 *DVE/PE*: 4/120
 
 Gli androidi sono uomini artificiali. Spesso hanno qualità superiori come la salute, la grazia, la bellezza o l'educazione, ma sono altrimenti indistinguibili se non per il colore del loro sangue. Alcuni individui possiedono poteri mentali equivalenti all'uso della magia fino al 4° livello d'esperienza (si tira un dado a sei facce e si sottrae 2 per ogni androide: un risultato inferiore a 1 indica che non ci sono poteri mentali tangibili); altrimenti, funzionano come gli uomini comuni.
 
-## Calamaro, Gigante
+### Calamaro, Gigante
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 6  
-*Attacchi*: Tentacoli (vedi sotto) 
+*Attacchi*: Tentacoli (vedi sotto)  
 *Speciale*: Nube d'inchiostro (vedi sotto)   
 *Movimento*: 12  
 *DVE/PE*: 7/600
@@ -47,7 +47,7 @@ I calamari giganti sono voraci predatori delle profondità marine che occasional
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1  
-*Attacchi*: Artigli/morso (1d6-1) 
+*Attacchi*: Artigli/morso (1d6-1)  
 *Speciale*: Nessuno   
 *Movimento*: 15  
 *DVE/PE*: 1/15
@@ -102,7 +102,7 @@ I cinghiali giganti sono simili ai normali cinghiali eccetto per la loro grande 
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 3  
-*Attacchi*: Fauci (1d6+2) 
+*Attacchi*: Fauci (1d6+2)  
 *Speciale*: Vedi sotto   
 *Movimento*: 9/15  
 *DVE/PE*: 4/120
@@ -113,7 +113,7 @@ I coccodrilli sono rettili voraci che si trovano nei fiumi e nelle paludi delle 
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 7  
-*Attacchi*: Fauci (2d6) 
+*Attacchi*: Fauci (2d6)  
 *Speciale*: Vedi sotto   
 *Movimento*: 9/15  
 *DVE/PE*: 8/800
@@ -124,7 +124,7 @@ I coccodrilli giganti sono tre volte più grandi dei loro cugini ordinari, ma pe
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 3+3  
-*Attacchi*: Arma (1d6+2) 
+*Attacchi*: Arma (1d6+2)  
 *Speciale*: Vedi sotto   
 *Movimento*: 9  
 *DVE/PE*: 5/240
@@ -162,8 +162,8 @@ I Deinonychus comprendono tutti i carnivori relativamente piccoli che cacciano i
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 14  
-*Attacchi*: Pinne, fauci (3d6) 
-*Speciale*: Vedi sotto   
+*Attacchi*: Pinne, fauci (3d6)  
+*Speciale*: Vedi sotto  
 *Movimento*: 3/15  
 *DVE/PE*: 15/2.900
 
@@ -184,8 +184,8 @@ Gli pterodattili sono rettili volanti di dimensioni umane e anche più grandi ch
 
 *Classe Armatura*: 2 [17], 5 [/14]  
 *Dadi Vita*: 8  
-*Attacchi*: Coda (2d6/3d6 vedi sotto) 
-*Speciale*: Vedi sotto   
+*Attacchi*: Coda (2d6/3d6 vedi sotto)  
+*Speciale*: Vedi sotto  
 *Movimento*: 6  
 *DVE/PE*: 8/800
 
@@ -195,8 +195,8 @@ Gli Stegosauri sono grandi erbivori lunghi fino a 30 piedi e alti fino a 10 pied
 
 *Classe Armatura*: 2 [17], 5 [/14]  
 *Dadi Vita*: 16  
-*Attacchi*: Corna (2d6) 
-*Speciale*: Vedi sotto   
+*Attacchi*: Corna (2d6)  
+*Speciale*: Vedi sotto  
 *Movimento*: 9  
 *DVE/PE*: 16/3.200
 
@@ -206,9 +206,9 @@ I Triceratopi sono enormi, aggressivi erbivori che abbatteranno qualsiasi minacc
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 20  
-*Attacchi*: Zanne (4d6) 
-*Speciale*: Vedi sotto   
-*Movimento*: 15   
+*Attacchi*: Zanne (4d6)  
+*Speciale*: Vedi sotto  
+*Movimento*: 15  
 *DVE/PE*: 22/5.000
 
 I Tyrannosaurus Rex sono enormi lucertole carnivore e predatori davvero temibili. Sono alti fino a 20 piedi e lunghi 40 piedi e possono pesare fino a 7 tonnellate. Le mascelle contengono decine di zanne simili a pugnali e ogni colpo provoca 4-24 punti di danno. Ad ogni tiro di attacco che supera di 4 o più il numero richiesto per colpire, o che comunque è un 20, ingoia un bersaglio di dimensioni umane.
@@ -218,7 +218,7 @@ I Tyrannosaurus Rex sono enormi lucertole carnivore e predatori davvero temibili
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 2  
 *Attacchi*: Morso  
-*Speciale*: Vedi sotto   
+*Speciale*: Vedi sotto  
 *Movimento*: 15  
 *DVE/PE*: 2/30
 
@@ -229,7 +229,7 @@ Le donnole giganti sono astuti cacciatori abili a muoversi in branchi agguerriti
 *Classe Armatura*: 3 [16]  
 *Dadi Vita*: 2  
 *Attacchi*: Fauci  
-*Speciale*: Vedi sotto   
+*Speciale*: Vedi sotto  
 *Movimento*: 12  
 *DVE/PE*: 2/30
 
@@ -239,8 +239,8 @@ Lunghe 2-3 piedi. Sono industriose scavatrici e raccoglitrici che si presentano 
 
 *Classe Armatura*: 3 [16]  
 *Dadi Vita*: 3  
-*Attacchi*: Chele (due attacchi) 
-*Speciale*: Nessuno   
+*Attacchi*: Chele (due attacchi)  
+*Speciale*: Nessuno  
 *Movimento*: 6  
 *DVE/PE*: 4/120
 
@@ -250,7 +250,7 @@ I granchi giganti si trovano sott'acqua, negli estuari costieri e nelle paludi. 
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1  
-*Attacchi*: Arma (1d6-1) 
+*Attacchi*: Arma (1d6-1)  
 *Speciale*: Vedi sotto   
 *Movimento*: 9  
 *DVE/PE*: 1/15
@@ -276,8 +276,8 @@ Se si arriva a combattere, lo juggernaut infligge uno schiacciamento di 5-30 pun
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 5+2  
-*Attacchi*: Fauci, artigli (1d6+1/2d6) 
-*Speciale*: Nessuno   
+*Attacchi*: Fauci, artigli (1d6+1/2d6)  
+*Speciale*: Nessuno  
 *Movimento*: 12  
 *DVE/PE*: 6/400
 
@@ -287,8 +287,8 @@ I leoni sono i grandi felini delle pianure. Sono presenti in climi che vanno da 
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 6+2  
-*Attacchi*: Fauci, artigli (1d6+2/2d6+2) 
-*Speciale*: Vedi sotto   
+*Attacchi*: Fauci, artigli (1d6+2/2d6+2)  
+*Speciale*: Vedi sotto  
 *Movimento*: 12  
 *DVE/PE*: 7/600
 
@@ -342,7 +342,7 @@ I mastodonti sono proto-elefanti che si incontrano nelle pianure aperte in quals
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1-1  
-*Attacchi*: Arma (1d6-1) 
+*Attacchi*: Arma (1d6-1)  
 *Speciale*: Vedi sotto   
 *Movimento*: 6/12  
 *DVE/PE*: 2/30
@@ -355,7 +355,7 @@ I Nixie si armano di pugnali e giavellotti. La loro tana sarà un'enclave sottom
 
 *Classe Armatura*: 6 [13]  
 *Dadi Vita*: 5+5  
-*Attacchi*: Zampe (1d6+2/2d6+2) 
+*Attacchi*: Zampe (1d6+2/2d6+2)  
 *Speciale*: Nessuno   
 *Movimento*: 12  
 *DVE/PE*: 6/400
@@ -377,7 +377,7 @@ Gli orsi delle caverne sono enormi orsi carnivori che hanno sempre fame. Hanno u
 
 *Classe Armatura*: 7  
 *Dadi Vita*: 4  
-*Attacchi*: Tentacoli (6d6 vedi sotto)
+*Attacchi*: Tentacoli (6d6 vedi sotto)  
 *Speciale*: Vedi sotto   
 *Movimento*: -/9  
 *DVE/PE*: 4/120
@@ -388,7 +388,7 @@ Le piovre giganti sono intelligenti e si annidano nei relitti e nelle grotte pre
 
 *Classe Armatura*: 8 [11]  
 *Dadi Vita*: ½  
-*Attacchi*: Morso (1d6-1) 
+*Attacchi*: Morso (1d6-1)  
 *Speciale*: Nessuno   
 *Movimento*: 3/12  
 *DVE/PE*: <1/10
@@ -432,9 +432,9 @@ I ragni, giganti e grandi, sono comuni nei sotterranei. I ragni grandi hanno le 
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: ½  
-*Attacchi*: Morso (vedi sotto) 
+*Attacchi*: Morso (vedi sotto)  
 *Speciale*: Ragnatela   
-*Movimento*: 12/6 
+*Movimento*: 12/6  
 *DVE/PE*: 2/30
 
 I ratti giganti sono una vera e propria piaga del sottosuolo, infilandosi in piccole fessure e gallerie nella terra e nei manufatti in pietra. Causano solo 1-3 punti di danno, ma ogni colpo può trasmettere una malattia debilitante agli umanoidi che non riescono a salvarsi dal veleno a +4 sul dado (un singolo tiro salvezza è richiesto per ogni incontro). A meno che non siano costretti a combattere da un vampiro o da un licantropo, hanno -2 ai tiri di morale e fuggono dal fuoco.
@@ -443,7 +443,7 @@ I ratti giganti sono una vera e propria piaga del sottosuolo, infilandosi in pic
 
 *Classe Armatura*: 5 [14]  
 *Dadi Vita*: 10  
-*Attacchi*: Carica (2d6+2) 
+*Attacchi*: Carica (2d6+2)  
 *Speciale*: Nessuno   
 *Movimento*: 12  
 *DVE/PE*: 11/1.700
@@ -603,7 +603,7 @@ Le tigri dai denti a sciabola sono i grandi felini del Pliocene, capaci di cacci
 
 *Classe Armatura*: 2 [17]  
 *Dadi Vita*: 21  
-*Attacchi*: Arma (3d6+3) 
+*Attacchi*: Arma (3d6+3)  
 *Speciale*: Vedi sotto   
 *Movimento*: 18  
 *DVE/PE*: 23/5.300
@@ -614,7 +614,7 @@ Un Titano è un gigante molto bello e civilizzato. Sono intelligenti almeno quan
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 12  
-*Attacchi*: Carica (3d6) 
+*Attacchi*: Carica (3d6)  
 *Speciale*: Vedi sotto   
 *Movimento*: 12  
 *DVE/PE*: 13/2.300
