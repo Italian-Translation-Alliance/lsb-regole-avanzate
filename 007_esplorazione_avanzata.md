@@ -257,12 +257,12 @@ L'Arbitro può usare le seguenti tabelle per generare regioni oceaniche per la n
 | Tiro 2d6 | Mare casuale adiacente all'esagono di tipo noto |          |          |         |         |          |
 |----------|-------------------------------------------------|----------|----------|---------|---------|----------|
 |          | Terreno                                         | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
-| 2        | Isola                                           | Isola    | Oceano   | Oceano  | Scoglio |          |
+| 2        | Isola                                           | Isola    | Oceano   | Oceano  | Scoglio | Scoglio  |
 | 3        | Isola                                           | Oceano   | Scoglio  | Oceano  | Scoglio | Tempesta |
 | 4        | Oceano                                          | Oceano   | Costa    | Isola   | Scoglio | Tempesta |
 | 5        | Oceano                                          | Scoglio  | Costa    | Scoglio | Isola   | Tempesta |
 | 6        | Costa                                           | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
-| 7        | Scoglio                                         | Aperta   | Aperta   | Isola   | Costa   |          |
+| 7        | Scoglio                                         | Aperta   | Aperta   | Isola   | Costa   | Costa |
 | 8        | Costa                                           | Oceano   | Costa    | Scoglio | Isola   | Tempesta |
 | 9        | Oceano                                          | Costa    | Costa    | Scoglio | Isola   | Tempesta |
 | 10       | Oceano                                          | Oceano   | Costa    | Costa   | Isola   | Tempesta |
