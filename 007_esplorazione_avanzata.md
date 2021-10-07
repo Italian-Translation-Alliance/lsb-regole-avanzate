@@ -419,12 +419,12 @@ L'Arbitro può usare le seguenti tabelle per generare regioni in cima alle nuvol
 | Tiro 2d6 | Regione area casuale adiacente all'esagono di tipo noto |          |          |          |          |        |
 |----------|----------------------------------------------------|----------|----------|----------|----------|--------|
 |          | Terreno                                            | Aria   | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
-| 2        | Nube inconsistente                                            | Nube inconsistente  | Aria   | Aria   | Montagna fluttuante \* |        |
+| 2        | Nube inconsistente                                            | Nube inconsistente  | Aria   | Aria   | Montagna fluttuante \* |  Montagna fluttuante \* |
 | 3        | Nube inconsistente                                            | Aria   | Montagna fluttuante \* | Aria   | Montagna fluttuante \* | Tempesta |
 | 4        | Aria                                             | Aria   | Nube solida    | Nube inconsistente  | Montagna fluttuante \* | Tempesta |
 | 5        | Aria                                             | Montagna fluttuante \* | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
 | 6        | Nube solida                                              | Aria   | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
-| 7        | Montagna fluttuante \*                                           | Aperta   | Aperta   | Nube inconsistente  | Nube solida    |        |
+| 7        | Montagna fluttuante \*                                           | Aperta   | Aperta   | Nube inconsistente  | Nube solida    | Nube solida |
 | 8        | Nube solida                                              | Aria   | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
 | 9        | Aria                                             | Nube solida    | Nube solida    | Montagna fluttuante \* | Nube inconsistente  | Tempesta |
 | 10       | Aria                                             | Aria   | Nube solida    | Nube solida    | Nube inconsistente  | Tempesta |
