@@ -336,13 +336,13 @@ In mare la forza e la direzione del vento dovrebbero essere determinate ogni gio
 
 #### Tabella 24: Meteo e velocità della nave
 
-| 2-12  | Vento        | Vela             | Canottaggio      |
-|-------|--------------|------------------|------------------|
-| 2-3   | Calma piatta | Niente vela      | Velocità normale |
-| 4-7   | Moderato     | ½ velocità       | Velocità normale |
-| 8-9   | Fresco       | Velocità normale | Velocità normale |
-| 10-11 | Forte        | +6" (1 esagono)  | Velocità normale |
-| 12    | Tempesta     | Speciale         | Speciale         |
+| Tiro 2d6   | Vento        | Vela             | Canottaggio      |
+|------------|--------------|------------------|------------------|
+| 2-3        | Calma piatta | Niente vela      | Velocità normale |
+| 4-7        | Moderato     | ½ velocità       | Velocità normale |
+| 8-9        | Fresco       | Velocità normale | Velocità normale |
+| 10-11      | Forte        | +6" (1 esagono)  | Velocità normale |
+| 12         | Tempesta     | Speciale         | Speciale         |
 
 #### Venti forti
 In mare aperto barche, zattere e galee si capovolgono in caso di vento forte con un tiro di 1-2 su 1d6 ad ogni turno.
