@@ -73,7 +73,7 @@ Tutti i viaggiatori hanno bisogno di un giorno intero di riposo dopo sei giorni 
 ### Tempo atmosferico
 Le condizioni atmosferiche dovrebbero essere determinate ogni giorno. Se il giorno precedente ha fatto caldo si tira 1d6 e si aggiunge 1. Se il giorno precedente ha piovuto si tira 1d6 e si aggiunge 6. Altrimenti, tirate due dadi a sei facce per determinare le condizioni del tempo giornaliero.
 
-#### Tabella 18: Meteo
+#### Tabella 18: Tempo Atmosferico
 
 | Tiro 2d6 | Meteo           |
 |----------|-----------------|
@@ -334,7 +334,7 @@ La distanza dall'orizzonte è determinata dall'altezza sul livello del mare. Dal
 ### Tempo atmosferico
 In mare la forza e la direzione del vento dovrebbero essere determinate ogni giorno. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento.
 
-#### Tabella 24: Meteo e velocità della nave
+#### Tabella 24: Tempo Atmosferico e velocità della nave
 
 | Tiro 2d6   | Vento        | Vela             | Canottaggio      |
 |------------|--------------|------------------|------------------|
@@ -493,16 +493,16 @@ Anche se il viaggio via aerea è veloce, è gravemente influenzato dal maltempo.
 
 Le condizioni metereologiche dovrebbero essere determinate dall'Arbitro per ogni giorno di esplorazione aerea. Tirate 1d6 per determinare da quale esagono soffia il vento e 2d6 per determinare la forza del vento. Il viaggio aereo può essere pericoloso con vento forte e tempeste; i viaggiatori rischiano di essere spinti contro ostacoli, colpiti da fulmini o detriti volanti, e così via.
 
-#### Tabella 29: Meteo e velocità di volo
+#### Tabella 29: Tempo Atmosferico e velocità di volo
 
-| 2-12  | Vento        | Velocità di volo |                  |
-|-------|--------------|------------------|------------------|
-|       |              | Sopravento       | Altrimenti       |
-| 2-3   | Calma piatta | Velocità normale | Velocità normale |
-| 4-7   | Moderato     | Velocità normale | ¾ velocità       |
-| 8-9   | Fresco       | +6" (1 esagono)  | ½ velocità       |
-| 10-11 | Forte        | +12" (2 esagoni) | ¼ di velocità    |
-| 12    | Tempesta     | Speciale         | Speciale         |
+| Tiro 2d6 | Vento        | Velocità di volo |                  |
+|----------|--------------|------------------|------------------|
+|          |              | Sopravento       | Altrimenti       |
+| 2-3      | Calma piatta | Velocità normale | Velocità normale |
+| 4-7      | Moderato     | Velocità normale | ¾ velocità       |
+| 8-9      | Fresco       | +6" (1 esagono)  | ½ velocità       |
+| 10-11    | Forte        | +12" (2 esagoni) | ¼ di velocità    |
+| 12       | Tempesta     | Speciale         | Speciale         |
 
 **Venti forti** Le creature volanti di tipo normale, i tappeti volanti, i manici di scopa volanti e simili si schiantano in caso di vento forte con un tiro di 1-2 su 1d6, controllato una volta ogni turno.
 
