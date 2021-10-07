@@ -23,7 +23,7 @@ Queste entrate possono essere usate dal giocatore per aumentare il suo tesoro pe
 
 Di seguito sono riportati i costi delle strutture comuni, anche se qualsiasi variazione di dimensioni dovrebbe adeguare i costi in modo proporzionale.
 
-#### Tabella 31: Strutture
+#### Tabella 32: Strutture
 
 | Struttura        | Costo     |
 |------------------|-----------|
@@ -42,7 +42,7 @@ Di seguito sono riportati i costi delle strutture comuni, anche se qualsiasi var
 | Torre, quadrata  | 4.000 po  |
 | Torre, rotonda   | 10.000 po |
 
-#### Tabella 32: Apparecchiature
+#### Tabella 33: Apparecchiature
 
 | Attrezzatura           | Costo    |
 |------------------------|----------|

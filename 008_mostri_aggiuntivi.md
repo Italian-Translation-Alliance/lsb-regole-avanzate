@@ -717,6 +717,8 @@ Gli zeloti sono fanatici religiosi di tipo caotico. Attaccano a +2 per colpire c
 
 Per aiutarvi a determinare i Dadi Vita Equivalenti (DVE), la tabella qui sotto può essere utile. I DVE determinano il valore dei punti esperienza di un mostro. Per determinare i DVE di un mostro, prendete i suoi Dadi Vita e poi aggiungete punti se il mostro ha abilità speciali che lo rendono più difficile da uccidere o più pericoloso per i personaggi.
 
+#### Tabella 31: Calcolo dei DVE
+
 | Capacità speciali                                                          | Effetto sui DVE |
 |----------------------------------------------------------------------------|-----------------|
 | 4+ attacchi per round (minimo d6 o tiro salvezza ciascuno)                 | +1 DVE          |

@@ -130,7 +130,7 @@ Alcune avventure sono scritte in modo da richiedere in pratica più di un avvent
 ## Infliggere danni
 Quando interpretate i dadi dei danni, non considerate i soliti totali. Invece, considerate ogni dado rispetto alla tabella sottostante. Se avete un bonus al vostro tiro danni, aggiungetelo a un dado a vostra scelta prima di confrontarlo con la tabella.
 
-#### Tabella 33: Riduzione dei danni
+#### Tabella 34: Riduzione dei danni
 
 | Risultato  | Danni subiti     |
 |------------|------------------|
