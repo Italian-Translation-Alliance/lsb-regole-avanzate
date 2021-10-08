@@ -397,9 +397,9 @@ La seguente tabella può essere utilizzata per determinare quali dispositivi di 
 | 7     | Mezz'Orco | 29-37 | Mago                |     |         |
 | 8-10  | Halfling  | 38    | Monaco              |     |         |
 | 11-20 | Umano     | 39-81 | Nessuno<sup>1</sup> |     |         |
-| 82-85 | Paladino  |       |                     |     |         |
-| 86-90 | Ranger    |       |                     |     |         |
-| 91-00 | Ladro     |       |                     |     |         |
+| 82-85 | Paladino  | 82-85 | Paladino            |     |         |
+| 86-90 | Ranger    | 86-90 | Ranger              |     |         |
+| 91-00 | Ladro     | 91-00 | Ladro               |     |         |
 
 
 <sup>1</sup>Tirare per una professione.
