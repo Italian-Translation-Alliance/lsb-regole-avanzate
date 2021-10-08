@@ -77,7 +77,7 @@ Di seguito sono riportati i costi delle strutture comuni, anche se qualsiasi var
 
 **Edificio** Una struttura a due piani larga 40 piedi e profonda 20 piedi, con soffitta e seminterrato. Le versioni in legno e in pietra sono identiche.
 
-**Fessura per le frecce** Qualsiasi apertura fortificata attraverso la quale possono essere scaricati i proiettili, compresi i fori per gli omicidi e le oliere.
+**Feritoia per le frecce** Qualsiasi apertura fortificata attraverso la quale possono essere scaricati i proiettili, compresi i fori per gli omicidi e le oliere.
 
 **Finestra** Una cornice coperta di vetro per ammettere la luce, fino a 3 piedi quadrati. Può essere aperta per una migliore visibilità.
 
