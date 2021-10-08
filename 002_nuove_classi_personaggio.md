@@ -135,7 +135,7 @@ I Cacciatori non sono solo abili combattenti di supporto - possono anche seguire
 
 #### Tabella 4: Avanzamento del Cacciatore
 
-| Livello | Punti Esperienza | Dadi Vita | Per Colpire 	| Tiro Salvezza | Traccia |
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire 	| Tiro Salvezza | Caccia |
 |:-------:|:----------------:|:---------:|:-----------:	|:-------------:|:-------:|
 |    1    |         0        |     1     |      +0     	|       15      |    2    |
 |    2    |       2.000      |     2     |      +1     	|       14      |    2    |
@@ -154,8 +154,8 @@ I Cacciatori non sono solo abili combattenti di supporto - possono anche seguire
 #### Restrizioni su armi e armature
 I Cacciatori possono usare qualsiasi arma. Non possono indossare armature più pesanti della cotta di maglia, poiché hanno bisogno di mobilità.
 
-#### Traccia
-I Cacciatori hanno una statistica aggiuntiva: le tracce (vedi l'ultima colonna della tabella di avanzamento del Cacciatore). I Cacciatori possono cercare di individuare orme o altri segni di mostri mentre sono nelle Terre Selvagge. Ogni volta che il Cacciatore controlla il terreno vicino, l'Arbitro effettua un tiro segreto di 1d6 e confronta il risultato con il livello attuale di Traccia del Cacciatore. Se il tiro è uguale o inferiore, l'Arbitro informa i giocatori riguardo a quali creature sono state qui recentemente, dove sono andate, chi o cosa sono e quante. Se il tiro fallisce, l'Arbitro fa lo stesso, ma il 50% delle informazioni sono false.
+#### Caccia
+I Cacciatori hanno una statistica aggiuntiva: Caccia (vedi l'ultima colonna della tabella di avanzamento del Cacciatore). I Cacciatori possono cercare di individuare orme o altri segni di mostri mentre sono nelle Terre Selvagge. Ogni volta che il Cacciatore controlla il terreno vicino, l'Arbitro effettua un tiro segreto di 1d6 e confronta il risultato con il livello attuale di Caccia. Se il tiro è uguale o inferiore, l'Arbitro informa i giocatori riguardo a quali creature sono state qui recentemente, dove sono andate, chi o cosa sono e quante. Se il tiro fallisce, l'Arbitro fa lo stesso, ma il 50% delle informazioni sono false.
 
 #### Trofei
 Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere un piccolo trofeo (osso, pelliccia, dente...) dal cadavere di quella creatura. L'Arbitro comunica al Cacciatore in quale categoria rientra il trofeo:
@@ -388,7 +388,7 @@ I Ranger di solito sono Umani, ma a discrezione dell'Arbitro Elfi o Mezzorchi po
 I Ranger possono usare qualsiasi arma ed indossare armature di cuoio o cotte di maglia, ma non l'armatura a piastre che è poco pratica per il loro stile di vita nella natura.
 
 #### Lancio di incantesimi
-I Ranger lanciano incantesimi druidici ma non acquisiscono il potere di lanciare incantesimi raggiungono il 3° livello.
+I Ranger lanciano incantesimi druidici ma non acquisiscono il potere di lanciare incantesimi finché non raggiungono il 3° livello.
 
 #### Sopravvivenza
 I Ranger tirano 1d6 per testare la loro abilità di Sopravvivenza cercando di ottenere il numero prefissato o meno. La Sopravvivenza permette ai Ranger di riconoscere e seguire le tracce nelle terre selvagge. Se tentano di farlo in un dungeon o in città, l'obiettivo è ridotto di -1. Devono effettuare una prova dell'abilità Seguire le tracce se queste attraversano una porta o un fiume. La Sopravvivenza può essere usata anche per cercare cibo per sfamare 1d6 persone, per individuare fosse e trappole nelle Terre Selvagge (ma non nei dungeon) e per identificare erbe e funghi e le loro proprietà.
