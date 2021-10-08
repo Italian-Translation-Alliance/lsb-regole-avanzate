@@ -69,6 +69,8 @@ Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Ja
 - Blondel, Julien Cano, Jean-Luc e Telo, Julien - Elric di Melniboné vol I-IV
 - Druillet, Philippe e Picotto - La Città  Fiore
 - Hipp, Dan - Gyakushu
+- Kannatsuki, Noboru - Goblin Slayer
+- Kui, Ryoko - Dungeon Food
 - Masamune, Shirow - Orion
 - Miyazaki, Hayao - Nausicaa della Valle del Vento
 - Mizuno Ryō - Record of Lodoss War
