@@ -292,7 +292,7 @@ I Monaci di solito viaggiano per la terra in cerca di degni avversari. Ogni Mona
 |    7    |      64.000      |     4     |      +4     |       8       |       5       |
 |    8    |      128.000     |    4+1    |      +4     |       7       |       5       |
 |    9    |      256.000     |     5     |      +5     |       6       |       6       |
-|    10   |      512.000     |    5+1    |      +6     |       5       |       5       |
+|    10   |      512.000     |    5+1    |      +5     |       5       |       6       |
 
 
 ### Abilità del Monaco
