@@ -655,7 +655,7 @@ I briganti sono ladri e briganti ben organizzati. Indossano armature di cuoio, p
 *Movimento*: 12  
 *DVE/PE*: 2/30
 
-I bucanieri sono picconieri e naufraghi che solcano le coste in cerca di facili prelievi da schifi e picchetti. Sono senza armatura e veloci e portano spade o mazze e pugnali come le manosinistre.
+I bucanieri sono picconieri e rifiuti umani che solcano le coste in cerca di facili prelievi da schifi e picchetti. Sono senza armatura e veloci e portano spade o mazze e pugnali come le manosinistre.
 
 ### Umano, Derviscio
 
