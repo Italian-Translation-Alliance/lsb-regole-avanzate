@@ -77,7 +77,7 @@ Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Ja
 - Segrelles, Vicente - il mercenario
 - Thomas, Roy e Russell, Paul Craig - Elric, la città sognante
 - Autori Vari - la Spada selvaggia di Conan
-- Autori Vari - traduzione delle edizioni First Comics di Elric,  Corum (e forse anche Hawkmoon?)
+- Autori Vari - traduzione delle edizioni First Comics di Elric, Corum
 
 ## Videogiochi
 - ADOM Ancient Domains of Mistery
