@@ -1,7 +1,9 @@
 ---
 nav_order: 14
 ---
-# Fonti di ispirazione
+# Appendice: Fonti di Ispirazione
+Il giocatore che voglia approfondire i mondi fantasy creati da autori di media dai quali trarre ispirazione può trovare nelle pagine seguenti una nutrita selezione di letteratura, narrativa, film e videogiochi.
+Ognuna delle opere citate (insieme a innumerevoli altre che ciascun giocatore può portare dal proprio bagaglio culturale) possono essere una fonte di idee, spunti, personaggi e regole alternative, nonché un ottimo modo per trascorre il proprio tempo viaggiando tra vividi mondi di fantasia accompagnati da protagonisti indimenticabili.
 
 ## Letteratura e Narrativa
 
