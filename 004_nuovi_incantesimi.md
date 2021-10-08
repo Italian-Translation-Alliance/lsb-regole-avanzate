@@ -76,7 +76,7 @@ Il danno illusorio fa sì che una creatura con 0 PF sia messa fuori combattiment
 |:----------------------------:|:--------------------------:|
 | Ammaliare le Persone         | Forza Fantasma             |
 | Bloccare le Porte            | Individuare il Caos        |
-| Incanto udibile              | Individuare l'Invisibilità |
+| Illusione Uditiva            | Individuare l'Invisibilità |
 | Individuare la Magia         | Invisibilità               |
 | Leggere le Lingue            | Leggere il Pensiero        |
 | Leggere la Magia             | Localizzare un Oggetto     |
@@ -200,19 +200,19 @@ Questo incantesimo evoca un alleato animale con 4 DV. Il Druido può anche divid
 
 Questo incantesimo conferisce alla persona scelta un'immensa forza - in seguito al lancio la sua massa muscolare strappa i vestiti. Il personaggio riceve inoltre un bonus di +2 a tutti i danni inflitti in mischia e può piegare facilmente le sbarre e sollevare oggetti pesanti.
 
+### Illusione Uditiva
+Livello: I1  
+*Raggio d'azione*: 120'  
+*Durata*: Finché non viene negato o dissipato.
+
+Questo incantesimo crea un'illusione udibile. Può durare fino a un minuto, contenere fino a una dozzina di parole pronunciate, essere forte come la porta di un fienile che sbatte e può ripetersi ogni giorno a una certa ora o ripetersi continuamente.
+
 ### Incantare un animale
 *Livello*: D1  
 *Raggio d'azione*: 120'  
 *Durata*: Finché non viene annullato
 
 Questo incantesimo funziona allo stesso modo dell'incantesimo Ammaliare Persone del Mago, ma colpisce gli animali.
-
-### Incanto udibile
-Livello: I1  
-*Raggio d'azione*: 120'  
-*Durata*: Finché non viene negato o dissipato.
-
-Questo incantesimo crea un'illusione udibile. Può durare fino a un minuto, contenere fino a una dozzina di parole pronunciate, essere forte come la porta di un fienile che sbatte e può ripetersi ogni giorno a una certa ora o ripetersi continuamente.
 
 ### Individuare un animale
 *Livello*: D1  
