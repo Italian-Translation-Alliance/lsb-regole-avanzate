@@ -50,24 +50,26 @@ Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Ja
 - L'amore e il sangue 
 - L'armata Brancaleone
 - I banditi del tempo
+- Bertoldo, Bertoldino e Cacasenno
 - Brancaleone alle crociate
 - Conan il Barbaro
 - Conan il Distruttore
 - Dark Crystal
 - Excalibur
-- Kagemusha, l'ombra del Guerriero
 - Krull
 - Ladyhawke
 - Legend
 - Labyrinth
+- I picari
 - Rashomon
-- Ran
 - I sette samurai
 - Il Signore degli Anelli (trilogia)
 - La storia fantastica
 - Willow
 
 ## Fumetti
+- AAVV - la Spada selvaggia di Conan
+- AAVV - traduzione delle edizioni First Comics di Elric, Corum
 - Araizumi Rui - Slayers
 - Chaykin, Howard e Mignola, Mike - Fafhrd e il Grey Mouser
 - Blondel, Julien Cano, Jean-Luc e Telo, Julien - Elric di Melniboné vol I-IV
@@ -82,8 +84,6 @@ Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Ja
 - Russell, Paul Craig - Elric: Stormbringer
 - Segrelles, Vicente - il mercenario
 - Thomas, Roy e Russell, Paul Craig - Elric, la città sognante
-- Autori Vari - la Spada selvaggia di Conan
-- Autori Vari - traduzione delle edizioni First Comics di Elric, Corum
 
 ## Videogiochi
 - ADOM Ancient Domains of Mistery
