@@ -7,13 +7,14 @@ Ognuna delle opere citate (insieme a innumerevoli altre che ciascun giocatore pu
 
 ## Letteratura e Narrativa
 
+- AAVV - Le Mille e una Notte
+- AAVV - Il mondo dei Ladri vol. I-III
 - Anderson, Poul - Tre cuori e tre leoni, La Spada spezzata, Crociata spaziale
 - Ariosto, Ludovico - Orlando Furioso
 - Basile, Giambattista - Lo cunto de li cunti
 - Boiardo, Matteo Maria - Orlando Innamorato
 - Briggs, Katherine - Fate, gnomi e folletti
 - Calvino, Italo - Il cavaliere inesistente, Il visconte dimezzato, Favole italiane.
-- Day, David - Il bestiario di Tolkien
 - De Camp, Sprague- Il castello d'acciaio, Jorian di Iraz
 - Dumas, Alexandre - I tre moschettieri, il visconte di bragellone, Vent'anni dopo
 - Eco, Umberto - Il nome della Rosa, Baudolino
@@ -39,29 +40,32 @@ Ognuna delle opere citate (insieme a innumerevoli altre che ciascun giocatore pu
 - Silverberg, Robert - Il castello di Lord Valentine, Il Pontifex Valentine, Cronache di Majipoor
 - Smith, Clark Ashton - Zothique, Averoigne, Hyperborea
 Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Jack delle ombre
-- Sturluson, Snorri- Edda
+- Sturluson, Snorri- Edda in prosa
 - Tolkien, J.R.R. - il Silmarilion, lo Hobbit, il Signore degli Anelli, il Cacciatore di draghi
 - Vance, Jack - La Terra Morente, La Saga di Cugel, Rhialto il Meraviglioso, Lyonesse, La perla verde, Madouc
 - Wagner, Karl Edward - Le trame dell'oscurità, La crociata nera, Il guerriero dell'anello, I venti della notte e l'angelo della morte (raccolta Urania Fantasy del 1992)
-- Wolfe, Gene - Il ciclo del Nuovo Sole
-- Autori vari - Il mondo dei Ladri vol. I-III
+- Wolfe, Gene - Il Libro del Nuovo Sole
 
 ## Film
+- L'amore e il sangue 
 - L'armata Brancaleone
+- I banditi del tempo
 - Brancaleone alle crociate
 - Conan il Barbaro
 - Conan il Distruttore
+- Dark Crystal
+- Excalibur
 - Kagemusha, l'ombra del Guerriero
 - Krull
-- Iado
 - Ladyhawke
 - Legend
 - Labyrinth
 - Rashomon
 - Ran
 - I sette samurai
-- Il Signore degli Anelli: La compagnia dell'anello, le due torri, Il ritorno del re
+- Il Signore degli Anelli (trilogia)
 - La storia fantastica
+- Willow
 
 ## Fumetti
 - Araizumi Rui - Slayers
