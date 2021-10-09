@@ -18,7 +18,7 @@ Nel **Capitolo 1** si presenta il "Gioco Vecchia Scuola" e le sue caratteristich
 
 Nei **Capitoli 2, 3 e 4** potrete trovare le nuove classi e razze personaggio e i relativi incantesimi. Vengono infatti introdotti, tra le altre, due nuovi incantatori: il druido (esperto di magia "naturale") e l'illusionista (che come lascia intendere il titolo, utilizza le magie illusorie).
 
-Il **Capitolo 5** contiene alcune regole opzionali di combattimento e introduce il combattimento marittimo e areo.
+Il **Capitolo 5** contiene alcune regole opzionali di combattimento e introduce il combattimento marittimo e aereo.
 
 Il **Capitolo 6** colma una lacuna del regolamento di base: dettaglia il turno di gioco sia per l'esplorazione del Sottomondo che delle Terre Selvagge.
 
