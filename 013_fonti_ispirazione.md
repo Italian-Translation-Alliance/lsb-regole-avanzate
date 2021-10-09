@@ -56,12 +56,12 @@ Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Ja
 - Conan il Distruttore
 - Dark Crystal
 - Excalibur
+- Fire and Ice - Fuoco e ghiaccio
 - Krull
 - Ladyhawke
 - Legend
 - Labyrinth
 - I picari
-- Rashomon
 - I sette samurai
 - Il Signore degli Anelli (trilogia)
 - La storia fantastica
