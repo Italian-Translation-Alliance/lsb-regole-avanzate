@@ -24,7 +24,7 @@ Ognuna delle opere citate (insieme a innumerevoli altre che ciascun giocatore pu
 - Garrett, Randall - Lord Darcy
 - Howard, Robert Erwin - Conan Il Cimmero, Kull di Valusia, Ciclo Celta
 - Kroeber Le Guin, Ursula - Terramare
-- Leiber, Fritz - Il mondo di Nehwon, Le spade di Lankhmar, Spade tra i ghiacci, Il cavaliere e il fante di Spade, Nostra Signora delle Tenebre, Il Grande Tempi
+- Leiber, Fritz - Il mondo di Nehwon, Le spade di Lankhmar, Spade tra i ghiacci, Il cavaliere e il fante di Spade, Nostra Signora delle Tenebre, Il Grande Tempo
 - Lovecraft Howard Phillips - Tutti i racconti
 - Lonnrot, Elias ( a cura di) - Kalevala
 - Lynch, Scott - Gli inganni di Locke Lamora
@@ -39,12 +39,12 @@ Ognuna delle opere citate (insieme a innumerevoli altre che ciascun giocatore pu
 - Scott Card, Orson- I giorni del cervo
 - Silverberg, Robert - Il castello di Lord Valentine, Il Pontifex Valentine, Cronache di Majipoor
 - Smith, Clark Ashton - Zothique, Averoigne, Hyperborea
-Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Jack delle ombre
 - Sturluson, Snorri- Edda in prosa
 - Tolkien, J.R.R. - il Silmarilion, lo Hobbit, il Signore degli Anelli, il Cacciatore di draghi
 - Vance, Jack - La Terra Morente, La Saga di Cugel, Rhialto il Meraviglioso, Lyonesse, La perla verde, Madouc
 - Wagner, Karl Edward - Le trame dell'oscurità, La crociata nera, Il guerriero dell'anello, I venti della notte e l'angelo della morte (raccolta Urania Fantasy del 1992)
 - Wolfe, Gene - Il Libro del Nuovo Sole
+- Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Jack delle ombre
 
 ## Film
 - L'amore e il sangue 
@@ -53,10 +53,10 @@ Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Ja
 - Bertoldo, Bertoldino e Cacasenno
 - Brancaleone alle crociate
 - Conan il Barbaro
-- Conan il Distruttore
 - Dark Crystal
 - Excalibur
 - Fire and Ice - Fuoco e ghiaccio
+- Heavy Metal
 - Krull
 - Ladyhawke
 - Legend
@@ -68,14 +68,12 @@ Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Ja
 - Willow
 
 ## Fumetti
-- AAVV - la Spada selvaggia di Conan
-- AAVV - traduzione delle edizioni First Comics di Elric, Corum
-- Araizumi Rui - Slayers
 - Chaykin, Howard e Mignola, Mike - Fafhrd e il Grey Mouser
 - Blondel, Julien Cano, Jean-Luc e Telo, Julien - Elric di Melniboné vol I-IV
 - Druillet, Philippe e Picotto - La Città  Fiore
 - Hipp, Dan - Gyakushu
 - Kannatsuki, Noboru - Goblin Slayer
+- Kanzaka, Hajime - Slayers
 - Kui, Ryoko - Dungeon Food
 - Masamune, Shirow - Orion
 - Miyazaki, Hayao - Nausicaa della Valle del Vento
@@ -87,11 +85,13 @@ Zelazny, Roger - il ciclo di Ambra, Dilvish il Maledetto, Terra di mutazioni, Ja
 
 ## Videogiochi
 - ADOM Ancient Domains of Mistery
-- BELOW 
+- BELOW
+- Dark Souls
 - Darkest Dungeon
 - Demon’s Souls
-- Dark Souls
+- Divinity: Original Sin 
 - Dwarf Fortress 
+- Legend of Grimrock
 - The Elder Scrolls III: Morrowind
 - Ultima Underworld I-II
 - Ultima VII
