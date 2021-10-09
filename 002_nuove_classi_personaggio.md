@@ -52,7 +52,7 @@ Se il tiro ha successo, il piano funziona come previsto. La vittima deve ancora 
 
 L'abilità Assassinare può anche essere usata per individuare o rimuovere una trappola. Se il tiro per Assassinare ha successo quando vengono attivate, le trappole create dagli Assassini possono eseguire **una** delle seguenti azioni: infliggere 1d6 danni, costringere il bersaglio a tirare salvezza contro Veleno per non morire o causare la cattura del bersaglio per 1d6 round.
 
-> **Suggerimento:** L'Arbitro dovrebbe tirare un d6 e confrontarlo con l'abilità Assassinare e informare il giocatore se la trappola è stata piazzata con successo dopo che è stata attivata. 
+> **Suggerimento:** L'Arbitro dovrebbe tirare 1d6 e confrontarlo con l'abilità Assassinare e informare il giocatore se la trappola è stata piazzata con successo dopo che è stata attivata. 
 
 Gli Assassini vengono pagati per missioni di successo e possono guadagnare PE pari al prezzo invece del livello/dadi vita del bersaglio. Tuttavia, sono tenuti a donare metà dell'oro che guadagnano alla propria gilda.
 
@@ -70,7 +70,7 @@ Al 9° e 10° livello, il Maestro Assassino di solito invia in missione Assassin
 ### Veleno
 Gli Assassini possono acquisire e usare il Veleno. Una dose di Veleno costa 50po. Il veleno può essere messo nel cibo o nelle bevande o applicato ad un'arma affilata (incluse frecce e quadrelli). Se un bersaglio subisce qualsiasi danno da un'arma avvelenata, deve salvare contro Veleno o morire. Il Veleno viene rimosso dall'arma, che il bersaglio muoia o meno.
 
-> **Suggerimento:** il veleno rimane "fresco" su un'arma per un turno di dieci minuti, quindi l'Assassino deve usarlo subito dopo averlo applicato. Non portate in giro armi trattate preventivamente con il velo "nel caso che...".
+> **Suggerimento:** il veleno rimane "fresco" su un'arma per un turno di dieci minuti, quindi l'Assassino deve usarlo subito dopo averlo applicato. Non portate in giro armi trattate preventivamente con il veleno "nel caso che...".
 
 Non-morti, golem, demoni, elementali e creature fatate sono invulnerabili a Veleno.
 
@@ -117,7 +117,7 @@ Ogni Bardo ha uno strumento musicale -- descrivetelo all'Arbitro. In qualsiasi m
 Non potete incantare non morti, demoni e mostri che non possono udire.
 
 #### Sapienza
-I Bardi hanno una profonda conoscenza di diverse cose - leggende, magia e creature. Ogni qualvolta il Bardo trova qualcosa di strano (per esempio un oggetto magico non identificato o un luogo sconosciuto) l'Arbitro tira un d6. Se il risultato del tiro è uguale o inferiore al punteggio dell'abilità di Sapienza del Bardo, l'Arbitro rivela informazioni utili sull'oggetto o sul luogo. Altrimenti, l'Arbitro comunica al Bardo una bugia.
+I Bardi hanno una profonda conoscenza di diverse cose - leggende, magia e creature. Ogni qualvolta il Bardo trova qualcosa di strano (per esempio un oggetto magico non identificato o un luogo sconosciuto) l'Arbitro tira 1d6. Se il risultato del tiro è uguale o inferiore al punteggio dell'abilità di Sapienza del Bardo, l'Arbitro rivela informazioni utili sull'oggetto o sul luogo. Altrimenti, l'Arbitro comunica al Bardo una bugia.
 
 #### Tiro salvezza
 I Bardi ricevono un bonus di +2 ai tiri salvezza contro gli incantesimi (ad esempio, quelli effettuati dalle driadi).
@@ -168,7 +168,7 @@ Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere u
 - Animale (ragni, cinghiali, uccelli)
 - Sottomondo (trogloditi, melme)
 
-Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto venti trofei che rientrano in una categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). I Cacciatori ricevono un bonus di danno di +2, quando combattono un mostro di una categoria padroneggiata. I Cacciatori possono avere più titoli.
+Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto venti trofei che rientrano in una  singola categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). I Cacciatori ricevono un bonus di danno di +2, quando combattono un mostro di una categoria padroneggiata. I Cacciatori possono avere più titoli.
 
 #### Tiro salvezza
 I Cacciatori ricevono un bonus di +2 ai tiri salvezza contro il veleno e le illusioni create dalle creature selvatiche.
@@ -345,7 +345,7 @@ I Paladini sono cavalieri ben addestrati, quindi possono usare qualsiasi arma e 
 #### Voti
 I Paladini devono essere sempre legali. Possono mantenere solo le ricchezze sufficienti a mantenere se stessi (e i loro uomini, ai livelli più alti). Qualsiasi ricchezza in eccesso viene donata a istituzioni caritatevoli o religiose.
 
-Finché il Paladino mantiene i suoi voti è immune alla paura e alla magia che potrebbe influenzare la sua mente. Se un Paladino rompe i suoi voti, anche il suo attributo di Orgoglio viene dimezzata.
+Finché il Paladino mantiene i suoi voti è immune alla paura e alla magia che potrebbe influenzare la sua mente. Se un Paladino rompe i suoi voti, anche il suo attributo di Orgoglio viene dimezzato.
 
 #### Orgoglio
 Il Paladino ha un attributo extra -- l'Orgoglio (ultima colonna nella tabella dell'avanzamento). Può spendere i suoi punti Orgoglio (che vengono ripristinati dopo ogni riposo) in due modi:
@@ -394,7 +394,7 @@ I Ranger lanciano incantesimi druidici ma non acquisiscono il potere di lanciare
 I Ranger tirano 1d6 per testare la loro abilità di Sopravvivenza cercando di ottenere il numero prefissato o meno. La Sopravvivenza permette ai Ranger di riconoscere e seguire le tracce nelle terre selvagge. Se tentano di farlo in un dungeon o in città, l'obiettivo è ridotto di -1. Devono effettuare una prova dell'abilità Seguire le tracce se queste attraversano una porta o un fiume. La Sopravvivenza può essere usata anche per cercare cibo per sfamare 1d6 persone, per individuare fosse e trappole nelle Terre Selvagge (ma non nei dungeon) e per identificare erbe e funghi e le loro proprietà.
 
 #### Allerta
-I Ranger sono sorpresi solo il 50% delle volte rispetto al normale (cioè con un tiro di 1 su un d6 piuttosto che 1-2).
+I Ranger sono sorpresi solo il 50% delle volte rispetto al normale (cioè 1 su 6 invece di 1-2 su 6).
 
 #### Tiro salvezza
 I Ranger ottengono un bonus di +2 contro i poteri dei mostri selvaggi (es. animali giganti, piante velenose, creature fatate, licantropi).
