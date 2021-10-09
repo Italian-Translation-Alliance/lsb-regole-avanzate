@@ -410,7 +410,7 @@ La seguente tabella può essere utilizzata per determinare quali dispositivi di 
 |-------|-------------------------|-------|-----------------------|
 | 01-03 | Addestratore di animali | 56-59 | Cacciatore            |
 | 04-05 | Armaiolo                | 60-62 | Lapidario/gioielliere |
-| 06-09 | Panettiere              | 63-66 | Lorimer               |
+| 06-09 | Panettiere              | 63-66 | Stagnaio              |
 | 10-12 | Fabbro                  | 67    | Cartografo            |
 | 13    | Legatore                | 68-69 | Muratore              |
 | 14-16 | Costruttore di archi    | 70-73 | Minatore              |
