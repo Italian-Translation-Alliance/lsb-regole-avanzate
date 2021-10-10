@@ -314,7 +314,7 @@ L'esplorazione via mare è simile all'esplorazione delle terre selvagge, tranne 
 
 **I vascelli a remi**, come le galee e i drakkar, non sono limitati dalla direzione del vento, ma le galee, le zattere e le barche non sono in grado di affrontare le acque profonde dell'oceano aperto. Sono quindi limitate alle acque costiere tranne che con tempo calmo.
 
-**Le navi a vela**, come i mercantili e le navi da guerra, possono navigare rapidamente con il vento in poppa, altrimenti devono procedere con una serie di virate e contro-virate a velocità ridotta. Viaggiare direttamente nel contro-vento è generalmente impossibile.
+**Le navi a vela**, come i mercantili e le navi da guerra, possono navigare rapidamente con il vento in poppa, altrimenti devono procedere con una serie di virate e contro-virate a velocità ridotta. Viaggiare direttamente contro-vento è generalmente impossibile.
 
 I tassi di movimento per le navi da guerra presuppongono un equipaggio completo e ben addestrato. Equipaggi scadenti o incompleti possono raggiungere la metà della velocità indicata.
 
@@ -475,11 +475,11 @@ L'esplorazione aerea mantiene la scala di tempo dell'esplorazione delle Terre Se
 | Roc, adulto      | 42"                | 7                  | 14   |
 | Roc, antico      | 36"                | 6                  | 12   |
 
-Ci sono due modi di viaggiare sull'ala: bassa e alta quota.
+Ci sono due modi di viaggiare volando: a bassa e ad alta quota.
 
-A bassa quota è possibile osservare o rimanere in contatto con l'attività a terra, compresi i combattimenti a terra. Tuttavia, a bassa quota i piloti devono tenere conto dei pericoli e delle turbolenze e devono tracciare percorsi intorno, tra o sopra le caratteristiche del terreno.
+A bassa quota è possibile osservare o rimanere in contatto con l'attività a terra, compresi i combattimenti a terra. Tuttavia, a bassa quota i piloti devono tenere conto dei pericoli e delle turbolenze e devono tracciare percorsi intorno, attraverso o sopra le caratteristiche del terreno.
 
-Ad alta quota il progresso non è ostacolato se non dalla necessità di appollaiarsi durante la notte; la velocità di movimento è generalmente doppia rispetto a quella raggiunta a bassa quota.
+Ad alta quota il viaggio non è ostacolato se non dalla necessità di appollaiarsi durante la notte; il tasso di movimento è generalmente doppio rispetto a quella raggiunta a bassa quota.
 
 ### Visibilità
 La distanza dall'orizzonte è relativa all'altitudine. In condizioni di tempo sereno la visibilità è di 2-6 esagoni (fino a 36 miglia) da bassa quota, o 11-16 esagoni (fino a 100 miglia) da una cima di montagna. Tuttavia, condizioni meteorologiche avverse e montagne intermedie limiteranno fortemente la visibilità. Da un'alta quota la visibilità è di 11-16 esagoni (fino a 100 miglia) in condizioni meteorologiche perfette, ma è solitamente limitata dalla copertura nuvolosa.
