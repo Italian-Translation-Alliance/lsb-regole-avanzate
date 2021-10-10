@@ -142,7 +142,7 @@ L'Arbitro può assumere che i 3 esagoni (18 miglia di raggio) intorno ad una roc
 ## Incontri nella Terre Selvagge
 I mostri erranti si incontrano nelle terre selvagge come nel Sottomondo. L'Arbitro dovrebbe controllare una volta al giorno nelle immediate vicinanze di un insediamento amico o di una roccaforte con un tiro di 6 su 1d6 che indica un incontro. Nelle Terre Selvagge l'Arbitro dovrebbe controllare una volta al giorno in terreno aperto o nel deserto o due volte al giorno in boschi, paludi, montagne e terre fluviali. 
 
-L'Arbitro dovrebbe fare un'ulteriore verifica al giorno se i giocatori si sono persi o si trovano ad un ponte o ad una fortezza.
+L'Arbitro dovrebbe fare un'ulteriore verifica al giorno se i giocatori si sono persi o si trovano vicino ad un ponte o ad una fortezza.
 
 Quando viene indicato un incontro, l'Arbitro può determinare il tipo di mostro tirando i dadi sulla tabella degli incontri nella natura appropriata per il tipo di terreno.
 
@@ -312,7 +312,7 @@ Le acque costiere (fino a 3 esagoni da terra) e i fiumi interni navigabili mante
 
 L'esplorazione via mare è simile all'esplorazione delle terre selvagge, tranne per il fatto che i giocatori devono avere un'imbarcazione. Questi sono di due tipi: a remi e a vela.
 
-**I vascelli a remi**, come le galee e i velieri, non sono limitati dalla direzione del vento, ma le galee, le zattere e le barche non sono in grado di affrontare le acque profonde dell'oceano aperto. Sono quindi limitate alle acque costiere tranne che con tempo calmo.
+**I vascelli a remi**, come le galee e i drakkar, non sono limitati dalla direzione del vento, ma le galee, le zattere e le barche non sono in grado di affrontare le acque profonde dell'oceano aperto. Sono quindi limitate alle acque costiere tranne che con tempo calmo.
 
 **Le navi a vela**, come i mercantili e le navi da guerra, possono navigare rapidamente con il vento in poppa, altrimenti devono procedere con una serie di virate e contro-virate a velocità ridotta. Viaggiare direttamente nel contro-vento è generalmente impossibile.
 
@@ -336,7 +336,7 @@ In mare la forza e la direzione del vento dovrebbero essere determinate ogni gio
 
 #### Tabella 24: Tempo Atmosferico e velocità della nave
 
-| Tiro 2d6   | Vento        | Vela             | Canottaggio      |
+| Tiro 2d6   | Vento        | Vela             | Remi             |
 |------------|--------------|------------------|------------------|
 | 2-3        | Calma piatta | Niente vela      | Velocità normale |
 | 4-7        | Moderato     | ½ velocità       | Velocità normale |

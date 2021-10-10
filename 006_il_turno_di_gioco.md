@@ -13,7 +13,7 @@ nav_order: 7
 {:toc}
 </details>
 
-*La Scatola Bianca* è un gioco di avventura e l'attività primaria nelle avventure è l'esplorazione. Anche se le regole per il combattimento coprono una parte rilevante, il gioco tende a concentrarsi più sull'esplorazione che sul combattimento. Che il gruppo stia indagando su un vecchio santuario in rovina, esplorando una miniera di nani abbandonata, attraversando una zona selvaggia sconosciuta, navigando in acque inesplorate o librandosi nei cieli, l'esplorazione è centrale per l'avventura e quindi per il gioco.
+*La Scatola Bianca* è un gioco di avventura e l'attività primaria nelle avventure è l'esplorazione. Anche se le regole per il combattimento coprono una parte rilevante, il gioco tende a concentrarsi più sull'esplorazione che sul combattimento. Che il gruppo stia indagando su un vecchio santuario in rovina, esplorando una miniera dei nani abbandonata, attraversando una zona selvaggia sconosciuta, navigando in acque inesplorate o librandosi nei cieli, l'esplorazione è centrale per l'avventura e quindi per il gioco.
 
 Sebbene l'esplorazione tenda ad essere risolta in modo più sciolto e libero rispetto al combattimento, dove la descrizione e la negoziazione sono centrali e le regole predefinite hanno un ruolo di secondo piano, ci sono comunque alcune procedure standard che aiuteranno l'Arbitro a risolvere queste attività in modo efficiente.
 
