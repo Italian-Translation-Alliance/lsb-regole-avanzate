@@ -348,7 +348,7 @@ Usate la tabella qui sotto per determinare a caso il contenuto di barattoli, vas
 | 25-27 | Uova, esotiche in salamoia | 77-79 | Sale, cristalli         |
 | 28-31 | Viscere, sottaceto         | 80-82 | Semi                    |
 | 32-35 | Occhi, secchi              | 83-85 | Torsolo                 |
-| 36-38 | Grasso/grasso              | 86-88 | Pelle, secca            |
+| 36-38 | Grasso/lardo               | 86-88 | Pelle, secca            |
 | 39-41 | Dita/piedi, secchi         | 89-91 | Bava                    |
 | 42-44 | Petali di fiori, secchi    | 92-94 | Denti                   |
 | 45-47 | Fluido, putrido            | 95-97 | Lingua, sottaceto       |
